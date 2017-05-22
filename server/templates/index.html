@@ -50,10 +50,10 @@
                         {% for item in items %}
                         <div class="border-bottom">
                             <h3>
-                                <a class="title" href="#">{{ item.title }}</a>
+                                <a class="title" href="{{ item.url }}" target="_blank">{{ item.title }}</a>
                             </h3>
                             <h5>
-                                <a class="content" href="#">{{ item.content }}...</a>
+                                <a class="content" href="{{ item.url }}" target="_blank">{{ item.content }}...</a>
                             </h5>
                             <div class="flex-item">
                                 <ul>
@@ -124,10 +124,10 @@
                     result += 
                     '<div class="border-bottom">' +
                         '<h3>' +
-                            '<a class="title" href="#">' + item.title + '</a>' +
+                            '<a class="title" href="' + item.url + '" target="_blank">' + item.title + '</a>' +
                         '</h3>' +
                         '<h5>' +
-                            '<a class="content" href="#">' + item.content + '...</a>' +
+                            '<a class="content" href="' + item.url + '" target="_blank">' + item.content + '...</a>' +
                         '</h5>' +
                         '<div class="flex-item">' +
                             '<ul>' +
