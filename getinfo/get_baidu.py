@@ -18,6 +18,7 @@ dcap["phantomjs.page.settings.userAgent"] = (
 
 news_dict = {}
 driver = webdriver.PhantomJS(executable_path=config.browser_path, desired_capabilities=dcap)
+db = data.MongoPipeline(config.mongo_uri, config.mongo_database)
 
 def get_page(page):
     print("start get page", page)
@@ -51,7 +52,8 @@ def parse_page(index=0):
         item_data['url'] = url
         item_data['content'] = content
         item_data['datetime'] = str(datetime.datetime.now().strftime('%Y-%m-%d ')) + dt
-        save_news(item_data)
+        # save_news(item_data)
+        db.save_item(item_data)
         news_dict[title] = item_data
   
     try:
@@ -82,7 +84,7 @@ def get_info():
         for x in lines:
             if not x: continue
             news_obj = json.loads(x, object_pairs_hook=OrderedDict)
-            news_dict[news_obj['title']] = news_obj    
+            news_dict[news_obj['title']] = news_obj
 
 def save_news(news_json):
     """ 保存信息 """
@@ -91,12 +93,20 @@ def save_news(news_json):
         f.write(txt)
         f.write('\n\n')
 
+def find_info():
+    """ 查找信息 """
+    items = db.find_all()
+    for x in items:
+        news_dict[x['title']] = x
+
 if __name__ == '__main__':
     if not os.path.exists(config.output_path):
         os.makedirs(config.output_path)
-    get_info()
+    # get_info()
+    find_info()
     #访问目标网页地址
     get_page(home_page)
     parse_page()
 
+    db.close()
     driver.close()

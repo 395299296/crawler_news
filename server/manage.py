@@ -2,7 +2,7 @@ import os, sys
 sys.path.append(os.path.abspath(os.path.dirname(__file__)))
 
 from flask_script import Manager, Server
-from controller.app import app
+from main.app import app
 
 manager = Manager(app)
 
