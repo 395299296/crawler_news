@@ -13,6 +13,8 @@ class Items(db.Document):
     url = db.StringField(required=True)
     content = db.StringField(max_length=255, required=True)
     datetime = db.StringField(required=True)
+    catalog = db.StringField(required=False)
+    keywords = db.StringField(required=False)
 
 def get_keywords():
     config_name = os.getenv('config') or 'default'
