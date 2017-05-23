@@ -8,6 +8,7 @@ class Config(object):
     MONGODB_SETTINGS = {'DB': 'News'}
     TEMPLATE_PATH = os.path.join(BASE_DIR, 'templates').replace('\\', '/')
     STATIC_PATH = os.path.join(BASE_DIR, 'static').replace('\\', '/')
+    DATA_PATH = os.path.join(BASE_DIR, '../getinfo/data/')
 
     @staticmethod
     def init_app(app):

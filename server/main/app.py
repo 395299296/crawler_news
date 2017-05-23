@@ -20,11 +20,15 @@ def create_app(config_name):
 
     db.init_app(app)
     models.load_data()
-    
+
     principals.init_app(app)
 
     app.register_blueprint(main)
 
     return app
+
+def tick():
+    from . import models
+    models.add_data()
 
 app = create_app(os.getenv('config') or 'default')
