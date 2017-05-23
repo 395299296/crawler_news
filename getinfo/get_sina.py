@@ -61,34 +61,9 @@ def parse_page(index=0):
         db.save_item(item_data)
         news_dict[title] = item_data
 
-def get_info():
-    """ 读取信息 """
-    output_file = os.path.join(config.output_path, 'baidu.txt')
-    if not os.path.exists(output_file):
-        return None
-
-    with codecs.open(output_file, 'r', encoding='utf-8') as f:
-        txt = f.read()
-        if not txt:
-            return None
-        lines = txt.split('\n\n')
-        for x in lines:
-            if not x: continue
-            news_obj = json.loads(x, object_pairs_hook=OrderedDict)
-            news_dict[news_obj['title']] = news_obj
-
-def save_news(news_json):
-    """ 保存信息 """
-    txt = json.dumps(news_json, ensure_ascii=False, indent=2)
-    with codecs.open(os.path.join(config.output_path, 'baidu.txt'), 'a', encoding='utf-8') as f:
-        f.write(txt)
-        f.write('\n\n')
-
 def find_info():
     """ 查找信息 """
-    days = datetime.timedelta(days=3)
-    startdate = datetime.datetime.now() - days
-    startdate = startdate.strftime('%Y-%m-%d %H:%M')
+    startdate = int(time.time()) - 3600 * 24 * 3
     items = db.find_by_date(startdate)
     for x in items:
         news_dict[x['title']] = x
@@ -96,7 +71,6 @@ def find_info():
 if __name__ == '__main__':
     if not os.path.exists(config.output_path):
         os.makedirs(config.output_path)
-    # get_info()
     find_info()
     #访问目标网页地址
     get_page(home_page)

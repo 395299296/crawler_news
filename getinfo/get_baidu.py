@@ -101,9 +101,7 @@ def save_news(news_json):
 
 def find_info():
     """ 查找信息 """
-    days = datetime.timedelta(days=3)
-    startdate = datetime.datetime.now() - days
-    startdate = startdate.strftime('%Y-%m-%d %H:%M')
+    startdate = int(time.time()) - 3600 * 24 * 3
     items = db.find_by_date(startdate)
     for x in items:
         news_dict[x['title']] = x
