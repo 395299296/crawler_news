@@ -27,3 +27,6 @@ class MongoPipeline(object):
 
     def find_all(self):
         return self.db[self.collection_name].find()
+
+    def find_by_date(self, dt):
+        return self.db[self.collection_name].find({"datetime": {"$gt": dt}})

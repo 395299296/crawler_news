@@ -31,6 +31,8 @@ def get_page(page):
 def parse_page(index=0):
     news_ele = driver.find_element_by_class_name('mod-instantNews')
     news_ele = news_ele.find_elements_by_class_name('item')
+    oneday = datetime.timedelta(days=1)
+    yesterday = datetime.datetime.now() - oneday
     for x in news_ele:
         title_ele = x.find_element_by_tag_name('h3')
         title_ele = title_ele.find_element_by_tag_name('a')
@@ -51,7 +53,7 @@ def parse_page(index=0):
         item_data['title'] = title
         item_data['url'] = url
         item_data['content'] = content
-        item_data['datetime'] = str(datetime.datetime.now().strftime('%Y-%m-%d ')) + dt
+        item_data['datetime'] = yesterday.strftime('%Y-%m-%d ') + dt
         # save_news(item_data)
         db.save_item(item_data)
         news_dict[title] = item_data
@@ -95,7 +97,10 @@ def save_news(news_json):
 
 def find_info():
     """ 查找信息 """
-    items = db.find_all()
+    days = datetime.timedelta(days=3)
+    startdate = datetime.datetime.now() - days
+    startdate = startdate.strftime('%Y-%m-%d %H:%M')
+    items = db.find_by_date(startdate)
     for x in items:
         news_dict[x['title']] = x
 
