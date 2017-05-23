@@ -74,6 +74,7 @@ def parse_page(index=0):
         item_data['catalog'] = catalog
         item_data['content'] = content
         item_data['datetime'] = dt
+        item_data['eventtime'] = int(time.time())
         logger.info(item_data)
         exit()
         db.save_item(item_data)

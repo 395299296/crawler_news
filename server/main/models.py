@@ -15,6 +15,7 @@ class Items(db.Document):
     datetime = db.StringField(required=True)
     catalog = db.StringField(required=False)
     keywords = db.StringField(required=False)
+    eventtime = db.IntField(required=False)
 
 def get_keywords():
     config_name = os.getenv('config') or 'default'
@@ -28,14 +29,14 @@ def load_data():
     global item_dict
     global keywords
     global lastdate
-    data_list = Items.objects.all().order_by('-datetime')
+    data_list = Items.objects.all().order_by('-eventtime')
     keywords = get_keywords()
     for x in data_list:
         if check_data(x):
             item_list.append(x)
             item_dict[x.id] = x
         if lastdate == None:
-            lastdate = x.datetime
+            lastdate = x.eventtime
 
 def check_data(item):
     if item.id in item_dict:
@@ -73,12 +74,12 @@ def add_data():
     if lastdate == None:
         return
     count = 0
-    data_list = Items.objects(datetime__gte=lastdate)
+    data_list = Items.objects(eventtime__gte=lastdate)
     for x in data_list:
         if check_data(x):
             item_list.insert(0, x)
             item_dict[x.id] = x
             count += 1
-        if x.datetime >= lastdate:
-            lastdate = x.datetime
+        if x.eventtime >= lastdate:
+            lastdate = x.eventtime
     print(len(data_list), count)

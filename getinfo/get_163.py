@@ -80,6 +80,7 @@ def parse_page(index=0):
         item_data['keywords'] = ','.join(keywords)
         item_data['content'] = content
         item_data['datetime'] = dt
+        item_data['eventtime'] = int(time.time())
         db.save_item(item_data)
         news_dict[title] = item_data
 

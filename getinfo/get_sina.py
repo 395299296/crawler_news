@@ -10,7 +10,7 @@ import codecs
 import datetime
 import logging
 
-home_page = 'http://news.baidu.com/internet/'
+home_page = 'http://tech.sina.com.cn/internet/'
 parser = 'html5lib'
 dcap = dict(DesiredCapabilities.PHANTOMJS)
 dcap["phantomjs.page.settings.userAgent"] = (
@@ -20,7 +20,7 @@ dcap["phantomjs.page.settings.userAgent"] = (
 news_dict = {}
 driver = webdriver.PhantomJS(executable_path=config.browser_path, desired_capabilities=dcap)
 db = data.MongoPipeline(config.mongo_uri, config.mongo_database)
-logger = logging.getLogger('baidu')
+logger = logging.getLogger('sina')
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]%(message)s', datefmt='%Y-%m-%d %H:%M:%S')
 
 def get_page(page):
@@ -32,49 +32,34 @@ def get_page(page):
     time.sleep(3)
 
 def parse_page(index=0):
-    news_ele = driver.find_element_by_class_name('mod-instantNews')
-    news_ele = news_ele.find_elements_by_class_name('item')
-    oneday = datetime.timedelta(days=1)
-    yesterday = datetime.datetime.now() - oneday
+    news_ele = driver.find_elements_by_class_name('feed-card-item')
     for x in news_ele:
-        title_ele = x.find_element_by_tag_name('h3')
-        title_ele = title_ele.find_element_by_tag_name('a')
+        title_ele = x.find_element_by_xpath('h2/a')
+        time_ele = x.find_element_by_xpath('.//div[@class="feed-card-time"]')
         title = title_ele.text
+        dt = time_ele.text
         if not title or title in news_dict: continue
+        if '今天' not in dt: continue
         logger.info(title)
         url = title_ele.get_attribute("href")
-        content_ele = x.find_element_by_class_name('content')
-        detail_ele = content_ele.find_element_by_class_name('detail')
-        msg_ele = content_ele.find_element_by_class_name('msg-bar')
-        span_ele = content_ele.find_elements_by_tag_name('span')
+        content_ele = x.find_element_by_xpath('.//div[@class="feed-card-txt"]')
+        detail_ele = content_ele.find_element_by_class_name('feed-card-txt-summary')
+        keywords_ele = x.find_elements_by_xpath('.//div[@class="feed-card-tags"]/span/a')
         content = detail_ele.text
-        source = span_ele[0].text
-        dt = span_ele[1].text
+        keywords = []
+        for y in keywords_ele:
+            keywords.append(y.text.strip())
 
         item_data = data.news_item.copy()
-        item_data['source'] = source
+        item_data['source'] = '新浪科技'
         item_data['title'] = title
         item_data['url'] = url
+        item_data['keywords'] = ','.join(keywords)
         item_data['content'] = content
-        item_data['datetime'] = yesterday.strftime('%Y-%m-%d ') + dt
+        item_data['datetime'] = datetime.datetime.now().strftime('%Y-%m-%d ') + dt.replace('今天', '')
         item_data['eventtime'] = int(time.time())
-        # save_news(item_data)
         db.save_item(item_data)
         news_dict[title] = item_data
-  
-    try:
-        #获取更多
-        more_ele = driver.find_element_by_id('btn-more')
-        more_ele = more_ele.find_element_by_tag_name('a')
-        more_ele.click()
-        index += 1
-        logger.info('-' * 50)
-        logger.info("show more... ...%s", index)
-        logger.info('-' * 50)
-        time.sleep(3)
-        parse_page(index)
-    except Exception as e:
-        pass
 
 def get_info():
     """ 读取信息 """
