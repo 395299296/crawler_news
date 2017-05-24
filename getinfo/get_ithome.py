@@ -1,7 +1,7 @@
-from browser import PhantomJS
+from browser import Firefox
 import datetime
 
-class Spider(PhantomJS):
+class Spider(Firefox):
     """docstring for Spider"""
     def __init__(self, name, home_page):
         super(Spider, self).__init__(name, home_page)

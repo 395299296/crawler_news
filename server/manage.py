@@ -12,7 +12,7 @@ manager.add_command("runserver", Server(
     use_debugger = False,
     use_reloader = False,
     host = '0.0.0.0',
-    port = 8080)
+    port = 8090)
 )
 
 @manager.command

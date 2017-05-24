@@ -85,4 +85,3 @@ def add_data():
             count += 1
         if x.eventtime >= lastdate:
             lastdate = x.eventtime
-    print(len(data_list), count)
