@@ -36,6 +36,7 @@ def get_page(page):
         js = "var q=document.body.scrollTop=100000"
         driver.execute_script(js)
         time.sleep(3)
+        parse_page()
 
 def parse_page(index=0):
     news_ele = driver.find_element_by_id('htm_box')
@@ -88,7 +89,6 @@ if __name__ == '__main__':
     find_info()
     #访问目标网页地址
     get_page(home_page)
-    parse_page()
 
     db.close()
     driver.quit()
