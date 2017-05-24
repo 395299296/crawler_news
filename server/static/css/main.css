@@ -33,8 +33,6 @@ body {
 }
 
 .homepage h3 {
-    font-size: 18px;
-    font-weight: 500;
     line-height: 1.6em;
 }
 
@@ -43,8 +41,6 @@ body {
 }
 
 .homepage h5 {
-    font-size: 14px;
-    font-weight: 300;
     line-height: 1.4em;
 }
 
