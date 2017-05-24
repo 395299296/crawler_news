@@ -1,6 +1,6 @@
 from flask_script import Manager, Server
 from main import app
-import threading
+import threading, signal
 import os, sys, time
 sys.path.append(os.path.abspath(os.path.dirname(__file__)))
 lock = threading.Condition()
@@ -9,8 +9,8 @@ manager = Manager(app.app)
 
 # Turn on debugger by default and reloader
 manager.add_command("runserver", Server(
-    use_debugger = True,
-    use_reloader = True,
+    use_debugger = False,
+    use_reloader = False,
     host = '0.0.0.0',
     port = 8080)
 )
@@ -31,13 +31,20 @@ class Loop(threading.Thread):
             if self._lock.acquire():
                 self.tick()
                 self._lock.release()
-            time.sleep(1800)
+            time.sleep(60)
 
     def tick(self):
         app.tick()
 
+def quit(signum, frame):
+    print('You choose to stop me.')
+    sys.exit()
+
 
 if __name__ == "__main__":
+    signal.signal(signal.SIGINT, quit)
+    signal.signal(signal.SIGTERM, quit)
     l = Loop(lock)
+    l.setDaemon(True)
     l.start()
     manager.run()

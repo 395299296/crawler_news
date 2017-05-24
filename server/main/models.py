@@ -38,6 +38,9 @@ def load_data():
         if lastdate == None:
             lastdate = x.eventtime
 
+    if lastdate == None:
+        lastdate = 0
+
 def check_data(item):
     if item.id in item_dict:
         return False
