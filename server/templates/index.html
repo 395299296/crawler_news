@@ -39,7 +39,7 @@
     <div class="container">
         <div class="row">
             <div id="homepage" class="col-md-8">
-                <div id="content" class="content homepage">
+                <div id="content" class="content homepage1">
                     <!-- Touts -->
                     <div class="headline-image">
                         <a><img class="river-thumb" src="../static/img/591250f94e401.jpg" /></a>
@@ -79,11 +79,14 @@
         var counter = 1;
         var loading = false;
         var dh = window.innerHeight / window.innerWidth;
-        var div = document.getElementById('homepage'); 
+        var homepage = document.getElementById('homepage'); 
+        var content = document.getElementById('content'); 
         if (dh < 1) {
-            div.className = 'col-md-8'; 
+            homepage.className = 'col-md-8';
+            content.className = 'content homepage1';
         } else {
-            div.className = 'col-md-12'; 
+            homepage.className = 'col-md-12';
+            content.className = 'content homepage2';
         }
 
         $(window).scroll(function(){
