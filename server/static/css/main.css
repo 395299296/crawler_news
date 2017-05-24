@@ -5,9 +5,8 @@ html, body {
 body {
     background-color: #fff;
     color: #222;
-    font-size: 15px;
     font-family: Helvetica,Arial,sans-serif;
-    line-height: 20px;
+    line-height: 1.2em;
     padding-top: 50px;
     padding-bottom: 20px;
 }
@@ -40,11 +39,11 @@ body {
     color: inherit;
 }
 
-.homepage h5 {
+.homepage p {
     line-height: 1.4em;
 }
 
-.homepage h5 a {
+.homepage p a {
     color: #656565;
 }
 
@@ -54,7 +53,6 @@ body {
 }
 
 .flex-item ul {
-    font-size: 12.5px;
     margin-left: 0;
     padding-left: 0;
     list-style: none;
