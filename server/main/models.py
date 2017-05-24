@@ -1,5 +1,5 @@
-from .app import db
-from .config import config
+from app.config import config
+from app import db
 import os
 
 item_list = []

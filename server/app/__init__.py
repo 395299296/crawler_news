@@ -9,8 +9,8 @@ principals = Principal()
 
 def create_app(config_name):
     from .config import config
-    from .urls import main
-    from . import models
+    from main.urls import main
+    from main import models
 
     app = Flask(__name__, 
         template_folder=config[config_name].TEMPLATE_PATH, static_folder=config[config_name].STATIC_PATH)
@@ -26,9 +26,5 @@ def create_app(config_name):
     app.register_blueprint(main)
 
     return app
-
-def tick():
-    from . import models
-    models.add_data()
 
 app = create_app(os.getenv('config') or 'default')
