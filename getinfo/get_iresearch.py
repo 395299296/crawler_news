@@ -10,6 +10,7 @@ import json
 import codecs
 import datetime
 import logging
+import platform
 
 home_page = 'http://www.iresearch.cn/'
 parser = 'html5lib'
@@ -19,24 +20,22 @@ dcap["phantomjs.page.settings.userAgent"] = (
 )
 
 news_dict = {}
-# driver = webdriver.PhantomJS(executable_path=config.browser_path, desired_capabilities=dcap)
-driver = None
+if 'Linux' in platform.system():
+    display = Display(backend="xvfb", size=(1440, 900))
+    display.start()
+driver = webdriver.Firefox()
+driver.maximize_window()
 db = data.MongoPipeline(config.mongo_uri, config.mongo_database)
 logger = logging.getLogger('iresearch')
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]%(message)s', datefmt='%Y-%m-%d %H:%M:%S')
 
 def get_page(page):
     logger.info("start get page:%s", page)
-    global driver
-    with Display(backend="xvfb", size=(1440, 900)):
-        driver = webdriver.Firefox()
-        driver.maximize_window()
-        driver.get(page)
-        logger.info("end get page:%s", page)
-        js = "var q=document.body.scrollTop=100000"
-        driver.execute_script(js)
-        time.sleep(3)
-        parse_page()
+    driver.get(page)
+    logger.info("end get page:%s", page)
+    js = "var q=document.body.scrollTop=100000"
+    driver.execute_script(js)
+    time.sleep(3)
 
 def parse_page(index=0):
     news_ele = driver.find_element_by_id('htm_box')
@@ -69,8 +68,6 @@ def parse_page(index=0):
             item_data['content'] = content
             item_data['datetime'] = dt
             item_data['eventtime'] = int(time.time())
-            print(item_data)
-            return
             db.save_item(item_data)
             news_dict[title] = item_data
         except Exception as e:
@@ -89,6 +86,12 @@ if __name__ == '__main__':
     find_info()
     #访问目标网页地址
     get_page(home_page)
+    parse_page()
 
-    db.close()
-    driver.quit()
+    try:
+        db.close()
+        driver.close()
+        driver.quit()
+        display.quit()
+    except Exception as e:
+        pass
