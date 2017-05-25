@@ -8,6 +8,7 @@ from common import data
 import os, time, json
 import codecs, logging
 import platform
+import traceback
 
 class Browser(object):
     """Browser Core"""
@@ -80,14 +81,12 @@ class Browser(object):
 
     def read_info(self, filename):
         """read history data from local file"""
-        if not os.path.exists(config.output_path):
-            os.makedirs(config.output_path)
-
-        output_file = os.path.join(config.output_path, filename)
-        if not os.path.exists(output_file):
+        self.items_dict = {}
+        input_file = os.path.join(config.output_path, filename)
+        if not os.path.exists(input_file):
             return None
 
-        with codecs.open(output_file, 'r', encoding='utf-8') as f:
+        with codecs.open(input_file, 'r', encoding='utf-8') as f:
             txt = f.read()
             if not txt:
                 return None
@@ -97,7 +96,7 @@ class Browser(object):
                 item_obj = json.loads(x, object_pairs_hook=OrderedDict)
                 self.items_dict[item_obj['title']] = item_obj
 
-    def write_item(items_json, filename):
+    def write_item(self, items_json, filename):
         """write data to local file"""
         if not os.path.exists(config.output_path):
             os.makedirs(config.output_path)
@@ -133,6 +132,7 @@ class Browser(object):
             self.parse_page()
         except Exception as e:
             self.logger.info(e)
+            traceback.print_exc()
         self.clear_up()
 
 
@@ -180,5 +180,5 @@ class Firefox(Browser):
         ## Set the modified profile while creating the browser object
         self.driver = webdriver.Firefox(self.profile)
         self.driver.maximize_window()
-        self.driver.set_page_load_timeout(60)  
-        self.driver.set_script_timeout(60)
+        self.driver.set_page_load_timeout(180)  
+        self.driver.set_script_timeout(180)

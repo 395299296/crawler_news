@@ -1,0 +1,2363 @@
+{
+  "source": "苏州国云数据科技有限公司",
+  "title": "大数据魔镜",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679802&ver=1&signature=oCPBqxVo4Bgb0QudAkijHj9cFfUDISLTKf5-Hg2VipsYJ8q-2et3ArMViEIzZ4QPsZBodsXzj85e1*LtMvR--A==",
+  "content": "国云数据旗下“大数据魔镜”是中国最大最流行的大数据可视化分析挖掘平台,已服务一万五千家企业客户,其中包括中移动、中石油、政府等大客户.“大数据魔镜”致力于帮助企业处理海量数据价值,让人人都能数据分析.",
+  "datetime": "2017-05-25",
+  "wid": "TheMagicMirror613",
+  "active": 0,
+  "article": "不想知道吗?你的个人数据是如何被企业商业化的",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "崇州大数据产业创新联盟",
+  "title": "崇州大数据产业创新联盟",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679835&ver=1&signature=JRSwcS-H9k9ydyRW1A0-4-EisN9MA12N0hmq078W4Opz-ObRvp81Dt*ruOo6pApf8JOFaka4c6J*2dLmmEq0pQ==",
+  "content": "欢迎来到崇州大数据产业创新联盟哦,我们是扎根于崇州,通过挖数据、找项目、融资金等打造一个创新创业生态系统.",
+  "datetime": "2017-05-25",
+  "wid": "cz-bigdataalliance",
+  "active": 0,
+  "article": "2017全国科技活动周崇州活动开始咯",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "武汉烽火信息集成技术有限公司",
+  "title": "烽火云计算",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679858&ver=1&signature=KXJzb9udCg4uHRiGHvHhR-IAgl-8kJaTdmhavBNwW4qXjcY-v-5r3HS9SyryzIhx7Vn*oreNf6FqFr8vxqeBgQ==",
+  "content": "了解烽火云计算解决方案的优秀实践,获取业界最新资讯信息.",
+  "datetime": "2017-05-25",
+  "wid": "FitCloud",
+  "active": 0,
+  "article": "工业和信息化部信息化与软件服务司司长谢少锋一行莅临烽火参观考察",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "杭州大唯信息科技有限公司",
+  "title": "人工智能加速医学研究",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495678708&ver=1&signature=HP-zFzdvwc4traAx*mDUz2Vsmawt2*I80516vNXzTPuVLdocKTpvMOb2ac7PQMB2nHYzDvF5XRAhM3pEyzTuyQ==",
+  "content": "介绍人工智能在医学科研中的最新论文和技术进展.增强医学研究与人工智能的横向联系.为医学研究提供人工智能方面的算法设计、数据增值、论文专利撰写等服务.",
+  "datetime": "2017-05-25",
+  "wid": "gh_03918f3eb1ef",
+  "active": 0,
+  "article": "应用双向长短期记忆神经网络预测血压变化",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "易安信电脑系统(中国)有限公司",
+  "title": "易安信EMC云计算与大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679871&ver=1&signature=trS06Vt*XklXEobcwGjZFpG5W0yVWAC1Lfuh6VIofJCBWw*XhNa6SY95GdOUEKYTjnLH67d1MeSrH130sIT7dg==",
+  "content": "周一到周五,每天推送一条云计算、大数据或存储相关的企业IT精品资讯.微信号:EMC_China .",
+  "datetime": "2017-05-25",
+  "wid": "EMC_China",
+  "active": 0,
+  "article": "仔细算了算这笔账,真的省了不少钱",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "智慧足迹数据科技有限公司",
+  "title": "智慧足迹大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679826&ver=1&signature=URETqgieJME-rET9n8ej5W14yLZCzerJkCr4MjKP3VAfjqKsshBdp*0PPgRqj*rwasJg*bE8Ldp5rssmQlK5aA==",
+  "content": "智慧足迹大数据,依托中国联通稳定广泛的网络和西班牙电信的成熟技术,专业安全地提供基于位置信息的洞察及大数据相关业务以满足客户的运营、决策及营销需求.广泛应用于交通运营与建设、城市规划、旅游管理、公共...",
+  "datetime": "2017-05-25",
+  "wid": "SmartSteps_BigData",
+  "active": 0,
+  "article": "【剧透】智慧足迹四大精彩亮相数博会",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "华博风控信息技术(北京)有限公司",
+  "title": "大数据风控平台",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679811&ver=1&signature=7O8WxUbXqsqFBdXSk4XCJmb6w4Kplb0NpbXv6dCuMpHiWFqodrTgxM3GYgetxXmoKgy3KoiCzGdaUWe**rVJeg==",
+  "content": "企业管理咨询:经济信息咨询;技术开发、技术推广、技术咨询、技术转让、技术服务;计算机系统服务:网上销售计算机系统软硬件及辅助设备、电子产品、机械设备、通讯设备、仪器仪表.",
+  "datetime": "2017-05-25",
+  "wid": "gh_6e50b49229de",
+  "active": 0,
+  "article": "“大数据风控与审计”青岛班落下帷幕!",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "机器学习算法与人工智能",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679337&ver=1&signature=k-5h*ndelvE0ZQmKTib9ct1v3u28YoYVbmUrBAVGtYKAjAG13Swf8CpzFDqzL0X3wMhDGsq1KXjuLFURX3klHg==",
+  "content": "中国顶尖人工智能与大数据行业新媒体平台,专注国内外人工智能、机器学习、大数据、机器人、AR/VR、无人驾驶等科技前沿的深度报道.",
+  "datetime": "2017-05-25",
+  "wid": "machinelearningai",
+  "active": 0,
+  "article": "大礼包第四期",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "贵州中移通信技术工程有限公司",
+  "title": "大数据创业计划",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679816&ver=1&signature=4hskbId6m*b3tun3d51UwGGk3ghuQadT92V37EllqRs37u9D5lQJRavgeo-29KeS5wAt14vQaXp8Wn0ZyZ2qWw==",
+  "content": "关注贵州大数据创业计划公众账号,及时了解需求交流平台最新需求发布、创业计划最新主题活动、沙龙、演讲等信息.",
+  "datetime": "2017-05-25",
+  "wid": "bigdatagz",
+  "active": 0,
+  "article": "数博会 | 必须关注数博会的七大理由",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "武汉达梦数据库有限公司",
+  "title": "达梦大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679816&ver=1&signature=BgsSkmcI3aVoHLce4vBkQdNKngDLvSn0IZzAmww469nvVaAhhVbvT2*z03xmRMnlDeAZSXt-Poud2DF-8hI4eg==",
+  "content": "感谢您关注达梦大数据.作为大数据平台咨询与技术服务商,达梦公司将在第一时间与您分享大数据领域的最新技术和解决方案. 在公众号对话框: 回复“1”,达梦公司简介; 回复“2”,咨询热线电话; 回复“3”,认证...",
+  "datetime": "2017-05-25",
+  "wid": "dameng027",
+  "active": 0,
+  "article": "战火不再蔓延,但激情永不退却 ——记2017首届“达梦杯”数据迁移...",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "量化投资与机器学习",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679673&ver=1&signature=UAfZd2KyXFtQlPQeRK9Wc4xKnOmoQb0HS9ICHf1bbxr2EJvmo0tUtsh2wLM-S4EX8*Tl3tVBG5FI*HhqmLFZQQ==",
+  "content": "公众号主要介绍关于量化投资和机器学习的知识和应用.通过研报,论坛,博客,程序等途径全面的为大家带来知识食粮.版块语言分为:Python、Matlab、R,涉及领域有:量化投资、机器学习、深度学习、综合应用、干货...",
+  "datetime": "2017-05-25",
+  "wid": "ZXL_LHTZ_JQXX",
+  "active": 0,
+  "article": "基于 RNN & LSTM 的股票多因子预测模型",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "重庆云威科技有限公司",
+  "title": "重庆人工智能",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679324&ver=1&signature=z2ZMyySs2BOLP9s2dMCriTynHqU792k7Ix2Ujkwy2yTF3IVJi5C0RPrgVoDs4RkDPGQoCerq-bIbK2DAN0BwFg==",
+  "content": "人工智能将是人类有史以来最好的机会,高端科技看得见的未来!",
+  "datetime": "2017-05-25",
+  "wid": "gh_211d74f707ff",
+  "active": 0,
+  "article": "李彦宏:你只管按遥控器,电视机要是听你的,算我输!",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "上海大步流星智能科技有限公司",
+  "title": "人工智能和机器人研究院",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679328&ver=1&signature=UfBhOEB1auN1gGHOEl99q8*g44vPxUsJy5H08qTHgKT11N28rCRS*MdPseRnNSpdaq1ZUPO4V7iUYebGxz2lqQ==",
+  "content": "人工智能和机器人的专业技术社群.",
+  "datetime": "2017-05-25",
+  "wid": "gh_ecbcc3b6eabf",
+  "active": 0,
+  "article": "简单了解AlphaGo的原理",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "郑州赛微云计算产业园发展有限公司",
+  "title": "赛微云计算产业园",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679871&ver=1&signature=kUO72VU-eODBO0tEFOzs9Y97QEO664yhsp2puRfnVBGz6hdYpsdPFaIIaYFbHtKTeWnbg-KpE1lTjlBddyy6LQ==",
+  "content": "高新区·新都心——1500㎡-2600㎡总部独栋花园办公楼.商办产权;150%超高得房率;4.75米层高,9米挑高大堂;独享五大运营平台;企业花园独栋,生态商务. 招商电话:0371-67896789",
+  "datetime": "2017-05-25",
+  "wid": "zongbudaguan",
+  "active": 0,
+  "article": "郑州市市长程志明一行莅临园区调研",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "深度学习与神经网络",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679744&ver=1&signature=hNsOjQepP7m5owzwn-e0DzIdLb6TfJ-*eQRH2p1scQehOrJ9l2gmhSBK9QRN58Af3ooLnvmSaxlXU7IVKJCS7Q==",
+  "content": "关注深度学习教育,关注人工智能前沿科技",
+  "datetime": "2017-05-25",
+  "wid": "Easy1Study",
+  "active": 0,
+  "article": "柯洁与AlphaGo的“人机对决”视频直播地址",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "南京云创大数据科技股份有限公司",
+  "title": "云计算头条",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679858&ver=1&signature=LRF*oevSUMx6Vvc3LeQL5mQTSZU-1uxeYB2uemy6P*93XAafrhTUkQNC6xeKwBG5jDycCl84MKKLhsIgoLRdag==",
+  "content": "本站由中国云计算专家委员会委员刘鹏教授主办.云计算(Cloud Computing)的一切均在里面,包括云计算概念、云计算技术、云计算应用、云计算学习、云存储、云安全、云服务等.本站是资源丰富、分析深入、更新及时...",
+  "datetime": "2017-05-25",
+  "wid": "chinacloudnj",
+  "active": 0,
+  "article": "为什么星巴克横着排队、麦当劳竖着排队?背后的秘密是…",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "南京中兴软件有限责任公司",
+  "title": "中兴大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679807&ver=1&signature=EOTMs1wWVKUI2kb2lYc8JWQMQAymkr9N8nHK*kGxX1bMHfP0*3XeLS1ToqfSXHgmNH6MHoV3EsAY1CFJ72NFSg==",
+  "content": "大数据时代的思考和洞察",
+  "datetime": "2017-05-25",
+  "wid": "ZTE_BigData",
+  "active": 0,
+  "article": "程序猿趣事一箩筐",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "江苏银行股份有限公司",
+  "title": "江苏银行融创智库大数据应用",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679840&ver=1&signature=*l-uyF5mvl4kXlfiqf9vl*DwOqf-eR5DKKL1yYWByPFN-v-JmHwZ-uQsbRtWtJhZUbiFictIkp4RYGYi1JqJvQ==",
+  "content": "江苏银行大数据应用成果展现,金融大数据应用交流共享平台.",
+  "datetime": "2017-05-25",
+  "wid": "RongChuangZhiKu",
+  "active": 0,
+  "article": "江苏银行参加中国互联网金融协会金融科技发展与研究工作组成立会议",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "贵州半滴水科技有限公司",
+  "title": "贵州大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679802&ver=1&signature=XUyZPm7oCPs1wPJ4AtM9a0C85sJZeMQwbRh-fKPBY0TIpGHV*oFcE0ST92*AIWYapfWsCGXYOYFNG9mZPJQzuw==",
+  "content": "贵州大数据(www.gzdsj.com.cn)是专注贵州大数据的综合网站,致力为网友和业内提供及时、专业、全面的大数据、尤其是贵州大数据等相关信息,并建立大数据沟通和讨论的社区平台.",
+  "datetime": "2017-05-25",
+  "wid": "guizhoudashuju",
+  "active": 0,
+  "article": "2017数博会将举办78场论坛 五万余名中外嘉宾将赴会",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "沈阳大数据运营有限公司",
+  "title": "沈阳大数据运营有限公司",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679835&ver=1&signature=WXN5TxqkkQYGBwVJ54SwWEHqSYL2SIt6ZSk0mS-aPs4PM-92P1kz9tmJo*vy-heZ4BoY9nzUgizYkxfK2KZTrQ==",
+  "content": "帮助您了解什么是大数据,更好的使用大数据.",
+  "datetime": "2017-05-25",
+  "wid": "SYBigData",
+  "active": 0,
+  "article": "520微信大数据,女子一天收811个表白红包,你呢",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "北京企名片科技有限公司",
+  "title": "企业大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679797&ver=1&signature=6mjPqdi24I4KRqZKrxcqEigPGkuSnBOjZsYHJyO1ULdq5slqGubB323sLCQQu2kg2quakb4Kj0SJZHNL29OxRw==",
+  "content": "数据服务",
+  "datetime": "2017-05-25",
+  "wid": "qiyedashuju",
+  "active": 0,
+  "article": "企名片-5.24日国内外融资事件清单(42笔)",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "中国电信股份有限公司深圳分公司",
+  "title": "云计算产业联盟",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679858&ver=1&signature=qTwmvBhixbrZx*8rs23OkY1JgNGCY9ANpc9IV-jD-tALYiM7QEJay4jwrma0I1332ONgOAbW03LGPkGNfDXoaw==",
+  "content": "聚焦云计算行业动态,探索行业发展趋势,打造行业交流平台.",
+  "datetime": "2017-05-25",
+  "wid": "yjscylm",
+  "active": 0,
+  "article": "云计算不能修复应用程序性能差的问题",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "中亚云计算研究中心",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679894&ver=1&signature=vkqfll5BCJkLQGN73lvV7lSBJhnYnRBUs5WZe5zmOtKNUXldEJRG8qJD9IWZIJrTjH6p9d4XPCw0uIM2ZmKWxA==",
+  "content": "上财中亚云计算研究中心隶属于上海财经大学,主要开展云计算交易标准制定、云计算服务质量评定、云计算测量、云计算创新以及关键技术资源定价等研究活动.主要研究方向:云计算交易模式与标准、云资源量化与测评、...",
+  "datetime": "2017-05-25",
+  "wid": "gh_7a3707c77296",
+  "active": 0,
+  "article": "云计算市场竞争日趋激烈 智能化或成新方向",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "深度学习与思考的艺术",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679735&ver=1&signature=wlMB6zmtpvw14o*I81OGsgwFCcqGl64NJsH9PsOp5WK3LDvLjGj1zywi1Vz98JlvxdnqExx*H4qr-EcZUuI0uw==",
+  "content": "一起学习与进步,good good study day day up",
+  "datetime": "2017-05-25",
+  "wid": "Book_shareforyou",
+  "active": 0,
+  "article": "此恨绵绵无绝期",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "北京中云天元网络科技有限公司",
+  "title": "中关村大数据产业联盟",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679816&ver=1&signature=hMzmbWqm14JxSIV*Mq8Hl7gTUNbWw3d8lTZ*AkxWSmKiPESrdEp1TpjCzYnA*Vm*KHqrdM8VCJu7r7oPHz4HIw==",
+  "content": "中关村大数据产业联盟宣传、交流和服务平台.联盟主旨和目标:落实国家战略,聚合产业势能,促进商学互动,助力企业成长,倡导数据伦理,探寻数字文明",
+  "datetime": "2017-05-25",
+  "wid": "BDA1213",
+  "active": 0,
+  "article": "全国首个!《政府数据共享开放(贵阳)总体解决方案》通过评审",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "上海天律信息技术有限公司",
+  "title": "马克威大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679821&ver=1&signature=ArB3tzEK5tIkuGveCWBgFXZyBvK7dtd1DL4leEztR7-WP9oxWq0f9qNwGjZfCcyqmdZXf6opxqSVlWBU0nIfYQ==",
+  "content": "上海天律信息技术有限公司是中国第一家专门从事统计分析、数据挖掘、决策支持和商务智能软件开发的高新科技企业.公司自主研发的“马克威”系列产品填补了中国在统计分析和数据挖掘领域的空白,已成为中国数据分析...",
+  "datetime": "2017-05-25",
+  "wid": "gh_bc6d8304aaf1",
+  "active": 0,
+  "article": "天律公司董事长黄晖博士应邀出席上海国检局科技大会暨科技周主题讲座",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "南京擎盾信息科技有限公司",
+  "title": "擎盾法律人工智能",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679328&ver=1&signature=zDxS2XV9eNzv5*s6WaUGq-VHDKnpvzX*6gMyuw0IuFGAzVWDKEnA6Uv6UrXFJVZe3GWBHDR6*Tx2yrpBm-KQsg==",
+  "content": "擎盾数据(Aegis Data)是一家法律人工智能科技公司,致力于运用深度机器学习和法律知识工程技术,以法律服务机器人为载体,为法院、律师和普通有法律需求的个人和企业提供智能化法律助理服务.",
+  "datetime": "2017-05-25",
+  "wid": "Aegis-Legal-AI",
+  "active": 0,
+  "article": "福建连江:打造智慧法院,机器人“小法”来帮忙",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "深度学习世界",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679739&ver=1&signature=WvYdlzRzOzChC-HlfOX*aHhXUcObdnqsv*6VoU6rF0SJeceEEnWDeDh9KnEcr9FZ2ZIbMYQR*e65*XcIg4fGfQ==",
+  "content": "深度学习世界--关注深度学习应用,提供深度学习资料下载和技术交流.",
+  "datetime": "2017-05-25",
+  "wid": "dl-world",
+  "active": 0,
+  "article": "10 个基于 JavaScript 的机器学习实例",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "细说云计算",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679876&ver=1&signature=TbIeDV39QqIp1gw8Z5DNT6jhX1DkUPr5YCp3dfuilMy8FEFxrEnSWUJ9l5Kz5kxDBSyqvm4EC0t7rr6dzEWeew==",
+  "content": "关注云平台的网络技术、存储技术,以及少量架构技术.",
+  "datetime": "2017-05-25",
+  "wid": "CloudNote",
+  "active": 0,
+  "article": "“Java之父”James Gosling加盟AWS",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "北京新网达通文化传媒有限公司",
+  "title": "云计算D1net",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679858&ver=1&signature=fi4fHDu30E*yEAdrSXgMFPjVZRn2I5wnBT6g0JKn*4RnzuwsGhz*LWBjducBMJpR7niRUv7Wfydh9DmO*Vpnsw==",
+  "content": "企业网D1Net-国内最精准专业的企业IT媒体.涵盖:云计算;智慧城市;数据中心;大数据;物联网;BYOD;企业移动应用;服务器;存储;虚拟化;安全;企业应用软件;UC协作;视频会议;视频监控;呼叫中心;运营商...",
+  "datetime": "2017-05-25",
+  "wid": "D1Net02",
+  "active": 0,
+  "article": "报告称到2020年73%的企业将运行SaaS",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "人工智能关注",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495678600&ver=1&signature=Rkdyks3mYA9cXlZwkZZom9yqUUzZkEJ9meN*c8FTlo9VnEPMctdqwON4CF*s1EKKCNxk5EklO0V1owe4*Vz1fQ==",
+  "content": "专注人工智能技术前沿",
+  "datetime": "2017-05-25",
+  "wid": "yingjianguancha",
+  "active": 0,
+  "article": "如果你想走得远,总要有人伴你同行",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "达内时代科技集团有限公司",
+  "title": "达内Linux云计算培训",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679863&ver=1&signature=2M8BVLaRH7yRCXqeZ4FJuje*uDET-NjMli50kk9sOTOYjlBgC5texhkysrkQJmbqM9LmklX34IKX53B9ZK627Q==",
+  "content": "达内Linux云计算培训,专门为培养新一代“Linux云计算工程师”而开设.为所有学习Linux的人提供最新行业动态、最新Linux云计算免费教程以及红帽、阿里云认证考试资料,与达内40万学员一起成长!",
+  "datetime": "2017-05-25",
+  "wid": "tedunsd",
+  "active": 0,
+  "article": "又传捷报:达内Linux云计算毕业学员最高就业薪资达18000元!!!",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "眉山绿盾大数据征信有限公司",
+  "title": "眉山绿盾大数据征信中心",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679835&ver=1&signature=cLT9y5w*Gwc9V-H5C7Ah4Uxnpey9zWQKmPj5hnANkAL9GOsDnnLOQnHor0UES-QEa3aiGu8Xdv8wuX7vo7SFTA==",
+  "content": "眉山绿盾大数据征信有限公司是依据国务院《征信业管理条例》设立的眉山市唯一的一家独立第三方征信机构,公司本着“客观、中立、第三方”的原则,对企事业单位的信用信息进行征集、整理、保存、加工、评定,并向信...",
+  "datetime": "2017-05-25",
+  "wid": "qyzx9988",
+  "active": 0,
+  "article": "“2017中国竞信论坛——甘肃分论坛”在兰州市召开",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "深思考人工智能机器人科技(北京)有限公司",
+  "title": "深思考人工智能",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495677354&ver=1&signature=AkAzaxLPdNER1USJ-PiRsRxPvaNElfTi*xSs15UwyRmcJ6Sd46iTOBQdCmqW9AfaMuADVnNcGX6qsIdSH4RzGg==",
+  "content": "专注于类脑智能机器人核心算法(人工智能领域机器学习、深度学习算法)及硬件芯片设计,使机器人有视觉,会感知,有情绪,会思考,能自学习.我们的目标是做智能机器人时代的“Intel”.",
+  "datetime": "2017-05-25",
+  "wid": "gh_4ea317ae135b",
+  "active": 0,
+  "article": "终局大开大合却最终半目胜负,人类在力所能及的阶段与AI史诗性对决...",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "机器学习和数学",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679686&ver=1&signature=QbpQXLBtW144d5b*kcBkUiIhj3Q3TRL8M8GNiea9zrWActh2F70DSQT*c7ZH9RHRQOpy*Ocm3pnDsl*ZX0Vv2w==",
+  "content": "机器学习和数学方面的干货总结介绍,永远在路上",
+  "datetime": "2017-05-25",
+  "wid": "ML_And_Maths",
+  "active": 0,
+  "article": "[编程经验]Python中os模块最最常用的方法",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "杭州名商网络有限公司",
+  "title": "商标大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679807&ver=1&signature=Wh9QyUWXsW35JiYYM27qEvtUOeOez0h5WKZu0M3xiG6LZt071Qe3AjzDKbX0U0owPwqwDhaq8WyyoHuQpJPYNw==",
+  "content": "商标圈(shangbiao.com)旗下有态度的大数据-通过查商标(cha.shangbiao.com)为用户提供商标数据共享,实现商标数据价值.",
+  "datetime": "2017-05-25",
+  "wid": "tm-data",
+  "active": 0,
+  "article": "王守义十三香:损失超1000万?那是你的事儿!",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "CSDN精选",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495680184&ver=1&signature=h*sLDerJNPGWOSdvWUKLb3kO-HzLPLj2iGVUNIukjWb-xvqhPrlXeRRNuxTtaNetjlelh7457dZnraMMi1qlTw==",
+  "content": "此账号将用于发布CSDN站内精华技术文章、技术博客,以及CSDN举办的标杆性技术大会及纯干货技术沙龙活动.为开发者提供一个更聚焦的信息传递、交流平台.",
+  "datetime": "2017-05-25",
+  "wid": "csdnjx",
+  "active": 0,
+  "article": "直播报名中:新一代视觉导向机器学习系统中,软件/系统工程师可以做...",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "CSDN物联网开发",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495680188&ver=1&signature=B5lhlBtoOnP231KyzrDYWfBJDpLcguvAIkIoZ2K8ARoTOtWl3MQLkHa6zoQYomXAG*MEpW2lTimNvFTFqCtEGQ==",
+  "content": "CSDN物联网开发由CSDN物联网小组编辑运营.关注CSDN物联网开发,了解更多物联网资讯及技术干货.",
+  "datetime": "2017-05-25",
+  "wid": "csdn_iot",
+  "active": 0,
+  "article": "《近匠》 | 探索一站式智能硬件开发的最佳解决方案",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "广东华邦云计算股份有限公司",
+  "title": "华邦云计算",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679863&ver=1&signature=jogiSezOCxi89fQNqa*Zri7z8ggteTLxFzY8lZwTEJqim4M9iNyIps02BaocW160uTPBPtUgwOctV*b6tvjrRg==",
+  "content": "华邦云利用云计算、移动互联等技术,融合移动CRM、销售管理、移动办公、呼叫中心、即时通讯等企业应用,为您提供一站式智能移动销售云服务.",
+  "datetime": "2017-05-25",
+  "wid": "HB4008606306",
+  "active": 0,
+  "article": "柯洁输了!未来人类将变成半机器人或可实现永生!",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "深圳市飞博远创科技有限公司",
+  "title": "PPV课大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679821&ver=1&signature=pi8JWqZtrM4Q1-cF9okLVFMvzqHNDfbZHZVrD5BJ94uubt625RUZILMjal7EFuiVbUm4RSWgL9PIJKpCzPv1uw==",
+  "content": "PPV课是一个大数据学习社区和分享平台,我们关注大数据应用,普及数据思维方式,培养数据科学人才.我们的理念是“数据驱动未来,我们开启智慧 Data drive future; we open wisdom”,欢迎和大家一起交流,共同成长!",
+  "datetime": "2017-05-25",
+  "wid": "ppvke123",
+  "active": 0,
+  "article": "做数据分析时,你的方法论是什么?",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "深圳天源迪科信息技术股份有限公司",
+  "title": "天源迪科大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679821&ver=1&signature=TG0vjdENLekm0bSnF9sNvo-yzwXjNbcYuWXKwRKNMAvp0QTSgD3Cdwn1bAL18mATD4thDKVwrF9ZXWB-Qev-qQ==",
+  "content": "天源迪科大数据+官方账号实时发布大数据领域前沿技术与实践,以及天源迪科对外信息传播;",
+  "datetime": "2017-05-25",
+  "wid": "tydicbigdata",
+  "active": 0,
+  "article": "天源迪科将携一个平台和五朵金花,精彩亮相2017贵阳数博会",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "无人驾驶扒一扒",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495680003&ver=1&signature=60bGlPSyrdjOSJdqKkrVDTw5Srd2E*6TybT0pjo7PtMT7tPX7y6uwsk*GQTMNvELFN08SnDdb6Qw44G3lRQdCA==",
+  "content": "心血来潮找了下无人驾驶的相关公众号,发现只有除无人驾驶大会的企业号,没有更多可参考的订阅号,希望和朋友们分享更多关于无人驾驶的相关知识,以及各大汽车厂商和互联网大咖们的合纵连横,希望大家多关注,多互...",
+  "datetime": "2017-05-25",
+  "wid": "gh_59fc37983bd2",
+  "active": 0,
+  "article": "研发自动驾驶汽车的科技公司进入“合纵连横”时代了吗?",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "杭州凡闻科技有限公司",
+  "title": "凡闻大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679826&ver=1&signature=TLvmdRzCsQs4IPjvqRMBnKAZJb5izo-W6u73W45CAkpYV0Ve8ItTNPuzDPQOMj-0yAutfYOYJlO3apPHtNitpg==",
+  "content": "杭州凡闻科技有限公司,中国领先的基于内容的新闻大数据云服务商.专注辅助媒体内容优化,时刻关注行业发展动态,深度挖掘客户潜在需求,时刻提供优质贴心的新闻数据服务.",
+  "datetime": "2017-05-25",
+  "wid": "fanews0625",
+  "active": 0,
+  "article": "和昨天一样,我很幸福|哀悼曼城遇难者",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "重庆云威科技有限公司",
+  "title": "云威人工智能",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495678708&ver=1&signature=Y-F9sDxMadsjnYIGRcH-F3jncU9uuS89wX9*ZK-VH20jm35WW5LpDwl6R-sLdHxEH1WSPTLGlg3x3hU*sBUp-Q==",
+  "content": "人工智能第一平台,最新、最全、最权威智能科技一手掌握.",
+  "datetime": "2017-05-25",
+  "wid": "gh_23f4b8ad0dd6",
+  "active": 0,
+  "article": "Facebook开源平台ParlAI:创建真正的对话式AI",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "贵阳市人民防空办公室",
+  "title": "贵阳人防大数据应用研究实验室",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679840&ver=1&signature=TLjgKUTtIF55pGoIsP5ynDn8UYwBf1Ocx-UcHXZhPY321zBzOL4iCMKAMLl2bwU2ljRR0eVnAFafdsjync3WcQ==",
+  "content": "大数据创新合作、学术交流、信息共享、成果展示、宣传推介的平台.",
+  "datetime": "2017-05-25",
+  "wid": "gyrfbigdatalab",
+  "active": 0,
+  "article": "牢记福祉于民宗旨、敢于攻坚决战贫困",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "北京数码大方科技股份有限公司",
+  "title": "工业大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679797&ver=1&signature=0LTRB1WZteCSLLnr4KVjZBTWMXz-a46VnreEbzyR1y4fDZM**3NBUTnjceuQiBwxBfi1EMOPU0mwZq4nok-bBA==",
+  "content": "全国信息技术标准化技术委员会 ,大数据标准工作组、工业大数据专题组,负责工业领域的大数据标准化保障规范研究,包括工业大数据在工业产品、研发 设计、生产过程、生产服务等方面相关标准研制,推动制造业向智能...",
+  "datetime": "2017-05-25",
+  "wid": "gh_5515fe2316dc",
+  "active": 0,
+  "article": "国家大数据标准化工作介绍",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "郑州夺蓝网络技术有限公司",
+  "title": "人工智能",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495677354&ver=1&signature=2fRugQloLWxkAeoN9JceE52BEiuGon8Emn-o0f*Cij08CNxR3YN*iR9lpFTUaf5LIxT4t1JhZ6jAmAnpIUxXSQ==",
+  "content": "“叶文洁”都爱的人工智能公号",
+  "datetime": "2017-05-25",
+  "wid": "worldofai",
+  "active": 0,
+  "article": "AlphaGo与柯洁的对决,输赢其实是个误会?",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "海豚大数据科技(天津)有限公司",
+  "title": "高校大数据与人工智能推进联盟",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679332&ver=1&signature=kHiTcSziic*bkvMQ9OB9fuwLEQPonvYL616EV39esd3C4FO2V5VQTvEhsrYKiew5X*NIrnmJsLwcjLUC*PaiPg==",
+  "content": "全国高校大数据与人工智能教育联盟是普及大数据与人工智能知识,推广大数据与人工智能技术,提高大数据与人工智能应用的社会公益服务平台.",
+  "datetime": "2017-05-25",
+  "wid": "gh_3a0c0b105c65",
+  "active": 0,
+  "article": "人工智能又聪明了点:它现在能“举一反三”学打游戏",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "通数盟",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495681406&ver=1&signature=OEeE5xkAejrJasYNBquiWS2vtHFZo0yeveUE1D-zKHAWjpJQNqrWrApm5x4m*Cl11Qm663YiWBUJD3c4t9rmjA==",
+  "content": "信息通信大数据产业联盟(“通数盟”)是由人民邮电出版社等三十多家大数据企事业单位联合发起,集聚我国通信大数据产业链上、中、下游有关政府部门、知名专家、社会团体、领军企业、科研院所、主流媒体的非营利性...",
+  "datetime": "2017-05-25",
+  "wid": "tongshumeng",
+  "active": 0,
+  "article": "【比手速第二场】0元早鸟票!",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "北京网之道咨询有限公司",
+  "title": "大数据参考",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679797&ver=1&signature=Y*qxbiUUJwz0UnBsOPOCGI8esg*6U7BM65L1ZVSyUgpEoc43aFsLHTX7haTZ0NpCvZT6rINWHuxH8cIsmQCOjw==",
+  "content": "关注大数据的挖掘、分析与应用,最新动态与相关信息.",
+  "datetime": "2017-05-25",
+  "wid": "bigdatareader",
+  "active": 0,
+  "article": "最小4G智能机,有一功能吊打各大品牌!",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "纬脉网际(北京)信息技术有限公司",
+  "title": "人工智能学家",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495677354&ver=1&signature=dOFunf4UxtAc2iufINCLVvEylOQXMBQTNe1LBWAV350U34*KAybIRjyEJKkOb-9Hl6Wx7sPGH27yy-iOWKoq3A==",
+  "content": "致力成为权威的人工智能科技媒体和前沿科技研究机构",
+  "datetime": "2017-05-25",
+  "wid": "AItists",
+  "active": 0,
+  "article": "人类智慧的不足可由人工智能弥补",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "肇庆市智云体育信息科技有限公司",
+  "title": "捷报体育大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679802&ver=1&signature=Agentv-MK6JYD0k5hQ0yEA8BQ2vL1pwLLbcPnm5oaWjIsdN4SN-WI7SvN2-NRISDpDvIWZnzBg8BrM7-OPLDbw==",
+  "content": "权威的足球资讯分析,强大的足球即时比分数据,比分直播与比赛同步,打造最专业的体育数据门户!",
+  "datetime": "2017-05-25",
+  "wid": "jiebao_nowsore",
+  "active": 0,
+  "article": "【推荐】昨天4红3!今天聚焦亚洲赛场,日联亚冠世青赛送上~",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "南京毗邻医疗科技有限公司",
+  "title": "管理科学与人工智能实验室",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495678712&ver=1&signature=9uNjODe7hK1OZEB7p08ech-4L33YoOFGYX-kGSBCh9Ds1rRy5n7Oa*lUwKBy4KbzmgBL5iUZr4P1Tid7FHrHLg==",
+  "content": "荟萃群英之智,共商管理之道!“管理科学与人工智能实验室”依托毗邻智慧的智能技术团队和国内外管理学顶尖专家,挖掘先进理念,分享成熟经验,打造智能化管理研究与应用平台.",
+  "datetime": "2017-05-25",
+  "wid": "gh_3622b9cd15c6",
+  "active": 0,
+  "article": "周鸿祎:为什么商业模式不是盈利模式?",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "西咸新区大数据信息技术服务有限公司",
+  "title": "西咸大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679816&ver=1&signature=H1BtQec-QzL2rbBI3ZiCubM0fqWWU8TgAg7hdMwY4CtcAv*SMapprssMJbDAPUEayPpH11l5OIcxMa19yYroqQ==",
+  "content": "西咸大数据立足陕西面向全国提供专业化、精致化的大数据服务,以及最及时、最有价值的大数据咨讯,助力区域产业结构优化和转型升级,为“一带一路”建设提供大数据资源输出.",
+  "datetime": "2017-05-25",
+  "wid": "xixianbigdata",
+  "active": 0,
+  "article": "大数据说丨又到毕业季 刚毕业的你找到工作了吗?大数据帮你分析!",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "北京资配易投资顾问有限公司",
+  "title": "资配易人工智能投顾",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679332&ver=1&signature=QXgyO9kn3AkNYMoEQcDKLM-v0oq31WbdJ2kzl2LdevkgA1Oz-yOEEff*5gxQ7uqdnfRrML*kJk3pDAH1BoYJRA==",
+  "content": "北京资配易投资顾问有限公司运营,直播资产配置权威分析,点评投资策略得与失,分享理财投资的那些事儿.;;",
+  "datetime": "2017-05-25",
+  "wid": "zipeiyi2014",
+  "active": 0,
+  "article": "AlphaGo小胜柯洁 人工智能概念股受益",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "北京麒麟心通网络技术有限公司",
+  "title": "Trustdata信诺大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679840&ver=1&signature=yZmicQTqkIIv*rJ50z-tJMYvML-4yhSX0J7kfBX9EhyRsdrWl-DCuL6e*fZAnBX9qZRCYgc7mzIN7SetRoZBRA==",
+  "content": "Trustdata中国最大移动互联网大数据监测平台,致力成为中国大数据时代下最领先的移动应用数据内容解决方案提供商,为客户提供最专业的移动端各领域数据产品、咨询等专业服务.",
+  "datetime": "2017-05-25",
+  "wid": "itrustdata",
+  "active": 0,
+  "article": "“知识付费”这钱不是谁都能挣的,优质IP将成为主战场",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "深度学习大讲堂",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679735&ver=1&signature=2BTX62rtqhy*WeGfq2QNAO0PVskWVLWcp595*xj3e7H*wrFBWZuPZONwxXwSHgLM36nxhtqL9ytwuv6boQVs3w==",
+  "content": "高质量原创内容平台,邀请学术界、工业界一线专家撰稿,致力于推送人工智能与深度学习最新技术、产品和活动信息.",
+  "datetime": "2017-05-25",
+  "wid": "deeplearningclass",
+  "active": 0,
+  "article": "VALSE2017系列之四:目标跟踪领域进展报告",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "极客邦控股(北京)有限公司",
+  "title": "InfoQ",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495680452&ver=1&signature=33uh3zsZYPHNwW6fGu*vFp3FE0rOMtA82o8ZUHSy4Gy329ihc4QZjbgtdVLEGlXO7WHE2kTPtpXsVEkAKIkkfQ==",
+  "content": "有内容的技术社区媒体",
+  "datetime": "2017-05-25",
+  "wid": "infoqchina",
+  "active": 0,
+  "article": "34岁不是问题,技术人应该这样面对迷茫的年龄阶段丨今晚直播送福利...",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "杭州钱塘大数据交易中心有限公司",
+  "title": "钱塘大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679802&ver=1&signature=KAIEnFRha9jjcFnr1HkcTNEBqsuC2qs45MmgOMZPMsi17wywdwJdcZF6mYVkHwEqTdJ2ftY9TrJfn-R3It5*0A==",
+  "content": "国内首家工业大数据交易中心,以工业自媒体资讯平台“钱塘号”为基石,以“产业+金融+大数据”为方向,打造工业领域最全面垂直搜索平台和用户工具平台!",
+  "datetime": "2017-05-25",
+  "wid": "qtbigdata",
+  "active": 0,
+  "article": "【可视化】数据分析师需要具备哪些能力与工具体系?",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "北京数盟科技有限公司",
+  "title": "数盟",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495681406&ver=1&signature=DZVsujKkOXdh1Hq1Uqcufw50QiJKrjMPw1RNaHfhRMTXFWkBrkENWNAgRHli0GX9Fxx9PKrw7jV5FmGNo*u3gg==",
+  "content": "数盟(数据科学家联盟)隶属于北京数盟科技有限公司,数盟致力于成为培养与发现“数据科学家”的黄埔军校. 数盟服务包括:线下活动、大数据培训. 官网:http://dataunion.org,合作:contact@dataunion.org",
+  "datetime": "2017-05-25",
+  "wid": "DataScientistUnion",
+  "active": 0,
+  "article": "有没有将深度学习融入机器人领域的尝试?有哪些难点?",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "人工智能商业",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679337&ver=1&signature=7WoTXpHPKWkpDIqkYbzn-2KkQw3Ht2u-9kqCA4zQHnEhZHlxcasy2bMuZMUVhX77tx0-P02LhC4J8UCOEiCJVQ==",
+  "content": "美国和加拿大人工智能专家,帮助您解决商业痛点.",
+  "datetime": "2017-05-25",
+  "wid": "aihelps",
+  "active": 0,
+  "article": "关于强化学习的一二三",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "机器学习算法与Python学习",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679678&ver=1&signature=BrTz3tO2xET1m2Mv5WRnyr6qgCi7gInaztyegaXvtyGhj3ZYlrTnSgYyqgzRwodH3rl*7H4zog7m8Nv6PQNt8A==",
+  "content": "本公众号作为沟通学习的平台,不定期发布人工智能、机器学习、深度学习及Python编程方面的算法与实现,欢迎广大机器学习与数据挖掘领域的朋友加入交流与学习!",
+  "datetime": "2017-05-25",
+  "wid": "guodongwei1991",
+  "active": 0,
+  "article": "干货|谷歌大规模机器学习:模型训练、特征工程和算法选择",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "北京神州腾云科技有限公司",
+  "title": "人工智能领域",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495678611&ver=1&signature=9aE3D8O0rJ7lRWtmCal0dT05hzdqZ77-IfkTBzcKCYoODmM4YgOc4uTFPtGqFDDH2Y0Ih3ONHXTBAvHJzNaGpg==",
+  "content": "人工智能领域",
+  "datetime": "2017-05-25",
+  "wid": "gh_ecd58e266221",
+  "active": 0,
+  "article": "生活因此变得可爱,神器时代!",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "济南微米文化传媒有限公司",
+  "title": "微米大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679802&ver=1&signature=zrWbo1*Yi6GBk*e-sup*5skRs6pvBU2iuCA5S7QyW8Y2MZOJi9dVQc4qaktGw38C29M6HnL5XgDMdhThQsRoAA==",
+  "content": "微米订阅号,一个覆盖全国600个城市的自媒体,可以精确定位全国生活资讯的互动平台.公益性免费发布便民信息,微友互动,传播微公益,弘扬正能量!",
+  "datetime": "2017-05-25",
+  "wid": "vimihot888",
+  "active": 0,
+  "article": "起火怕烧自家 老太竟拼命抢消防水枪要自己来",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "武汉中润普达信息技术有限公司",
+  "title": "中润普达大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679835&ver=1&signature=0SVcny5bYNCveGdKTJNO6pjCjxHwRekJs66MHpK5aI668FKRcA9pVBrXSo59Dp4dgkZGtd1JdHwFdZJERQ-0jg==",
+  "content": "中润普达公司是一家国内中文大数据应用领域领先的行业服务机构.在领域致力于数据云资产、数据云端计算、数据云端存储、数据云端服务、数据云端交易、数据云端金融等“六位一体的综合大数据落地应用服务.",
+  "datetime": "2017-05-25",
+  "wid": "zrpddsj",
+  "active": 0,
+  "article": "【资讯】 2017.05.24资讯 我们最有“数”",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "建经投资咨询有限公司",
+  "title": "建经大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679821&ver=1&signature=dmPS71rzq2eB-kIoQPHU-G6LsczD3ZOxW-iuffFYhfhpYc-fx5ObPCucZ1VLKo2CKYYWso*fBgMz5CzR0yHkNw==",
+  "content": "浙江建经投资咨询有限公司承接各类建设工程项目的审价业务;工程造价咨询;工程咨询;政府采购代理;工程招标代理;货物进出口、技术进出口,让你第一时间了解公司相关信息,加强信息沟通!",
+  "datetime": "2017-05-25",
+  "wid": "jianjingdashuju",
+  "active": 0,
+  "article": "【邂逅建经】43个项目入选发改委第二批PPP项目典型案例",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "重庆福汇投资顾问有限公司",
+  "title": "瑞盈人工智能量化交易中心",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495677959&ver=1&signature=8t3MXDb8U4hBW8qvBj8HvdTyB1mwcTxPOLaMQiiWa2nWie6kzIi*QA7Rrp4oJUlaVRN42rXp8H7tsJfCnkr-8Q==",
+  "content": "瑞盈人工智能量化交易中心是专业为广大黄金外汇投资爱好者提供服务的公众平台,专注于智能化EA交易程序开发、程序化交易团队培养.",
+  "datetime": "2017-05-25",
+  "wid": "CQFXCM-1200",
+  "active": 0,
+  "article": "中日美的炒汇方式截然不同",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "内蒙古自治区人民政府办公厅",
+  "title": "内蒙古大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679802&ver=1&signature=7*f13Td5Sqa5MOhdUMARtA52TJe3-HgxbKiCAR*-9Q1e4*BqudLyF13rZkP*SFhIWTR5H*yHdZ1KjXkveijn5w==",
+  "content": "发布我区电子政务大数据发展工作动态.",
+  "datetime": "2017-05-25",
+  "wid": "gh_2021f510aeb4",
+  "active": 0,
+  "article": "图解丨关于政务信息系统整合共享的＂十件大事＂",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "哈工程云计算虚拟化项目",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679885&ver=1&signature=fcOSb5VY*P22MByeFilSuLMeZK1FQgynQO*MUiGuQjFTGaIMxvLXYXY6fZpKYXCs46oXDK0wao8k4CHO-cV0JQ==",
+  "content": "哈尔滨工程大学、VMware公司强强联合,设立云计算、虚拟化工程师等计算机类专业培养项目,为符合录取条件的应(往)届毕业生提供多层次的学习和就业机会共同为国家培养实用型、技能型和国际型人才.",
+  "datetime": "2017-05-25",
+  "wid": "hagongchengyun",
+  "active": 0,
+  "article": "“Java之父”高斯林加盟亚马逊云计算",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "北京网贷数盟网络科技有限公司",
+  "title": "北京网贷数盟",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495681406&ver=1&signature=9eKVzZfgZx95peBlOrrNO4-Z1fPtDG7l1taH3jVhc1SK2oTVnnA*mEIv-jymQ1p1CJ1UJq7x8n-V4SLnVCFRgA==",
+  "content": "p2p网贷门户-最新最快最全的一手网贷咨询,排行,网贷风险监控平台",
+  "datetime": "2017-05-25",
+  "wid": "gh_ce3e8b74c8c8",
+  "active": 0,
+  "article": "AI拿下围棋界,又搅局金融业!传奇投资人“都铎·琼斯”真金白银来...",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "贵阳大数据交易所有限责任公司",
+  "title": "贵阳大数据交易所",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679816&ver=1&signature=IW0FFY*AOP*b4E*CwvFvfb48TE-2vpToqr8rYAQ3ThRKY1cmIyy-LMLjE5pYyaIeWY1oxKFPHlJ2va9251vCPQ==",
+  "content": "我国首家大数据交易所,2015年4月14日正式运营,曾得到李克强总理批示;工信部《大数据产业发展规划(2016-2020年)》起草单位之一,全国信标委“大数据交易标准试点基地”;2017年内会员数量将达3000家,累积交...",
+  "datetime": "2017-05-25",
+  "wid": "GBDEx_",
+  "active": 0,
+  "article": "2017第三届中国(贵阳)大数据交易高峰论坛议程",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "合肥乐维信息技术有限公司",
+  "title": "大数据观察",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679802&ver=1&signature=CFnCq-zqjMYgp3fbEwvK508SNntk5SRAEQtxcjxu3xDXk5NjIV11kGFVDbiWzIY4Io4x*nQ-lZgBm9MbKN41Ag==",
+  "content": "大数据观察将为您带来最新的大数据、云计算相关的资讯、从多方面视角解读大数据.了解大数据,从关注大数据观察开始!",
+  "datetime": "2017-05-25",
+  "wid": "shuju_net",
+  "active": 0,
+  "article": "大数据预判公共WiFi热点是否安全",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "中科智道(北京)科技股份有限公司",
+  "title": "云计算热点",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679863&ver=1&signature=CAfpEgu0vOqGVgHivWAPL4vYMe4LSku7bM9RjMfi2wtRANOHa3wZDS1k*JMSsTyhEo1s6eJ3VFfxjUQ4F05-fA==",
+  "content": "中国云计算商业资讯门户、行业观察者,聚集云计算服务商、集成商及云计算用户的商业资讯平台!",
+  "datetime": "2017-05-25",
+  "wid": "iyunshangjie",
+  "active": 0,
+  "article": "首次披露 | 金山云收益增速108% 主打游戏和AI",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "华东江苏大数据交易中心股份有限公司",
+  "title": "华东江苏大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679821&ver=1&signature=NhCGapnRAmo7vB7L9Em6JI2hVdyhjvk7eLBZTjQf2rdXeOhcbYZ4CwGzCxyou8nERuPt8mt-L8vhbf8lhLpt-Q==",
+  "content": "华东江苏大数据交易中心是华东地区首家数据在线交易机构,以数据工厂+数据产品+数据电商+数据金融的经营模式,基于大数据采集、挖掘、清洗、可视化等技术,为互联网金融+大数据在行业垂直市场领域提供多种数据应用...",
+  "datetime": "2017-05-25",
+  "wid": "hdjsdsj2015",
+  "active": 0,
+  "article": "【解析】2017年端午小长假出游趋势报告",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "人工智能社区",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495678600&ver=1&signature=poSKPBFDIwTjcYEZJtdTT-EGx7q4ITwbv-93SrWpTOICSKZwYFVykjPjfoeW53ibUZlPeH1HjI-5VHcFSkcSDw==",
+  "content": "未来是人工智能的世界.在这里,你将看到人工智能领域最新鲜、最有趣、最前沿的信息.",
+  "datetime": "2017-05-25",
+  "wid": "AIsociety",
+  "active": 0,
+  "article": "重磅 | 柯洁落败竟然是意料之中的事?",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "人工智能头条",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495680250&ver=1&signature=5bJAhTOTL*j3efQkNvI5I0ad-H6p1jTL5Edqm8*Ly65JQ4MBwqYGRXc-NYWDW29PCzaa*g306te5qAu7-xyfmw==",
+  "content": "专注人工智能技术前沿、实战技巧及大牛心得.",
+  "datetime": "2017-05-25",
+  "wid": "AI_Thinker",
+  "active": 0,
+  "article": "TensorFlow架构与设计:变量初始化",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "深度飞扬学习交流平台",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679760&ver=1&signature=RtHVoUmP-JuvlLb0Jn830CFG9yFL7BmOfyAp7g9R2vii0PeVpMO*WFRW-AodPxvvenBh08jAx*wD5WN7HxrEow==",
+  "content": "学习交流,共同成长,",
+  "datetime": "2017-05-25",
+  "wid": "depth0543-3522659",
+  "active": 0,
+  "article": "词组辨析---bring/take/fetch/carry",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "南京汇吉递特网络科技有限公司",
+  "title": "网络大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679797&ver=1&signature=7hJgycOqhg9bXpE*5TcDxfnIdxscxCQ-Cn71Mmqx99gddr2U3BAOwBbh2quLS5HFPV5JotvPj768FmGx06ztww==",
+  "content": "打造中国最专业的网络大数据科学门户网站,提供新闻动态、研究资料、测量工具、数据报告、在线测量等各项信息及服务,供IDC,CDN,ICP和普通大众共同学习进步.;;",
+  "datetime": "2017-05-25",
+  "wid": "raincent_com",
+  "active": 0,
+  "article": "今日头条发布的2017人工智能影响力报告",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "江苏爱科赛尔云数据科技有限公司",
+  "title": "爱科赛尔大数据和云计算",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679871&ver=1&signature=ETUnAEywrUoQe1YIRKpiPXAm0w3J8vRbeg9LpBw7FRyP-ShDaDQBMwBSteTA6bB8jCffEwqy3NxnJDOlDNm8xg==",
+  "content": "提供大数据高速备份和恢复软件、硬件研发和技术支持;云数据和云计算中心系统软件、硬件研发和技术支持等.",
+  "datetime": "2017-05-25",
+  "wid": "jsiexcel",
+  "active": 0,
+  "article": "共享单车发布长沙骑行“大数据”",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "数才企业管理咨询(上海)有限公司",
+  "title": "机器学习与人工智能",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495677354&ver=1&signature=RqtsK-fApfY4G0yhlEOCJ32TZmSJLcV0*FtQzKwUF7mVvbkg*FrGcpc*jfTgY9aoHcSNPRX80h2*jvbcB1sqkg==",
+  "content": "帮助你在人工智能领域更好地发展!",
+  "datetime": "2017-05-25",
+  "wid": "datawork",
+  "active": 0,
+  "article": "【算法直聘】微信北京[看一看 搜一搜]-推荐算法工程师、专家",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "广州研趣信息科技有限公司",
+  "title": "知景大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679826&ver=1&signature=WuPY4o2tNXRU22aKH4ioSk5dAriAXFtVrSc4TP6cXztM-HQJdT1YoS6kBFwY3AUEfozQLt7P2ss7MH8KUKZWNg==",
+  "content": "基于大数据搜索、挖掘的景区评价研究,景区大数据精准营销讨论,旅游大数据分析交流分享.",
+  "datetime": "2017-05-25",
+  "wid": "urbaninfo",
+  "active": 0,
+  "article": "移动数字使等式成立",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "深圳市拓扑二十五科技有限公司",
+  "title": "全球人工智能",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495678611&ver=1&signature=w*xMci2-BKKw9Sjck7qB1s-0Fs0EfO8ZpMLj3wQZN9k9XQuzL05NhpzyS6HsZaROX7xoTmWAcgq0Az8sni9OsQ==",
+  "content": "为10万AI开发者提供全球最新AI技术动态和专业技术交流社群!",
+  "datetime": "2017-05-25",
+  "wid": "aicapital",
+  "active": 0,
+  "article": "生活因此变得可爱,神器时代!",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "广州虎鱼网络科技有限公司",
+  "title": "虎鱼网络大数据分析研究中心",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679830&ver=1&signature=UZbeFYFLd1uiJ4BMbDqPi4TEjnUetU17E1pmIlFXx8B6Xq7tgxDl4poKbVW9cV3pAOG58QRig6scVk5PenGSeQ==",
+  "content": "虎鱼网络专注于互联网+电子商务平台设计与开发、大数据分析技术,本订阅号专注于提供移动互联网、O2O、移动电商、大数据分析等领域的相关资讯,欢迎关注!",
+  "datetime": "2017-05-25",
+  "wid": "TigerfishNet",
+  "active": 0,
+  "article": "人工智能和机器学习的新趋势",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "极客X养成计划",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495693706&ver=1&signature=QS7vLFaUO7pKrCW--LQFMVdRSA9Wbwlrg1Jbp*fpHntIEF4XshNDK-NBy-p37uI3jL7f8jNncsePGEELE2LzcA==",
+  "content": "机器学习,深度学习,自然语言处理,数据科学 学习历程 知识分享 一步一步养成智能时代的 2% 我是爱学习的不会停的蜗牛",
+  "datetime": "2017-05-25",
+  "wid": "gh_583f13e9d202",
+  "active": 0,
+  "article": "TensorFlow-11-策略网络",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "上海超级计算中心",
+  "title": "上海大数据联盟",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679816&ver=1&signature=-qzrL4rUtErrAFnmMUEq4rzjM9s2ojCtSLHizQNhELUzsiTT1P2bVZFnad-JaWl5z3lkqlwim8Riw9IHUkvByg==",
+  "content": "上海大数据联盟是在上海市经济和信息化委员会、上海市科学技术委员会联合指导下,聚集大数据领域相关的数据资源、服务平台和数据应用等主体机构自愿组成的非营利性联合体.联盟秘书处依托上海超级计算中心和上海产...",
+  "datetime": "2017-05-25",
+  "wid": "SHBIGDATA",
+  "active": 0,
+  "article": "三大运营商新战场:与BAT争夺大数据金矿",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "机器学习研究会",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679673&ver=1&signature=Z8gLeXZ4R09gTTsC*Gcezxtso7phoO9CDXJYms2LbujX*8cNDhoUsx*levZT*KzPuI3vcZSzMvcvI4Wma0rf2g==",
+  "content": "机器学习研究会是北京大学大数据与机器学习创新中心旗下的学生组织,旨在构建一个机器学习从事者交流的平台.除了及时分享领域资讯外,协会还会举办各种业界巨头/学术神牛讲座、学术大牛沙龙分享会、real data 创新...",
+  "datetime": "2017-05-25",
+  "wid": "gh_5906530d307c",
+  "active": 0,
+  "article": "【学习】深度过程学习",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "AI世代",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495680214&ver=1&signature=N0wmF5pKngTwkny8BJojQvD6g8lxVCBIn1VJ9Tf13fkkF7o4s*KBsE7YUpqdwVxnhamkiQv2ANX03I1JTbqYJw==",
+  "content": "腾讯科技旗下人工智能领域垂直微信公众号.",
+  "datetime": "2017-05-25",
+  "wid": "tencentai",
+  "active": 0,
+  "article": "DeepMind联合创始人:围棋领域相对单纯 实际应用有很多挑战",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "光合汇创业科技(北京)有限公司",
+  "title": "全球大数据峰会",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679811&ver=1&signature=wEY-J5THKo-1-D9ryOK19MYk5SHU7HCPyj4Qz4r1K6aix57vdoIAVKmA4rqbD11qutuo-HJTEkOU2Kz53Lgw1A==",
+  "content": "全球大数据峰会由GBDC(全球大数据联盟)主办,成都市经济和信息化委员会、天府新区成都管委会支持.峰会中涉及智能政务、物流、金融、电子商务、房产、信息安全、卫生等多个行业或领域,将创新大数据的应用、挖...",
+  "datetime": "2017-05-25",
+  "wid": "theo2oexpo",
+  "active": 0,
+  "article": "GBDC |中科创达副总裁张书涛:从大数据到嵌入式,人工智能技术分享",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "上海锐成信息科技有限公司",
+  "title": "HostUCan云计算",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679867&ver=1&signature=yu*DvxhbyCfVRKTdCx3oHuxtc7b3heTabcURy7IGT8mjvugTnOxhGXmm9bFoKK7g0120MxHQ-Uv*K4pjFWtKMA==",
+  "content": "关注HostUCan云计算,即刻掌握全球云计算领域最新资讯和行业动向.",
+  "datetime": "2017-05-25",
+  "wid": "hostucan-cloud",
+  "active": 0,
+  "article": "2017WHD.china公布最新议程",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "杭州市云计算与大数据协会",
+  "title": "杭州市云计算与大数据协会",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679840&ver=1&signature=hBq5kT-fBCtSnZuRQbddgJDQPfhx51GNu9eqEJHbvCj-GtJZ8YgSJLvYvKSS7xcR*dxB-gvTKhCxTnbOonLIWw==",
+  "content": "关注最新云计算资讯",
+  "datetime": "2017-05-25",
+  "wid": "hzsyjsxh",
+  "active": 0,
+  "article": "头条摘要",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "上海拓善智能科技有限公司",
+  "title": "天善大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679816&ver=1&signature=-vuMWWxI*nBikWlVJwYmBPOdsdL2AhiurX7*MHFkDBDw19Zo-iIl0x9J4D7uAGlgtx1zc-eunVt95Pc*5GrBqQ==",
+  "content": "天善智能 www.hellobi.com 是一个专注于商业智能BI、数据分析、数据挖掘和大数据技术的垂直社区平台.天善智能的粉丝和用户均为国内外工作在数据领域的一线研发、技术开发者、架构师、产品经理等.",
+  "datetime": "2017-05-25",
+  "wid": "tianshanbigdata",
+  "active": 0,
+  "article": "深度学习(Deep Learning)系列篇(1):深度学习在腾讯的平台化和...",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "中企港(北京)资本管理有限公司",
+  "title": "人工智能天使会",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679328&ver=1&signature=v4XH3NqSuUaqlZ8GWRJKDxObgDgVzuYwtbcnLS6xmzsk*INnK59-41jM-Yr2fG0EqLm3Du5pBnx18Vviwm1l4w==",
+  "content": "人工智能天使会助力AI领域天使投资人迅速发现优质初创项目、助力AI领域初创企业迅速找到天使投资.",
+  "datetime": "2017-05-25",
+  "wid": "aiangelclub",
+  "active": 0,
+  "article": "让柯洁服气的人工智能,究竟厉害到了什么地步?",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "成都龙翼教育科技有限公司",
+  "title": "四川升学大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679797&ver=1&signature=SMfJCYkQnCKv2aAxa8SGYDHI3Vj3E7fQqdlCgDTpYuv7bgMSFxw4RclMMoK2*ai3*rEenDfGYRnu4SIFwwVQfQ==",
+  "content": "了解权威教育政策,掌握最新教育资讯,学习最佳家教方法!幼升小、小升初、初升高、高考等相关升学信息全面解读,四川人的升学数据库,学生、家长的求学大百科!",
+  "datetime": "2017-05-25",
+  "wid": "scsxdsj",
+  "active": 0,
+  "article": "关注 | 高中三年,孩子需要你怎样的陪伴?",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "CSDN大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495680184&ver=1&signature=P7fk72eUVvpo9sm1kyZhgCSILYMh-963h1Zv6X46IJ34*xYBURYyTkbdhBWiSeIn4ZbcxHsm9jEyFhNCTajifQ==",
+  "content": "CSDN分享Hadoop、Spark、NoSQL/NewSQL、HBase、Impala、内存计算、流计算、机器学习和智能算法等相关大数据观点,提供云计算和大数据技术、平台、实践和产业信息等服务.",
+  "datetime": "2017-05-25",
+  "wid": "csdnbigdata",
+  "active": 0,
+  "article": "从底层到应用,大数据工程师成长之路必备技能汇总",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "东东机器学习",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679673&ver=1&signature=e63IYECFtTXExPxxnMzdncRzNnWYRGXm81Oq2uAJTNlGHM-TlBmF5M3jA8uB4Vy6CDnGNgl4AbfHxpggPd9ogQ==",
+  "content": "介绍人工智能,机器学习的相关内容,敬请关注哦!",
+  "datetime": "2017-05-25",
+  "wid": "zhdwangtravelsky",
+  "active": 0,
+  "article": "正交化与最小二乘法",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "云计算与大数据联盟",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679876&ver=1&signature=Dq*pskPnY0mJ2XOfk2M2UQ63nGyFNxZs56bn8cvaxMyzu4rQZqwMjSUah-xpMg07AkVJsoIfAZjkB5Z18FvwGw==",
+  "content": "青春与年龄无关,是一种心态; 活力的表现不是一个动作,她是一种表里如一的体现; 青春无悔,活力常在. 我们青春,我们是和君活力派.",
+  "datetime": "2017-05-25",
+  "wid": "sparking_life",
+  "active": 0,
+  "article": "十届4班,520那天都干了啥~~~",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "中国电信云计算实验室",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679880&ver=1&signature=5VQ3WQFh3TbFgb*L*4woAZwWmKMW666YYJImCo8S5UFI2F5WRHp25pN1J4qc0g7d-WHKqOGgiXJC4IpSwWRDOg==",
+  "content": "分享中国电信云计算技术最新研究成果、业界主流技术和市场发展新动态跟踪",
+  "datetime": "2017-05-25",
+  "wid": "CTCloudLab",
+  "active": 0,
+  "article": "产业互联网,什么为王",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "佛山市明锐科技有限公司",
+  "title": "佛山市明锐科技云计算",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679867&ver=1&signature=Kr36j4T3YMzu6l3*v3rPwKT4zpBXGHLj*4PsgrnUDvfvTwkA*eACt3ERHqLiCMwR9bHtxJYutxwxMTKJ2AnHKg==",
+  "content": "佛山明锐科技有限公司,是一家集云计算(桌面虚拟化)研发,实施,销售,工厂生产管理开发,部署于一体的高新科技企业. 明锐科技致力于用云计算为传统行业企业服务,帮助降低计算机使用,维护成本,提高办公,管理...",
+  "datetime": "2017-05-25",
+  "wid": "MRvCloud",
+  "active": 0,
+  "article": "固态硬盘与机械硬盘有什么区别?",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "北京金衡和科技有限公司",
+  "title": "金衡汇大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679826&ver=1&signature=jPimiijldnZ4-9ph7V*C4hcST46cHd30ziGp9vrNYY4aUF1H-XTi-XRVaTuuaq8eavc1NuhaytbWY9BnpOqP4A==",
+  "content": "这里有权威的独家数据、及时的新三板资讯和有趣有料的线下活动,一起玩起来!",
+  "datetime": "2017-05-25",
+  "wid": "jinhengcaifu",
+  "active": 0,
+  "article": "新三板挂牌企业5大融资方式",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "北京微链国信系统集成有限公司",
+  "title": "微链人工智能研究院",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679328&ver=1&signature=r0kjUvjLyoYtQnksraywiaPUX5ZJipc96lrVVusbetI1R24LmEZ-egGr9P4EZ4pHYHVrQiVGpUz3SNDfdhXn0g==",
+  "content": "北京微链国信系统集成有限公司(MCI); 是一家优秀的软件和IT服务供应商,微链国信自有品牌werobotics集研发、设计、制造、服务为一体.作为丹麦优傲机器人的中国战略合作伙伴,公司以最具竞争力的价格提供最优质的...",
+  "datetime": "2017-05-25",
+  "wid": "wlgx_888",
+  "active": 0,
+  "article": "脑洞来自手工折纸 NASA新型机器人或将上火星",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "云计算伙伴网",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679876&ver=1&signature=ncIuvDkA1G5GH1SeGpRZuZqIz4CorfiaETy-9smE47FZHQ*HzA0KPfTFr6oVKNQ9dB8yw4A*UiMhnlH6uxBC2A==",
+  "content": "聚焦云计算渠道伙伴,纵览最新专业资讯!在这里您可以第一时间了解全球及中国云计算渠道市场的最新动向.只要3分钟,充电每一天!",
+  "datetime": "2017-05-25",
+  "wid": "cloudpartner",
+  "active": 0,
+  "article": "华胜天成8亿元收购美国云计算公司GD",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "人工智能快报",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495678600&ver=1&signature=D0XAgyRAOjxYxoPJuSmrs3fHYVVBDRWBq0*Vi4Sn6jaVSaBUcZdyxbYO*kWs90Q3wlNgK1b0Yd0DAkCYs2BDYA==",
+  "content": "以全球视野动态跟踪人工智能领域的新进展,及时推介人工智能领域的新技术、新应用、新业态,为我国人工智能领域的从业者和政府决策部门快递最鲜活的科技情报和行业资讯.",
+  "datetime": "2017-05-25",
+  "wid": "AI_News",
+  "active": 0,
+  "article": "比人类更准确:人工智能可有效预测心脏病与中风",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "CSDN",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495680184&ver=1&signature=B8LotqP-Y1OqKIEnKb*NccVMGWVZQLBCuEvFgxrTLOJoEK6C30aiqcLVhPGS6gELGpKQsI2lSVjSaSsRb7NQ8Q==",
+  "content": "CSDN精彩内容每日推荐.我们关注IT产品研发背后的那些人、技术和故事.",
+  "datetime": "2017-05-25",
+  "wid": "CSDNnews",
+  "active": 0,
+  "article": "P语言: 为异步、容错和不确定性而生的编程语言",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "北京数字联盟网络科技有限公司",
+  "title": "数盟网络",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495681406&ver=1&signature=h0ciW6jtUkL0-V97O6jsQYyFPYDOiRqte3rNSsDYWYAHkY8DfVrBC1i7YFYCLEUYxnPFX2NpiFxWaemPg806hg==",
+  "content": "数字联盟,专业的移动安全技术服务商. 数盟可信ID是数盟独立研发,基于安卓设备物理层和协议层信息,结合显性标识如IMEI、 MAC地址等,生成的零权ID;不随任何非硬件信息变化而更改,是真正唯一、真实、安全、高...",
+  "datetime": "2017-05-25",
+  "wid": "Digitalunion",
+  "active": 0,
+  "article": "APP推广为何乱象百出?",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "北京阿拉丁立方信息技术有限公司",
+  "title": "阿拉丁大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679797&ver=1&signature=4E7-f0RpA7ziXCNAza2bFFWcoxSs6N9Tl6LDWHnOZhCuYOe0tPH16S2MlSj9RKRmUrvWD*RJx1SphUtLW0oAWw==",
+  "content": "大数据交易、大数据分析、大数据可视化工具、大数据处理技术最新发展动态,以及大数据行业热点资讯发布和交流;;",
+  "datetime": "2017-05-25",
+  "wid": "aladingbigdata",
+  "active": 0,
+  "article": "电商大鳄亚马逊要开始卖药了,但医药行业比普通电商艰难得多",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "上海网杉信息技术有限公司",
+  "title": "Hitpoint云计算",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679867&ver=1&signature=sl0sIi-4yQN-U5atfX9g2jb5xHDOv9AEC4DRFevcXP3deQKfpRWiThg347GFy1BIr8H7J0ivzilRssNgA7n8VQ==",
+  "content": "Hitpoint作为NetSuite大中华区授权合作伙伴及Oracle金牌合作伙伴,我们将定期与大家分享SaaS模式、云计算方面最新资讯及趋势.",
+  "datetime": "2017-05-25",
+  "wid": "HitpointCloud",
+  "active": 0,
+  "article": "云端管理企业,勒索病毒才要Wanna Cry",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "中兴智能视觉大数据技术(湖北)有限公司",
+  "title": "智能视觉大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679811&ver=1&signature=QWjWkUvxfHrhuhY3qAO1TTtf4-6rZlQ1MTv74bFkKZEk4ehF4VzZFmgp92RzkvAy7we3HVwHv*cQcdy1K2ydHA==",
+  "content": "中兴智能视觉大数据技术(湖北)有限公司,依托全球最顶尖人工智能技术研发团队的技术支撑,专注于将深度学习及深度神经网络应用于智能动态人脸识别,超级图形计算,在智慧城市建设等领域提供系统解决方案和产业化...",
+  "datetime": "2017-05-25",
+  "wid": "ZTE-znsjdsj",
+  "active": 0,
+  "article": "2017年中国人脸识别技术市场规模及政策分析",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "云计算洞察",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679871&ver=1&signature=jRHNdlCtBe7j4dQXTy10PzOzOI024YQZJV8tfZX-PGJTTcIso114C0BkIDtUqa-HqL9FgFu9xf*eLtXQVRdlIQ==",
+  "content": "云计算(IaaS、PaaS、SaaS)、大数据 、人工智能等新科技观察",
+  "datetime": "2017-05-25",
+  "wid": "rongzhengmei",
+  "active": 0,
+  "article": "【云周报】“亚马逊、微软、谷歌、阿里、腾讯”动态",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "云计算开源产业联盟",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679876&ver=1&signature=4zcjytjDig*M6ckQh7tzYOxHmzQ70F6rGhjfSvd*PdoyvUkUJuCuSq10GOIRCkzN0gkDsBfZb4IOYUcfySutyQ==",
+  "content": "云计算开源产业联盟旨在培育中国OpenStack产业生态,引领行业趋势、制定行业标准,提升中国在开源社区影响力.",
+  "datetime": "2017-05-25",
+  "wid": "OSCAR20160309",
+  "active": 0,
+  "article": "创造“生命”之术--InnerSource介绍",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "UAI人工智能",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495678603&ver=1&signature=nJHQmZIM5o*4WXOoWhgR5m0lsRpk8yZjqDezPBXCFNM0Gqo9ZDCw8RKEBejogfv-tkY9XIDllCvO-dc5iHnWHQ==",
+  "content": "深度学习相关理论研究和产业应用 Deep Learning: Theoretical Research and Industry Applications",
+  "datetime": "2017-05-25",
+  "wid": "bigcat_comp",
+  "active": 0,
+  "article": "UAI AlphaGo 系列—— AlphaGo 的确是一个大事件",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "上海星红桉数据科技有限公司",
+  "title": "传媒大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679807&ver=1&signature=9ZD7Sguw7VptW6w4rWoT1RwGNOp23RqtwmHZpK7YVqUeYpjHtvwwBhG5tvj7Fxd3FY30riQnU8WnsVGFBNjdPQ==",
+  "content": "星红桉Star.V是由知名投资者、电视及互联网领先技术专家和媒介分析专家组成.致力于多屏收视行为采集、大数据平台研发、行业算法研究、动态人员标识及传媒数据聚合,采用互联网思维和数据技术创造内容及用户体验价...",
+  "datetime": "2017-05-25",
+  "wid": "StarV_BigData",
+  "active": 0,
+  "article": "《七十二层奇楼》,真的够奇吗?",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "重庆市云计算和大数据产业协会",
+  "title": "重庆市云计算和大数据产业协会",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679867&ver=1&signature=MVbPP9jZ8MbbGBSfZEB5*5QqK05n4-y20hgdbRxdqDlCZLTFUcij0LQIp0sCp2M0R3rosQWJXh4bvqYunRIyhg==",
+  "content": "西南地区首家市级云计算大数据领域专业社团组织——重庆市云计算和大数据产业协会的宣传、交流和服务平台.承开放、服务、合作的理念,以助推产业发展为宗旨,架起政府部门、科研院所、企事业单位间的沟通桥梁,...",
+  "datetime": "2017-05-25",
+  "wid": "cqyjsdsj",
+  "active": 0,
+  "article": "申报|近期7项国家级、重庆市级项目汇总",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "神经网络与强化学习",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679970&ver=1&signature=jQKnF2GD61uOL8gsw0rzneIAE*7f6RD5l76Dgcq5eKtBD3EMtdwD38x4LgWNDIQ*4ZIPoWAkZK3AMryEAvfA7w==",
+  "content": "深度学习神经网络模型(CNN RNN GAN等)应用. 1)时序序列领域:运动想象与癫痫脑电信号,语音信号. 2)视觉与决策领域:图像语义分割与强化学习.",
+  "datetime": "2017-05-25",
+  "wid": "gh_57770247034b",
+  "active": 0,
+  "article": "强化学习经典入门书的读书笔记系列--第三篇(下)",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "汇达恒信科技(北京)有限公司",
+  "title": "人工智能与环保",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495678708&ver=1&signature=3zXFODHPX6q-noRYFMy0Mb2Wxx6zgF*ywRg17zTmMWfAKl7SUa3iGwrYrge4SELv7tLDyyWBxH-5WomN2bdyWg==",
+  "content": "开展人工智能理论与方法研究,推动人工智能技术与产品在环保行业中应用.",
+  "datetime": "2017-05-25",
+  "wid": "AI__EP",
+  "active": 0,
+  "article": "2017百度联盟峰会:用AI思维拥抱营 销变革",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "山东联科云计算科技有限公司",
+  "title": "联科云计算",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679871&ver=1&signature=dYTk77iI5jafidP8viDierSrrFD-yN0RuhjDCzZrMudurEpFUMSojQ1TSEBAJUQdrVYCkIWX-Tr9URbgLyGDXg==",
+  "content": "聚焦云计算大数据行业发展动态,提供云管理、云计算、云加密、大数据分析产品及云服务.",
+  "datetime": "2017-05-25",
+  "wid": "lankloud",
+  "active": 0,
+  "article": "京津冀协同发力 抢抓大数据发展机遇",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "阿里巴巴(中国)有限公司",
+  "title": "天池大数据科研平台",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679826&ver=1&signature=04Y97f5yw16I0cU0RB5YoLw-NLW8W2RoWc4G7gLx5lkN7ZMEI3GbAj1YkocRL6xW2hzunlBnm1zoUOoX0NxKRw==",
+  "content": "天池,基于阿里云的开放数据处理服务ODPS,面向学术界开放海量数据和分布式计算资源,旨在打造“数据众智、众创”第一平台.在这里,人人都可以玩转大数据,共同探索数据众创新模式.",
+  "datetime": "2017-05-25",
+  "wid": "tianchibigdata001",
+  "active": 0,
+  "article": "这个大赛能救命!小天邀你用AI挑战地震科学难题!",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "上海优刻得信息科技有限公司",
+  "title": "UCloud云计算",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679858&ver=1&signature=kr4SlsOh9GKq74Qwt-*mnTgeVVOe7ZUYXwn*h1BxHgfCfsHeRmBiZ9AOsbEhORHzptGkXdQlZzMF7T7q9QFqRA==",
+  "content": "UCloud;全国公有云三强;40000+企业用户;性价比No.1 所有产品免费试用;并享受7X24小时;90秒内快速响应一对一服务. 立即注册:https://account.ucloud.cn/cas/register",
+  "datetime": "2017-05-25",
+  "wid": "ucloud2012",
+  "active": 0,
+  "article": "操作解析:MySQL如何查看复制信息并排查问题(上)",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "天津超克雷特科技有限公司",
+  "title": "机械鸡",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495694088&ver=1&signature=lqdvTfmwQZN07lCzCmVndxQ*en*XUItWvkWKPM-DVN1akdSon-MNQwGPWpLwCKvokU8UcscNCa6J**BiFfwf*Q==",
+  "content": "人工智能从业者社群,90%的从业者都在机械鸡关注未来",
+  "datetime": "2017-05-25",
+  "wid": "jixieji2017",
+  "active": 0,
+  "article": "重磅 ‖ 软银秘密收购了英伟达40亿美元的股份,成为其第四大股东",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "克拉玛依市云计算产业园区管理委员会",
+  "title": "克拉玛依市云计算产业园区",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679863&ver=1&signature=McgiYDEWwHn063zjKPjLKuxIz*8REwHYNNoTlfWPjFqrVdbf*WWG9oljFmzsXCBifQnj*7z8DHjKqkCX6aF1LA==",
+  "content": "克拉玛依云计算产业园区于2012年11月15日正式成立,致力将克拉玛依打造为丝绸之路经济带信息中心.即刻关注,快速了解克拉玛依云计算.",
+  "datetime": "2017-05-25",
+  "wid": "gh_af6f1ecc8adf",
+  "active": 0,
+  "article": "克拉玛依针对云计算产业出台0.25元电价政策,数据中心企业你心动了...",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "脉讯在线(北京)信息技术有限公司",
+  "title": "脉讯大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679826&ver=1&signature=L3UCX2IxADY7vE-i4RDQdhlXvumwDE*mXD3Fq-zDP-H4P3EdvEzcX-AxOMERaXjD7QyC8mPwbPF0YMDAI2NqwQ==",
+  "content": "这个号会告诉你【我们有关传播的一切脑洞大开】.",
+  "datetime": "2017-05-25",
+  "wid": "maixun_bigdata",
+  "active": 0,
+  "article": "播放量超70亿、植入却频遭吐槽,《欢乐颂2》到底“赚”吗? | 电视...",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "杭州泰一指尚科技有限公司",
+  "title": "杭州大数据产业联盟",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679830&ver=1&signature=cV9HrnXYszNn9MCRPOL6HyrpMJtL0f-9DtoMh0nKFFZP220nk4eIO9sYNB9st-JzdpERfo*uK1Uvmn-ZdjeC1A==",
+  "content": "杭州大数据产业联盟宣传、交流和服务平台.联盟聚集包括数据源提供方、数据应用需求方、数据技术服务方、基础设施制造商在内的上下游企事业单位,致力于推动杭州大数据产业的发展,形成产学研用一体化的杭州大数据...",
+  "datetime": "2017-05-25",
+  "wid": "gh_16560c2b1c9d",
+  "active": 0,
+  "article": "@联盟会员,联盟官微正式开通“企业投稿”啦!",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "重庆云威科技有限公司",
+  "title": "重庆大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679811&ver=1&signature=kcA2iAXsYWS-H5SIyM2PnQFxhZDQ4tOypKDya-3DbOM-nHP5WCwePON67Z*Ctki0qXS4W4WTtsoI3TlU4w0LYA==",
+  "content": "重庆大数据加速大数据创业者与研究者的创新.重庆大数据和顶尖的研究机构合作;让开拓者始终站在技术的前沿.重庆大数据与诸多企业建立合作;让开拓者的成果能够直接创造价值.",
+  "datetime": "2017-05-25",
+  "wid": "cqshuju023",
+  "active": 0,
+  "article": "分析 | 数据经济的三个特征及未来前景",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "人工智能内参",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495678600&ver=1&signature=yICOaa16U1ogmnCYV83C7K4ZeAcq58g6nswodTU5usrx7WnWEEA5VxICX9HQ2H-GAlfzST755MkJLVg8hBb4fw==",
+  "content": "最新最快的人工智能全球资讯",
+  "datetime": "2017-05-25",
+  "wid": "gh_4bdcba75914a",
+  "active": 0,
+  "article": "【新闻|京东研发配送无人机 计划将食物从农场送往城市】",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "深度学习与NLP",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679744&ver=1&signature=Kn58NsOadf9VlIDoyZ6YzdXNwWZ8yQ6fPoMJ3i*rd6ct7R6mqPNIasMpTLFtY3lCOIpgMqRd5XKbu6732vKbCw==",
+  "content": "关注深度学习在NLP方面应用,不定期为用户推送一些深度学习用于自然语言方面的最新论文,最新资讯.",
+  "datetime": "2017-05-25",
+  "wid": "DeepLearning_NLP",
+  "active": 0,
+  "article": "<深度学习优化策略-4> 基于Gate Mechanism的激活单元GTU、GLU",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "深圳市大数据研究与应用协会",
+  "title": "深圳大数据研究与应用协会",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679835&ver=1&signature=gSZkAohBwbgEga0Ij5EczAEUIDYHTGJ51qB*l6G9Uh5s5L01-QJhUq1bvrSwSCsxoyqNf2iXrbjAIbx*nmBHmA==",
+  "content": "协会秉承”创新、开放、融合、分享“的态度,整合资源、资源分享、需求对接,互利共赢.定位于大数据行业研究及应用落地,紧紧围绕应用落地,通过“产学研用资”一体合作创新机制,充分整合产业链上中下游资源,...",
+  "datetime": "2017-05-25",
+  "wid": "szbigdate123",
+  "active": 0,
+  "article": "大数据发展“喜人”,但依然面临着不可避免的挑战",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "深圳市众鼎汇文化传媒有限公司",
+  "title": "人工智能机器人联盟",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495677354&ver=1&signature=Fm1oW69frCr98rnu0EcuHuHEYdqqx7o-ajjFUNx0QPwjsU9uR1ZuknLvChtrf1aY6ABtNZTpq0Tszr3qbbNzyA==",
+  "content": "国内最具影响力的人工智能与机器人行业媒体,重点关注国内外人工智能、机器人行业发展,以及AR/VR、无人驾驶等科技前沿.",
+  "datetime": "2017-05-25",
+  "wid": "caia617",
+  "active": 0,
+  "article": "不敢相信!美国预测10年后的世界!",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "河北中科恒运软件科技股份有限公司",
+  "title": "中科恒运大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679835&ver=1&signature=BNLBmnewo4tTYqSa6n1D7KOiee0rP4JupFPey*wFrV5FlE9h9cbHlk6iZ4JPAXLauul5r7fuFo8Uyc2G2HudOA==",
+  "content": "河北中科恒运软件科技股份有限公司官方账号,为您准时推送中科恒运的新鲜事和大数据干货猛文.",
+  "datetime": "2017-05-25",
+  "wid": "gh_3a99716da8b8",
+  "active": 0,
+  "article": "大数据智慧旅游时代",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "人工智能与日辉趣停",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679332&ver=1&signature=uE*b22YNsLgEbZPaNRehPPz5CQ7b4H57JmsAGNBYdlIKKPIWhVVAuBojOa1pwk5QSGj1MxC6u8bSKEOfCUB4FQ==",
+  "content": "介绍人工智能领域的最新研究成果及行业动向,跟踪报道作为计算机视觉领域的领军品牌“日辉趣停”的动态.",
+  "datetime": "2017-05-25",
+  "wid": "gh_21a7e1e0f652",
+  "active": 0,
+  "article": "昨晚,Google发布了一堆可怕的人工智能...",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "慧与(中国)有限公司",
+  "title": "HPE大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679802&ver=1&signature=PFUBauiC9oRJTMJAg67e-LejoJT77KFIVw7LaQciIS0FKxfdSVEwU9MdPLM6XKlXm7jsw0DoE6TeWH6JLVR0iA==",
+  "content": "成为行业领先的混合IT提供商,在新一代软件定义安全基础架构之上,承载客户当今数据中心运维,架起多种云环境的明日之桥,为不断涌现的智能边缘提供能量,促进未来数十年内园区、分部和产业化物联网应用的发展.凭...",
+  "datetime": "2017-05-25",
+  "wid": "gh_43464a0c389d",
+  "active": 0,
+  "article": "HPE Codar,三步即可实现持续交付!",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "机器学习理论与实践",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679690&ver=1&signature=6eRJZJjNL9QfRvtn-t0*z0P8v7sdbRFzy2BB4LKwX3FbI6dg0kF-m8Ul3jI2TDPMsaFxg5pGRGm4upk0x*2FXw==",
+  "content": "分享机器学习理论与实践",
+  "datetime": "2017-05-25",
+  "wid": "AI_MLTP",
+  "active": 0,
+  "article": "深度学习之概率与信息论:边缘概率",
+  "timestamp": 1495641600.0
+}
+
+{
+  "source": "",
+  "title": "深度学习之偶遇",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679764&ver=1&signature=5uJTptteyiMV9RVjN3NxdgeQG3*Q74OLdTPhgWheSoR0ngWf525TxZ94Cun-51xFPG-NBf1xirpC6DBcFJjkBA==",
+  "content": "爱喝草莓酸奶,爱玩游戏的思想成长旅程",
+  "datetime": "2017-05-21",
+  "wid": "gh_93a05997af23",
+  "active": 0,
+  "article": "我所认识的浙大人",
+  "timestamp": 1495296000.0
+}
+
+{
+  "source": "",
+  "title": "体系结构与机器学习",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679695&ver=1&signature=c3h6IdglbMfOcHoQ4An8hR-*G*XdWcbEmtu79EyM5bp56vmLvtiB2amWcy-vgxvG79iRcF5yTOj5A5-RqtN8mw==",
+  "content": "追踪体系结构与机器学习(深度学习)的最新进展.每日精选机器学习与体系结构话题进行讨论与学习.",
+  "datetime": "2017-05-21",
+  "wid": "gh_0bcdadcdffa1",
+  "active": 0,
+  "article": "如何把复合资源“公平地”分配给异质需求的用户?",
+  "timestamp": 1495296000.0
+}
+
+{
+  "source": "",
+  "title": "KittCamp无人驾驶社群",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495680003&ver=1&signature=mGlyMUUnMAM*nTece0b6OASSiW4oEADPAISfH3AmoW5KqbJ7FclfM5m*HtnzMDodrYA1R7Z82Vo9XA5etwxMaQ==",
+  "content": "无人驾驶汽车领域的学习社群+线下聚会",
+  "datetime": "2017-05-21",
+  "wid": "gh_ba2b4da8994f",
+  "active": 0,
+  "article": "GTA还可以这样玩?无人驾驶也可以很亲民",
+  "timestamp": 1495296000.0
+}
+
+{
+  "source": "",
+  "title": "人工智能的一千零一夜",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679332&ver=1&signature=WGzKvGFntLCb-bq5YfV4EnpZ0lEHOcZ6qndqGdnZ5wAuBnoiM2iBMGaZS0dIAUeZuSYK88lDyjgNZcTOK8DtvA==",
+  "content": "有趣的人工智能科普频道.",
+  "datetime": "2017-05-20",
+  "wid": "daoling-AI",
+  "active": 0,
+  "article": "「第五夜」曲筱绡你可是说出了价值100万美金的P/NP问题啊!",
+  "timestamp": 1495209600.0
+}
+
+{
+  "source": "",
+  "title": "化学深度学习研究",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679744&ver=1&signature=X-iTaXWmGPPQ6kEZ7O5wME8zpd05EQXIagJ82BdOxwT7S5FhnPrkhQ5z28XG6WSdDTO21CiALteenVJbnimRmQ==",
+  "content": "常州初中化学陈广余名师工作室合作交流推广平台",
+  "datetime": "2017-05-20",
+  "wid": "gh_9713331ca2e5",
+  "active": 0,
+  "article": "正确处理数学教学中的基本矛盾 * (上)",
+  "timestamp": 1495209600.0
+}
+
+{
+  "source": "",
+  "title": "苏州机器学习互助小组",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679686&ver=1&signature=H9-4cCsbVtPW2KOX5fW6q9hKraYr1Xe3VmMbq0pLUEmR4AIhQJo0tDezAJpq2fSkNMC*ie8EMog*HiV0DPgRjg==",
+  "content": "每周一次机器学习笔记分享,循序渐进从小白到专家!",
+  "datetime": "2017-05-20",
+  "wid": "gh_29ef4acb491f",
+  "active": 0,
+  "article": "6-感觉身体被掏空,但还是要学Pandas(上)",
+  "timestamp": 1495209600.0
+}
+
+{
+  "source": "",
+  "title": "机器学习与数据挖掘实践",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679673&ver=1&signature=uH5CmRpFS3aT*DLo6BultzJLyTva*2pAWdsnvTqmyZG15AXJ2645PU4nWC3ITZ04n6eL7vCyDVwNRjf7wCnwQA==",
+  "content": "机器学习,数据挖掘,网络爬虫,数据分析等实践项目.",
+  "datetime": "2017-05-20",
+  "wid": "gh_cb5e0bc19323",
+  "active": 0,
+  "article": "欺诈预测机器学习模型设计",
+  "timestamp": 1495209600.0
+}
+
+{
+  "source": "东华云计算有限公司",
+  "title": "东华云计算",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679858&ver=1&signature=Bbm3LDzBxkEMDW-V6Sx6laObEHVnsZ8Ai9gkF6pfBClELA7duDvGTWZblCpeHV3gtOyuXHo7gZJx89qASUlxrw==",
+  "content": "东华云计算集团为东华软件[股票代码:002065]旗下全资子公司,主营为云上城市顶层设计、政府大数据平台、政务云中心的建设与运营,并在新商业模式下开展政务、园区、农业、旅游、020商业等多种行业运营,拥有数十...",
+  "datetime": "2017-05-20",
+  "wid": "gh_67b1f18f2dca",
+  "active": 0,
+  "article": "祝贺东华软件与廊坊市政府签署《云平台系统建设与云数据研究应用战...",
+  "timestamp": 1495209600.0
+}
+
+{
+  "source": "",
+  "title": "机器学习算法精研",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679686&ver=1&signature=3pZQO8nvNYZgvLfWtb1ibgDFG*acvln0qBW3xqhRRyRRItjchUv2YxHa656uWX4m3EIQATOepY06CBnKOtkmwA==",
+  "content": "在国内外名校、名企中,与专家、学者、技术人员一起精研算法!",
+  "datetime": "2017-05-20",
+  "wid": "MachineIntellect",
+  "active": 0,
+  "article": "线性代数基本概念(附 python 代码)",
+  "timestamp": 1495209600.0
+}
+
+{
+  "source": "",
+  "title": "安阳市大数据云计算中心官方号",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679885&ver=1&signature=jm*3gtPElATsKhhTMtLadTNnT8UL6N-N7CGNqtMK37en9hVe9UGs8CT0ocD7zVZSzbQMuTXXJnO6u12QCsirLA==",
+  "content": "安阳市大数据云计算中心",
+  "datetime": "2017-05-20",
+  "wid": "gh_74477ead500e",
+  "active": 0,
+  "article": "“智慧互联 创领未来”信息化大篷车巡展活动安阳站成功举办!",
+  "timestamp": 1495209600.0
+}
+
+{
+  "source": "盐城市城南科教城管理委员会",
+  "title": "江苏省大数据产业园",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679816&ver=1&signature=owPZj25CTvQqoNskWcGG05XC*AoIkDqafqEr1p4zy5PyT1YO7BWrw*fLqrr0XvXlIiJWoB-hLRdnXgfayXpDhA==",
+  "content": "帮助您了解江苏省大数据产业园的相关情况,包括园区概况、园区载体、优惠政策、入驻企业、园区新闻等.",
+  "datetime": "2017-05-20",
+  "wid": "yccnkjc",
+  "active": 0,
+  "article": "【园区动态】中关村大数据产业联盟创新基地在盐城揭牌",
+  "timestamp": 1495209600.0
+}
+
+{
+  "source": "北京搜狗信息服务有限公司",
+  "title": "搜狗大数据研究院",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679826&ver=1&signature=0X3RNkOCF0o5k2L*ZdZEAx2jV-AsQPKE8RW*MCRDKCcYagdcxjCHfqoAvZAG1qphyVBgS7HL11LIrl6hCK2JZg==",
+  "content": "搜狗大数据团队官方公众平台,关注搜狗大数据最新动态",
+  "datetime": "2017-05-19",
+  "wid": "SogouBigData",
+  "active": 0,
+  "article": "【重磅】搜狗5亿用户热力榜发布啦!!!",
+  "timestamp": 1495123200.0
+}
+
+{
+  "source": "南京中兴新软件有限责任公司",
+  "title": "中兴云计算解决方案",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679867&ver=1&signature=nuJw5TLAEqvlFcDBdOjU7ApbbGzIdUdpWSUBzcMAbfsA*o65zeEyZLIBuzDAIopWuh7QlgqHZfkjzs328yfd2w==",
+  "content": "最新中兴云计算动态信息",
+  "datetime": "2017-05-19",
+  "wid": "ztecloud2015",
+  "active": 0,
+  "article": "比特币勒索会善罢甘休?你的安全谁保障?",
+  "timestamp": 1495123200.0
+}
+
+{
+  "source": "金数智创成都科技有限公司",
+  "title": "西部数盟",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495681406&ver=1&signature=KYTELJGzzNbS7a6PIQ8h3Y0jgwCiHK5ge-JyXQHnIS9tEuTYt5bBYJl4HG7itrh0jDZaFtqZGaPy6I1Wx5Fqkg==",
+  "content": "中国西部互联网与大数据产业分会官方公众平台,即时分享工作动态,发布最新资讯~",
+  "datetime": "2017-05-19",
+  "wid": "gh_ad456df475de",
+  "active": 0,
+  "article": "大数据精准营销助力企业+互联网发展论坛暨中国西部互联网与大数据...",
+  "timestamp": 1495123200.0
+}
+
+{
+  "source": "北京文行国际会展有限公司",
+  "title": "北京大数据及云计算博览会",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679840&ver=1&signature=Hie5ukvp7gBNUIVqRSv8gVgxAlkB4TgMqS2Xwn4dcjOoscG*ak-t-GkT5msCtar*Idwo8skQNkOnfTf0QAV0xQ==",
+  "content": "中国北方最具规模和影响力的大数据及云计算展会,致力于搭建大数据及云计算领域技术交流、经贸合作、品牌推广及市场开拓的理想平台;展会采取政府引导,市场化运作的模式,展示大数据与云计算领域前沿技术、产品和...",
+  "datetime": "2017-05-19",
+  "wid": "DT_Cloud",
+  "active": 0,
+  "article": "恭喜您获得一张免费的展览票",
+  "timestamp": 1495123200.0
+}
+
+{
+  "source": "中国科技开发院(宜昌)云计算孵化器运营管理有限公司",
+  "title": "宜昌云计算孵化器",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679858&ver=1&signature=YuK7t69TR0XoH1pFIwKE-qmqYIo3qkrCheh63hBL-6q9Zc7cRmFbKYwmNaWJoTdRP65nuVIOLisO8yn9Mnb4bA==",
+  "content": "中国科技开发院(宜昌)云计算孵化器,汇集最有效的孵化服务资源、最活跃的国内外创新创业力、最强劲的金融资本交易力.联系电话0717-6337333",
+  "datetime": "2017-05-19",
+  "wid": "castdyci",
+  "active": 0,
+  "article": "【创关怀-园区新闻】黄石经济开发区管委会副主任程艳民参观考察云...",
+  "timestamp": 1495123200.0
+}
+
+{
+  "source": "中科京北承德服务外包有限公司",
+  "title": "承德华唐大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679835&ver=1&signature=Ykv8DAaecbh6gyTdRZaBvckdJd1BxlVF44g6NEPqzfnVARPI4kiOAFEdV*713-KiFdOQwv2xTi8nNfQlQ4PpCw==",
+  "content": "以服务外包方式从事数据处理业务;软件技术开发及服务;网上贸易代理及咨询服务;通讯运营技术咨询、投资咨询、企业管理咨询服务;企业形象策划服务;会议及展览服务;计算机、计算机软件及辅助设备、电子产品、家...",
+  "datetime": "2017-05-19",
+  "wid": "cdhtdsj",
+  "active": 0,
+  "article": "承德公司知名航空公司项目 第二批学员举行结业典礼仪式",
+  "timestamp": 1495123200.0
+}
+
+{
+  "source": "内蒙古颐邦互联网信息服务有限公司",
+  "title": "和林格尔云计算大数据创客中心",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679867&ver=1&signature=7GQszDtxAylcQQSZY1nOBbgCg9U5XfCGpm*eKGl59Dq-jA-mN0EUV*93P0zRDK0YXDdzN*n25yLT06B*luwgjg==",
+  "content": "内蒙古自治区首个以云计算为基础的创客中心,云计算大数据创客中心因地制宜,将为本地注入新的创业创新理念,加速和林格尔产业转型及创业人才、创业项目培育,打造一个全新的创业创新生态圈.",
+  "datetime": "2017-05-19",
+  "wid": "gh_cc8168582f20",
+  "active": 0,
+  "article": "国家统计局数据管理中心主任胡帆一行参观和林格尔云计算大数据创客...",
+  "timestamp": 1495123200.0
+}
+
+{
+  "source": "",
+  "title": "机器学习人工智能与数据挖掘",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679695&ver=1&signature=IKyNq0psgCrdxYbl*zxkJYXM*H2gLqmNKkaCiQZUpbgwtuqMF3bqtJdsIlO5PwQfVXy5Dt9XWPUZ*ocBQS9Aag==",
+  "content": "推送机器学习,人工智能,数据挖掘;机器学习数学相关知识;计算机知识;机器学习库;机器学习编程;机器学习,人工智能应用;数据结构与算法;AI;python;",
+  "datetime": "2017-05-19",
+  "wid": "gh_415c0ccbb8c8",
+  "active": 0,
+  "article": "[干货]基础机器学习算法",
+  "timestamp": 1495123200.0
+}
+
+{
+  "source": "",
+  "title": "深度学习每日摘要",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679735&ver=1&signature=qZBSJsGtReE9YcMYuNbaykO5sSDMiT4q*S2Zxk3-9LKkAW1E1nj1HU4b*6xfF5dpMbn1l-dwdBrN5H2pnoL92Q==",
+  "content": "分享自己的深度学习实践,专注技术,追求原创.",
+  "datetime": "2017-05-19",
+  "wid": "DeepLearningDigest",
+  "active": 0,
+  "article": "时延神经网络(TDNN)原理及其TensorFlow实现",
+  "timestamp": 1495123200.0
+}
+
+{
+  "source": "",
+  "title": "PKU机器深度学习大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679744&ver=1&signature=G5bTImF6SiItvn0Syx1fnp3jcFxL7XrQ-fDIhgNwFQtbiC3nF9P5oX65P8O21b0V9JyMxSnKNJhsbUBdkvLUDw==",
+  "content": "致力于服务对大数据/机器学习/深度学习等知识及技术的感兴趣的群体方便交流与沟通.",
+  "datetime": "2017-05-19",
+  "wid": "PKUMDLbigdata",
+  "active": 0,
+  "article": "DCGAN: 一类稳定的GANs(附代码)",
+  "timestamp": 1495123200.0
+}
+
+{
+  "source": "北京拓实科技有限公司",
+  "title": "拓实云计算",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679863&ver=1&signature=g94d8ZL512u7ZvsfKtqwUQBydKZrFj8oWuHtdwLJ0rswPVrPbVAnminA5lDCKnNgtDFz5bD6VqDeuLI8nm2b2w==",
+  "content": "发布公司最新动态,提供最全面的系统集成方案",
+  "datetime": "2017-05-18",
+  "wid": "ToastCloud",
+  "active": 0,
+  "article": "亚信铸就安全钢铁“长城”",
+  "timestamp": 1495036800.0
+}
+
+{
+  "source": "本溪云计算科技有限公司",
+  "title": "本溪云计算科技有限公司",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679867&ver=1&signature=hAA2bhsLBBMd3zcHyiOqlFEUwdMQaCll8bHESyIbvktnknQMmU8DO-8Wc8lhdOvF7-utDaI6XC3aFbaDmmoFpw==",
+  "content": "软件开发、系统集成、数据存储、网络广告、网站设计、DM广告设计、发布",
+  "datetime": "2017-05-18",
+  "wid": "lnbxyjs",
+  "active": 0,
+  "article": "急招电商主管、电商专员",
+  "timestamp": 1495036800.0
+}
+
+{
+  "source": "毕节市农业委员会(中国共产党毕节市委员会农村工作委员会)",
+  "title": "毕节农业大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679821&ver=1&signature=TipyBRLRMfrpsyonSjxR1ZsfYdVRVnmu2FC4RPLg6T2fEX3l5bAa0y7F2EBb6K1ZvYB0xqYHbQLo7LsvrmxipA==",
+  "content": "发布农业大数据相关信息",
+  "datetime": "2017-05-18",
+  "wid": "gh_c653c1510826",
+  "active": 0,
+  "article": "江苏省淮安市考察团到毕节农业大数据中心调研",
+  "timestamp": 1495036800.0
+}
+
+{
+  "source": "为朔医学数据科技(北京)有限公司",
+  "title": "为朔医学大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679830&ver=1&signature=zTCgUUUUwUiyPXCHa39ZAvZtHXfFp2cn0tBiT0OqcX*NyRcWbVvx1ETMgryt5OWPbCqLUmyK1kETP7DofrSIFQ==",
+  "content": "缔造分子医学循证无缝时代,及时分享最新基因分子医学前沿进展,多方位洞悉和注释海量数据结果,呈递不同专业方向的精细化分析,为临床与科研提供系列定制服务.",
+  "datetime": "2017-05-18",
+  "wid": "vishuo_biomedical",
+  "active": 0,
+  "article": "关注临床精准用药,全面启动“精准医学中国行”系列活动",
+  "timestamp": 1495036800.0
+}
+
+{
+  "source": "",
+  "title": "灯塔人工智能交易系统",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495678607&ver=1&signature=IYq*Fz2AmR9iN56k2LEuTgOuF8o-yKJgX3-xxs4JivSvxSMdD46Uh4XB0S5f6V-n2i*W8pAkf4RGt86f411rkA==",
+  "content": "中国创新型“C2B+ITM”新零售平台,万石集新零售平台致力于建立公平、公正、公开及高效的市场交易环境,并提供物权交易、消费、信息、质检、仓储、运输、保险、结算等第三方中介服务.",
+  "datetime": "2017-05-18",
+  "wid": "zhjr-edu",
+  "active": 0,
+  "article": "股民惊喜!【免费送16.8万分析软件】",
+  "timestamp": 1495036800.0
+}
+
+{
+  "source": "北京博文视点资讯有限公司",
+  "title": "大数据玩家",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679797&ver=1&signature=4UviEfbzOcK9hTedfCOVSvWdr8rEZvpMPfRw5Wssnagw73WIKJrW6nGjqH9WtVwOydt-4K*6YMwq4KakcAGyOQ==",
+  "content": "这里分享数据的技术、应用;数据的可视化、智能化;互联网时代职场人必备的工具、技能……",
+  "datetime": "2017-05-18",
+  "wid": "dataplay",
+  "active": 0,
+  "article": "百家争鸣——论数源思维",
+  "timestamp": 1495036800.0
+}
+
+{
+  "source": "甲骨文(中国)软件系统有限公司",
+  "title": "Oracle大数据和分析",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679816&ver=1&signature=iwW7Kjvjdyj5Dg-yLQVwnb7rVU674IHPlBntEQhjSDcVgEO6dUJSRwUPnGn1V74xWOiGxsCvNq13XIpcP6OY8A==",
+  "content": "分享Oracle大数据和分析的最新技术、在线培训、技术资料、开发技巧、行业动态和客户案例等信息,这里是O记BI & Big Data数据科学之家...",
+  "datetime": "2017-05-18",
+  "wid": "Oracle_BI",
+  "active": 0,
+  "article": "南方医科大学科技园牵手甲骨文,省级大数据产业园落地顺德",
+  "timestamp": 1495036800.0
+}
+
+{
+  "source": "拓维信息系统股份有限公司",
+  "title": "拓维大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679811&ver=1&signature=Y0UW7*Hb3jntevtt0X1WnqIXFY1eI2LjNACDkIHcCz*oak7T4pNuTqGc1HcjVFK1OJdQ8hVfkgaRDoaj4L8xdw==",
+  "content": "蕴含大数据、移动互联网、IT前沿技术为主的一体化信息服务平台.",
+  "datetime": "2017-05-18",
+  "wid": "dtalkeweb",
+  "active": 0,
+  "article": "2017谷歌I/O开发者大会发布什么新东西?谷歌新产品功能展示",
+  "timestamp": 1495036800.0
+}
+
+{
+  "source": "呼和浩特盛乐现代服务业集聚区管委会",
+  "title": "内蒙古云计算",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679858&ver=1&signature=a8j4FrBB-BgfNfF6nxIMC6yeko80H7UNtHdsiPSpKLGHzn3-zxg80CwXsrI8EvQy8GrHpts0EdfFTPuJ7oa98w==",
+  "content": "呼和浩特盛乐现代服务业集聚区欢迎您!",
+  "datetime": "2017-05-18",
+  "wid": "ChinaIDCV",
+  "active": 0,
+  "article": "集聚区积极防范新型“蠕虫”式勒索病毒感染",
+  "timestamp": 1495036800.0
+}
+
+{
+  "source": "",
+  "title": "煜则实业云计算增值投资计划",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679898&ver=1&signature=An2-Po1EUnvHJbBt*oIStcYSVESBsWpAOOYUroCscrDSJzXbbuYiwOEGSYkPMdogxuCXB44*jyXtX2EtckTLig==",
+  "content": "与您共享财富盛宴提升观念,播种财富,创造“被动收入”",
+  "datetime": "2017-05-17",
+  "wid": "gh_3f223f2389fb",
+  "active": 0,
+  "article": "全球支付平台Payza宣布推出完整比特币服务,商家可像法币一样直接...",
+  "timestamp": 1494950400.0
+}
+
+{
+  "source": "",
+  "title": "CSDN云计算",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495680184&ver=1&signature=-OKTJr3iHBzQQVB80kmaUGbxSwzn4SFgzcFQmKuLAhU7e5uZZyFiZMZMq6DJDGnWyeR9HBFduXuka*m5bFUEeQ==",
+  "content": "CSDN作为国内最专业的云计算服务平台,提供云计算、大数据、虚拟化、数据中心、OpenStack、CloudStack、Hadoop、Spark、机器学习、智能算法等相关云计算观点,云计算技术,云计算平台,云计算实践,云计算产业...",
+  "datetime": "2017-05-17",
+  "wid": "CSDNcloud",
+  "active": 0,
+  "article": "倒计时1天|CCTC 2017最全参会指南",
+  "timestamp": 1494950400.0
+}
+
+{
+  "source": "",
+  "title": "我爱机器学习",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679678&ver=1&signature=zlKNGRBGRAB6R6pZyBRHW8q1Caqg3aK6VvVgUPBy8PD7nJJ*kYL8qIDZKwGyfvqQNW1v0tuaeF2pjdgQ3ETvHA==",
+  "content": "关注deep learning,机器学习,大数据,搜索引擎,自然语言处理以及机器学习周边动态(52ml.net).",
+  "datetime": "2017-05-17",
+  "wid": "ILoveMachineLearning",
+  "active": 0,
+  "article": "机器学习日报: 2017-05-17",
+  "timestamp": 1494950400.0
+}
+
+{
+  "source": "北京深知无限人工智能研究院有限责任公司",
+  "title": "深知无限人工智能研究院",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495678712&ver=1&signature=snGQzo26grct5ehDvy8jqhIZ7-k1pqQy9JRxZdi1MowGJrx1UaKpXyXmT0VOYmUDajrJkzzS1sYxiUmTtSkDog==",
+  "content": "AITC的使命是使AI技术产品化、产业化和商业化.AITC与全球顶尖研究中心、高科技公司展开合作,已搭建AI公共技术平台,致力于AI资源共享、人才培训和集聚.",
+  "datetime": "2017-05-17",
+  "wid": "aitc-beijing",
+  "active": 0,
+  "article": "深知无限人工智能研究院在锋创成立",
+  "timestamp": 1494950400.0
+}
+
+{
+  "source": "美杉科技(北京)有限公司",
+  "title": "美杉大数据和程序化购买",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679840&ver=1&signature=n*FA2wqAcNZsYHwsBeMHPSDMXZDBOYOmwWxwtNciDf0jqK7Tc6ohENd10B4p76MOd7hGx1T5dXXSwLbVmUEKbw==",
+  "content": "数据可以让广告效果变得更好,帮助进行渠道的搭建以及产品的定制工作,对产品的运营和企业的发展提供帮助.数据让我们知道用户需要什么,将广告形态从B2C 形式变成 C2B 模式.美杉科技立足与广告及社会媒体大数据...",
+  "datetime": "2017-05-16",
+  "wid": "MaysunMedia",
+  "active": 0,
+  "article": "辣眼睛!2017奇葩搜索报告TOP1:憋住的屁去哪儿了?",
+  "timestamp": 1494864000.0
+}
+
+{
+  "source": "",
+  "title": "深度学习社",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679735&ver=1&signature=hUqn-9E3f3ssRYttfC5dopA46*aU1IlMtDvJmD1rKUGGWmXn80or5o2DKqvJaBZqQyzAk9eokhCDbPHhXqk5Pg==",
+  "content": "1-6岁创业家都在用",
+  "datetime": "2017-05-16",
+  "wid": "quanqiushangye",
+  "active": 0,
+  "article": "北京最大包租公!在国贸拥有154个足球场大的商铺,只因一个爱国善...",
+  "timestamp": 1494864000.0
+}
+
+{
+  "source": "深圳市亚太人工智能科技有限公司",
+  "title": "亚太人工智能",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495678611&ver=1&signature=CFpfztLkkexl6Bfa3eG88fCzFjRwCvJBt8eEUi494Ni1vDeqc*-IzXIAUPUOqmwc22iWh8RY43KfjHxxjwjmvg==",
+  "content": "深圳市亚太人工智能科技有限公司,专业从事人工智能高端科技产品、智能机器人及机械臂、汽车智能自动化驾驶系统及数控机械设备.",
+  "datetime": "2017-05-16",
+  "wid": "gh_afe98054c579",
+  "active": 0,
+  "article": "生活因此变得可爱,神器时代!",
+  "timestamp": 1494864000.0
+}
+
+{
+  "source": "北京柠檬圈科技有限公司",
+  "title": "人工智能世界",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495678712&ver=1&signature=nN-KtgDRPLIJSX4EaIYQQI4mQMCLaI5cijJOMiMFqJb8PhEKeW3tKatQwGPaRUXFd6aic*SD6pKzI72poOPx*w==",
+  "content": "想了解人工智能?关注人工智能世界就够了!",
+  "datetime": "2017-05-16",
+  "wid": "gh_4dc7d7326a4d",
+  "active": 0,
+  "article": "朝鲜黑客被怀疑是全球勒索病毒幕后黑手",
+  "timestamp": 1494864000.0
+}
+
+{
+  "source": "",
+  "title": "山东省云计算中心",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679889&ver=1&signature=E6A9rX2YRs1smkb1GxsxQbI0qwzSgCZLTxvuRp7qYF*h*Z3VfY*qD3wWmj1AQJqMA2w-POGGRDh9FQz6wcHBYQ==",
+  "content": "山东省云计算中心是由山东省政府批准成立,专业从事云计算技术研究及应用推广的公共服务机构,全面服务于我省政务信息化、企业信息化和行业信息化建设.",
+  "datetime": "2017-05-15",
+  "wid": "gh_024f6a5b87b6",
+  "active": 0,
+  "article": "教你编写消息中间件的基础插件",
+  "timestamp": 1494777600.0
+}
+
+{
+  "source": "北京众智众享文化有限公司",
+  "title": "金融与大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679811&ver=1&signature=GxsHiU5NGBImabra52nQJ8fXbzzL-qfa1TMeAx9itR-HdIqF0nnjhuB9YfN5JH6723Qofm5nej4FM-5zzYFZRw==",
+  "content": "未来所有的金融都是互联网金融,都是大数据金融!未来之前,先在这里等待.金融与大数据,分享变化,把握变革!",
+  "datetime": "2017-05-15",
+  "wid": "worldfinancial",
+  "active": 0,
+  "article": "高瓴资本投资退出状况分析:中国最大民营投资管理公司,250亿美金...",
+  "timestamp": 1494777600.0
+}
+
+{
+  "source": "福建华闽通达信息技术有限公司",
+  "title": "华闽通达建设工程大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679840&ver=1&signature=03eFDx1r7NdtxKRq2xyleQOYzPZal*RmH*gBWE0KGBafum*OxwUJ4MaL06OG6XMpHdW41JBwAYbPi*F9hNyNdA==",
+  "content": "大数据与工程建设项目管理",
+  "datetime": "2017-05-15",
+  "wid": "ChinaISS_01",
+  "active": 0,
+  "article": "【软件积木化开发】智能工厂,你造吗?",
+  "timestamp": 1494777600.0
+}
+
+{
+  "source": "",
+  "title": "鹤壁城市云计算中心",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679889&ver=1&signature=weZpmna7-vHmxyyOywS1TyJCKeySgJnsmy-E2BFhgOsPTH-1tEN*jrXOBKIJqep4DnqIl0FLhNYcKjo8uDnacQ==",
+  "content": "鹤壁城市云计算中心是曙光集团旗下曙光星云信息技术(北京)有限公司下属子公司,位于河南省鹤壁市,主要从事政府行业的信息化建设和集成服务行业.",
+  "datetime": "2017-05-15",
+  "wid": "gh_e9a828a09b80",
+  "active": 0,
+  "article": "【紧急通知】新型“蠕虫”式勒索病毒紧急防范通知",
+  "timestamp": 1494777600.0
+}
+
+{
+  "source": "深圳市宜佳家居实业有限公司",
+  "title": "知行堂大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679830&ver=1&signature=OjxsSCJJYYXCTgzqVagQP-kUKOWhSWMLsOYr2Na-J-31STX-b6dnNp-7bFKFILsEtzP7eWpCsZ65GNrSfJ5zhg==",
+  "content": "汇聚珠三角家居厂家之大数据,为经销商和厂家搭建桥梁,为持续坚守的家具人助力!【知行堂】是新常态家具革命先行者,实现品牌家居产销分离,企业营销系统托管服务 、家居终端卖场顾问服务、可持续返单特价干货服务...",
+  "datetime": "2017-05-14",
+  "wid": "zxtdashuju",
+  "active": 0,
+  "article": "写给母亲的诗",
+  "timestamp": 1494691200.0
+}
+
+{
+  "source": "",
+  "title": "THU机器学习最强大脑",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679695&ver=1&signature=HMGPf8lFDhKs1HpjHzlItwpU5Yu7he5rLMkLVcruyE*hoPKTX5hndRvCfQGC*JLjCCvWsNRHk3D-intmHuu*Zg==",
+  "content": "这是一个分享学习经验,方法技巧的地方,这是一个大家讨论交流学术的地方,如果你对软件,编程,算法等非常感兴趣,欢迎加入QQ群:240043678,让我们共同学习,共同进步,学习使用各种软件,研究各种算法,实现...",
+  "datetime": "2017-05-14",
+  "wid": "qq1932211370",
+  "active": 0,
+  "article": "【紧急通知】比特币计算机病毒正在全球疯狂传播",
+  "timestamp": 1494691200.0
+}
+
+{
+  "source": "北京中微汇聚数据科技有限公司",
+  "title": "人工智能菠萝科技",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679328&ver=1&signature=1cUbvmrk6e1TPY5QAMJzHKQfEcBgWR8sgDn8PPodwfL9PUheUfFF2oyiDbO4*Kc-kjchkAgWapF2UfbcwCqqxw==",
+  "content": "分享互联网金融、大数据风控、Fintech、人工智能等前沿行业洞察;提供全面的企业、个人信用查询功能.菠萝科技是北京中微汇聚旗下自媒体,菠萝科技-成就亿万人的信用价值.",
+  "datetime": "2017-05-12",
+  "wid": "gh_cf0963952097",
+  "active": 0,
+  "article": "大数据反欺诈那些事",
+  "timestamp": 1494518400.0
+}
+
+{
+  "source": "北京伟翰钢业有限公司",
+  "title": "管件大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679807&ver=1&signature=-KwXlWe2G9dRU1wi1iA3-Fjp-EE7ZZpJSRhoxl1pPooMAhXfsk98FWWT-QpLVBIFT4B3SmKd4Ht6fIj80YbOhQ==",
+  "content": "专业钢管管件O2O平台 1.实现多人拼单 低价便捷采购2.帮助工厂快速解决库存 3.协助客户快速寻找异型管件、管材.利用大数据的便利信息,实现上游工厂、工业企业和贸易企业间无障碍沟通,通过大数据引领行业渠道变革,...",
+  "datetime": "2017-05-12",
+  "wid": "GJDSJ1",
+  "active": 0,
+  "article": "“一带一路”沿线闪亮的中国钢铁足迹",
+  "timestamp": 1494518400.0
+}
+
+{
+  "source": "",
+  "title": "机器学习读书会",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679673&ver=1&signature=CCqlMxaJ66rl*pRvrAii4mSJEt9-gmH4chjlTLbcimzDgilBjNE54m54QAg88ilqX*CMoIj2VJT8Ue6N3KExIg==",
+  "content": "机器学习读书会,由机器学习爱好者发起,为机器学习爱好者提供沟通交流平台,是非营利性组织,不收取任何费用.具体时间地点请见公众号通知,一起读同一本书,欢迎机器学习爱好者前来切磋讨论.",
+  "datetime": "2017-05-11",
+  "wid": "machinelearning",
+  "active": 0,
+  "article": "Deep learning 第10章 RNN 分享PPT",
+  "timestamp": 1494432000.0
+}
+
+{
+  "source": "中融商汇(北京)国际会展有限公司四川分公司",
+  "title": "西部VRAR与人工智能展",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495677959&ver=1&signature=dmyItsrOjUPMPfIf9BEjGA-Bya5p2nvj3E*a-I46upxruVS1TWayp8Py3h61VasZTjYvNtDbXJbNIG2T8fWJDA==",
+  "content": "中国西部VR/AR与人工智能展的启动,希望通过展会与论坛共同推进VR/AR应用和产业发展.以促进虚拟现实、 增强现实等领域的市场发展和生态系统建设.展会同期将举办高峰论坛、高端对话,为行业人士提供技术合作交...",
+  "datetime": "2017-05-11",
+  "wid": "VRARexpo",
+  "active": 0,
+  "article": "VR/AR会终结iPhone开启的智能手机时代?",
+  "timestamp": 1494432000.0
+}
+
+{
+  "source": "",
+  "title": "云计算孔滔",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679871&ver=1&signature=QfL25gFd-IH6Zyw2mwrBiX-EGfMf3qChyxG5au30KizzUpX6R*G8agHt4yd0zzBHJVhLJ5*GrWx5faX3EyNj8w==",
+  "content": "关注国内外最新的互联网应用及技术,分享互联网行业的信息资讯,产品技术,市场和营销,做有价值的公众号.感谢大家的关注和支持!",
+  "datetime": "2017-05-11",
+  "wid": "kongtao1003",
+  "active": 0,
+  "article": "客户说的需求未必是真的",
+  "timestamp": 1494432000.0
+}
+
+{
+  "source": "",
+  "title": "神经网络交流学习",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679970&ver=1&signature=BX8UaR*WGPdb-KxPCAXB6YqpvLU8T8sbsgdMGTAG1MheGV88vZsi1NZ6Hk9sTn*Xc5bSIX3yv4DFBj2gfuEbZA==",
+  "content": "一起学习神经网络.",
+  "datetime": "2017-05-10",
+  "wid": "gh_13a21f67c7c3",
+  "active": 0,
+  "article": "基于最小二乘法的——线性回归拟合(一)",
+  "timestamp": 1494345600.0
+}
+
+{
+  "source": "用友网络科技股份有限公司",
+  "title": "用友BQ大数据与商业分析",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679835&ver=1&signature=TbOEcoZAMqDIAGXH28uOIFsh4OeFEBu8eOC-s3pUbC3P*pbw2*rlDaALX9P2RF2SMttj7x4u0Et*Nk8*2S5NtA==",
+  "content": "用友BQ,基于用友UAP平台自主研发的BA产品, 预置分析主题,与NC完美融合,具有完整的BA工具组件,支持对非NC数据源的数据整合与分析.;;",
+  "datetime": "2017-05-10",
+  "wid": "yonyou_bq",
+  "active": 0,
+  "article": "【培训通知】抢抓大数据,迎战超业绩",
+  "timestamp": 1494345600.0
+}
+
+{
+  "source": "",
+  "title": "机器学习资料",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679703&ver=1&signature=65JgjkZOgKI6TVPKu3nPJSC-5paO14jtU-5KVAR3KlUF0*HALyP3wg-izWZVP2p-*FFXZNfgxLEM86GmY6v8BA==",
+  "content": "机器学习",
+  "datetime": "2017-05-10",
+  "wid": "rainlesvio",
+  "active": 0,
+  "article": "机器学习每天训练资料",
+  "timestamp": 1494345600.0
+}
+
+{
+  "source": "",
+  "title": "机器学习研究僧",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679690&ver=1&signature=G10isrJ5oMiszm-B5ZX-mQ-5r5jQMCaA5IyYs2YIKFqyP4OMTU4*HMNBlcx7O50XAehzRKwf4xOVZ71VcGslTw==",
+  "content": "发布自己的学习心得,传送优质学习资源,分享学习心得,参与、见证、推动人工智能时代的剧变!",
+  "datetime": "2017-05-09",
+  "wid": "gh_00be36100578",
+  "active": 0,
+  "article": "网盘资料链接失效解决办法",
+  "timestamp": 1494259200.0
+}
+
+{
+  "source": "北京世界星辉科技有限责任公司",
+  "title": "360人工智能研究院",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679328&ver=1&signature=eBrPdtJsmulVxOfNwzwUzpqUkCwhiZK0a5lW3DkxcNtYxIVn*oQXdw7XWc2HnunqKom-V7qngO4hT7iUJELp*Q==",
+  "content": "360人工智能研究院成立于2015年9月,研究院立足于深度学习及3D技术研发能力,着眼于大数据和云/端计算机的契机,向360智能硬件、直播等业务提供计算机视觉、语音语义及大数据的技术支持,并进行前沿探索,研发核...",
+  "datetime": "2017-05-08",
+  "wid": "QihooAI",
+  "active": 0,
+  "article": "为了压榨CNN模型,这几年大家都干了什么",
+  "timestamp": 1494172800.0
+}
+
+{
+  "source": "昆明理工大学",
+  "title": "中国计算机学会人工智能会议2017",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495678712&ver=1&signature=aDFwlX9FisIjY-CdS3LSQ5Os7gLdULWNwxVGvH*jSbxH*STAANa62zrjV97S2u5ah-OmJsV6c51sZNcepDG2VA==",
+  "content": "中国计算机学会人工智能会议(CCFAI)是由中国计算机学会主办,中国计算机学会人工智能与模式识别专业委员会协办的人工智能领域盛会,该会议为广大人工智能研究人员提供了一个交流、合作的平台,分享人工智能领域...",
+  "datetime": "2017-05-08",
+  "wid": "CCFAI-2017",
+  "active": 0,
+  "article": "2017中国计算机学会人工智能会议论坛征集通知",
+  "timestamp": 1494172800.0
+}
+
+{
+  "source": "天津海量信息技术股份有限公司",
+  "title": "海量大数据实践",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679826&ver=1&signature=KA17VuXexj98pkvgCUmUdNF484yTig-OqDj7Ft1XZtjsGxA*lyrpARFznpZ4KfWe1C3SuerqM*HQYs-V3Pxtaw==",
+  "content": "海量成立于1999年,是一家海量互联网数据为基础在线智能计算技术提供商,多年来专注于中文智能计算技术研究和知识与情报分析的方法研究.",
+  "datetime": "2017-05-08",
+  "wid": "hylanda_inc",
+  "active": 0,
+  "article": "用艺术和大数据勾勒当代创业者的群像",
+  "timestamp": 1494172800.0
+}
+
+{
+  "source": "",
+  "title": "菜鸟的机器学习",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679673&ver=1&signature=NqC-zKYMA7cPLgTIbMVcV2XtikzBclLfBksHU5HquILSr2c2QGu2Dtrx*0ErQhKpxtnX7DUG62iYUOVL4KdKng==",
+  "content": "互联网广告从业者,机器学习、数据挖掘方向菜鸟.旨在对自己的学习历程做个记录,慢慢的进行探索机器学习中未知的领域.分享机器学习相关的课程、笔记、博文和心得.欢迎指导和交流.",
+  "datetime": "2017-05-07",
+  "wid": "newbie_ml",
+  "active": 0,
+  "article": "[学习] word2vec中的数学原理详解(三)基于 Negative Sampling的模型",
+  "timestamp": 1494086400.0
+}
+
+{
+  "source": "",
+  "title": "机器学习MathView",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679690&ver=1&signature=hQ4VpsIckjOc-YFhSSYouHj74hXFLG6hkD7EziZRRuC7Fe-hsYijjxtW3ebxEaRmMIfBDeQ4zUdpyiKQuKM--w==",
+  "content": "＂Nothing is more practical than a good theory＂--Vladimir N. Vapnik",
+  "datetime": "2017-05-07",
+  "wid": "gh_038e63b27a8a",
+  "active": 0,
+  "article": "A brief summary of SVMs",
+  "timestamp": 1494086400.0
+}
+
+{
+  "source": "",
+  "title": "一个有趣的机器学习社区",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679686&ver=1&signature=ukiaxU-Vr-x9UQWvVG*S999rBzb9JWMC8yHDls0wI0Gi*Abikd3CQhXn-8*zN28HvFNAueJZOMuGt3WQjC58Bw==",
+  "content": "我们的目标是星辰与大海",
+  "datetime": "2017-05-07",
+  "wid": "dashijie121",
+  "active": 0,
+  "article": "《统计学习方法》讨论第一章",
+  "timestamp": 1494086400.0
+}
+
+{
+  "source": "",
+  "title": "人工智能与计算机视觉",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679337&ver=1&signature=y47L8iWts9-QycvUTnekQ7Ri1t0RyzGFG0nlhV4Cr0qikpGroOw1mj-tIkbp2nBnuKLX7rZu2ZGv19n3a5Zb7Q==",
+  "content": "主要研究机器学习、计算机视觉",
+  "datetime": "2017-05-05",
+  "wid": "gh_6f6cabd4fd61",
+  "active": 0,
+  "article": "数据集地址",
+  "timestamp": 1493913600.0
+}
+
+{
+  "source": "",
+  "title": "北方工大机器学习实验室",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679686&ver=1&signature=MN2xrTP3haZnkmNjS1CT6MvkHdu9AX*UgKKEVUeP4bBilrh-nBybe20Oyzv9GIq-3H8L8WfWmNVcUVT37Ez4Ig==",
+  "content": "北方工大机器学习实验室",
+  "datetime": "2017-05-03",
+  "wid": "ncut_ofvw",
+  "active": 0,
+  "article": "祝贺郑彤同学获得首届青年五四奖章",
+  "timestamp": 1493740800.0
+}
+
+{
+  "source": "武汉华博元大智能科技有限公司",
+  "title": "基因及人工智能前沿资讯",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679328&ver=1&signature=GRrA01AFaP7gSFQ1iYHb01wGvmlXqNzxFBJCzS63Ev73frjaVrdY-vgF77153D73eUefsLGh2eThE8xHdqwGhw==",
+  "content": "探讨基因及人工智能对于大健康产业推动,为专业人士提供咨询平台.",
+  "datetime": "2017-05-03",
+  "wid": "gh_56505082f574",
+  "active": 0,
+  "article": "糖尿病患者可以吃水果吗?",
+  "timestamp": 1493740800.0
+}
+
+{
+  "source": "",
+  "title": "人工智能研究者",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679332&ver=1&signature=X2L5bTRQKJ55Ss5NTvUUQolaaBr71Dqnpe2PwkaGlQIfngnWTeSNDkqGHnkmZsn1XnTbiWTw88RJXrx*-5pdvQ==",
+  "content": "人工智能研究者,前沿科技分享者,优质教育服务者.",
+  "datetime": "2017-05-02",
+  "wid": "rgznyjz",
+  "active": 0,
+  "article": "老板跑了,所以礼品我们不要了统统免费送!",
+  "timestamp": 1493654400.0
+}
+
+{
+  "source": "上海萃盈信息科技有限公司",
+  "title": "质量大数据",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679807&ver=1&signature=WQUMGr5CdDxl7j7c5ZvwG*bggHBx0DQYUZquQDEv4OjqP2llxWahbFdXuXAm6cJphtY4vUUHYTj6h0t4F1Ecpg==",
+  "content": "分享、交流与工业、质量和大数据(包括但不限于数据自动采集与管理,质量监控与风险侦测、分析、报告、改进等)、数据分析、数据挖掘、质量管理以及制造智能相关的技术、应用、研究成果及解决方案",
+  "datetime": "2017-05-02",
+  "wid": "QuAInSBigData",
+  "active": 0,
+  "article": "【专业】Cmk、Cpk、Ppk的区别及应用场景",
+  "timestamp": 1493654400.0
+}
+
+{
+  "source": "",
+  "title": "人工智能前沿讲习班AIDL",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495679332&ver=1&signature=oLiajjv6lPp2TZ23ZspXsElBF2cWKSknPYd1kwQCqZhA-hEp59xuqql*zk7YdRt8jx2J4jnZUg0PGCCrqfK*2Q==",
+  "content": "中国人工智能学会《人工智能前沿讲习班》",
+  "datetime": "2017-05-02",
+  "wid": "gh_ee3cbd1da497",
+  "active": 0,
+  "article": "【深圳】《大数据:从理论到应用》报名火热启动",
+  "timestamp": 1493654400.0
+}
+
+{
+  "source": "苏州工业园区云计算产业联盟协会",
+  "title": "SIP人工智能",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495678708&ver=1&signature=KyX32XY8gBvAjM51nhFx-HsxOGSDSf-U5mxUrd8xtg3h4mOdWmG-N-DoPEo4eY3dLDUPpwGzxWXqxOzUTqsN0Q==",
+  "content": "苏州工业园区在全国范围内率先布局人工智能产业,出台《苏州工业园区人工智能发展行动计划(2017-2020)》和《加快人工智能产业发展的若干意见》,明确提出将打造国内领先、国际知名的人工智能产业集聚中心,布局...",
+  "datetime": "2017-05-02",
+  "wid": "gh_c4a1287b42bf",
+  "active": 0,
+  "article": "关于人工智能,变革期该怎么走?大咖们在GMIC上这样说",
+  "timestamp": 1493654400.0
+}
+
+{
+  "source": "",
+  "title": "VC人工智能机器人ARVR",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495678607&ver=1&signature=J8sclO0Ttk0LJqmf5q4sNMoykIm-cmNSx12i*eT8rcR5ykBCPgCmGTUkcO4wHFm9yoSpnVLd3AxabFl*UpweAA==",
+  "content": "天使投资:关注人工智能,机器人,AR,VR领域的早期投资.",
+  "datetime": "2017-05-01",
+  "wid": "vchwai",
+  "active": 0,
+  "article": "漫画创业03-螳螂捕蝉,黄雀在后",
+  "timestamp": 1493568000.0
+}
