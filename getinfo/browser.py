@@ -49,6 +49,7 @@ class Browser(object):
 
     def get_page(self, page):
         """browse target page"""
+        self.page = page
         self.logger.info("start get page:%s", page)
         try:
             self.driver.get(page)
