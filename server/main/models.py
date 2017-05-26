@@ -13,6 +13,7 @@ class Items(db.Document):
     url = db.StringField(required=True)
     content = db.StringField(max_length=255, required=True)
     datetime = db.StringField(required=True)
+    wid = db.StringField(required=False)
     catalog = db.StringField(required=False)
     keywords = db.StringField(required=False)
     eventtime = db.IntField(required=False)
@@ -44,6 +45,9 @@ def load_data():
 def check_data(item):
     if item.id in item_dict:
         return False
+
+    if item.source == '微信公众号':
+        return True
 
     if 'catalog' in item:
         if item.catalog in keywords:

@@ -49,8 +49,8 @@ class Browser(object):
 
     def get_page(self, page):
         """browse target page"""
-        self.page = page
         self.logger.info("start get page:%s", page)
+        self.page = page
         try:
             self.driver.get(page)
         except Exception as e:
@@ -60,16 +60,17 @@ class Browser(object):
             self.driver.execute_script(js)
         except Exception as e:
             pass
+        time.sleep(1)
         self.logger.info("end get page:%s", page)
 
     def parse_page(self):
         """parse current page source"""
         pass
 
-    def find_info(self):
+    def find_info(self, days=3):
         """find history data in db"""
         self.items_dict = {}
-        startdate = int(time.time()) - 3600 * 24 * 3
+        startdate = int(time.time()) - 3600 * 24 * days
         items = self.db.find_by_date(startdate)
         for x in items:
             self.items_dict[x['title']] = x

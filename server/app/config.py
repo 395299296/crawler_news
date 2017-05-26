@@ -23,6 +23,9 @@ class PrdConfig(Config):
     MONGODB_SETTINGS = {
         'db': os.environ.get('DB_NAME') or 'News',
         'host': os.environ.get('MONGO_HOST') or 'localhost',
+        'username':os.environ.get('MONGO_USER') or 'test',
+        'password':os.environ.get('MONGO_PASS') or '123456',
+        'port': 27017
     }
 
 class TestingConfig(Config):
