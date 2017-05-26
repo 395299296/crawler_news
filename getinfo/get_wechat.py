@@ -90,7 +90,8 @@ class Spider(Firefox):
             time_ele = info_ele.find_element_by_class_name('weui_media_extra_info')
             dt = time_ele.text
             date_time = datetime.datetime.strptime(dt,'%Y年%m月%d日')
-            dt = date_time.strftime('%Y-%m-%d %H:%M')
+            time_time = datetime.datetime.now().strftime('%H:%M')
+            dt = date_time.strftime('%Y-%m-%d ') + time_time
             item_data = self.item.copy()
             item_data['source'] = '微信公众号'
             item_data['title'] = title
@@ -100,6 +101,7 @@ class Spider(Firefox):
             item_data['content'] = content_ele.text
             item_data['datetime'] = dt
             self.save_item(item_data)
+            answer = input("input a number: ")
 
         index = index + 1
         if len(item_list) > index:

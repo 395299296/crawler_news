@@ -86,4 +86,4 @@ class Spider(Firefox):
                 self.items_dict[item_obj['wid']] = item_obj
 
 
-Spider('wechat', 'http://weixin.sogou.com/weixin?query=机械鸡').start()
+Spider('wechat', 'http://weixin.sogou.com/weixin?query=量子位').start()

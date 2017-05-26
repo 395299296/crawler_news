@@ -1604,3 +1604,14 @@
   "article": "重磅 ‖ 软银秘密收购了英伟达40亿美元的股份,成为其第四大股东",
   "timestamp": 1495641600.0
 }
+
+{
+  "source": "北京极客伙伴科技有限公司",
+  "title": "量子位",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495792560&ver=1&signature=h-cAW7RBvqu8wRZsUWutClx-jVbAj*rinovjnpsxMLgdXxCP1tkfQIhrEwwr7hchepe4p6GeSCHaC-Bh7kUrOQ==",
+  "content": "վ'ᴗ' ի 追踪AI行业和技术动态,这里更快一步!关注我们,回复“今天”,更多大新闻等你来发现",
+  "datetime": "2017-05-26",
+  "wid": "QbitAI",
+  "active": 0,
+  "article": "配对赛:AlphaGo要认输古力不让,连笑组合执白中盘胜"
+}
