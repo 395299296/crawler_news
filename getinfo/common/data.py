@@ -11,11 +11,13 @@ class MongoPipeline(object):
 
     collection_name = 'items'
 
-    def __init__(self, mongo_uri, mongo_db):
+    def __init__(self, mongo_uri, mongo_db, mongo_user=None, mongo_pass=None):
         self.mongo_uri = mongo_uri
         self.mongo_db = mongo_db
         self.client = pymongo.MongoClient(self.mongo_uri)
         self.db = self.client[self.mongo_db]
+        if mongo_user and mongo_pass:
+            self.db.authenticate(mongo_user, mongo_pass)
 
     def close(self):
         self.client.close()
