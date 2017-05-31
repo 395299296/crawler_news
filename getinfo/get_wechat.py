@@ -5,8 +5,12 @@ from browser import Firefox
 from common import config
 import os, json, time, datetime
 import codecs
+import configparser
 
+ini = configparser.ConfigParser()
 item_list = []
+curr_title = None
+loop_count = 0
 
 class Spider(Firefox):
     """docstring for Spider"""
@@ -17,43 +21,25 @@ class Spider(Firefox):
         """init the Firefox profile object"""
         self.profile = FirefoxProfile()
 
-    def init_driver(self):
-        """init web driver"""
-        ## Set the modified profile while creating the browser object
-        self.driver = webdriver.Firefox(self.profile)
-        self.driver.set_page_load_timeout(60)
-        self.driver.set_script_timeout(30)
-
-    def find_info(self, days=3):
-        """find history data in db"""
-        super(Firefox, self).find_info(1)
-
     def parse_page(self, index=-1):
         if index == -1:
             for i, x in enumerate(item_list):
-                for y in self.items_dict:
-                    if self.items_dict[y]['source'] == '微信公众号' and x['title'] == self.items_dict[y]['keywords']:
-                        break
-                else:
-                    index = i
-                    self.get_page('http://weixin.sogou.com/weixin?query=%s' % x['wid'])
+                if x['title'] == curr_title:
+                    index = i + 1
                     break
             else:
-                self.logger.info('find not getable account')
-                return
-        self.logger.info('%s:%d/%d', item_list[index]['title'], index+1, len(item_list))
+                index = 0
+        if index >= len(item_list):
+            index = 0
+        self.logger.info('%s:%d/%d', item_list[index]['title'], index + 1, len(item_list))
+        self.get_page('http://weixin.sogou.com/weixin?query=%s' % item_list[index]['wid'])
         try:
-            news_ele = self.driver.find_element_by_class_name('news-box')    
+            news_ele = self.driver.find_element_by_class_name('news-box')
         except Exception as e:
-            answer = input("input verify code: ")
-            if answer == 'exit()': return
-            cookies = self.driver.get_cookies()
-            print(cookies)
             self.driver.delete_all_cookies()
             new_cookies = [{'httpOnly': False, 'value': '8|1495769364|v1', 'domain': 'weixin.sogou.com', 'secure': False, 'name': 'ABTEST', 'path': '/', 'expiry': None}, {'httpOnly': False, 'value': 'C8BAC30BD2D782B520725F7CD27EAE38', 'domain': '.sogou.com', 'secure': False, 'name': 'SNUID', 'path': '/', 'expiry': None}, {'httpOnly': False, 'value': 'CN4403', 'domain': '.sogou.com', 'secure': False, 'name': 'IPLOC', 'path': '/', 'expiry': None}, {'httpOnly': False, 'value': '1A6B11DA771A910A000000005927A114', 'domain': '.weixin.sogou.com', 'secure': False, 'name': 'SUID', 'path': '/', 'expiry': None}, {'httpOnly': False, 'value': 'aaakmrSdQn-eY_tEYIFWv', 'domain': 'weixin.sogou.com', 'secure': False, 'name': 'JSESSIONID', 'path': '/', 'expiry': None}, {'httpOnly': False, 'value': '1A6B11DA3020910A000000005927A114', 'domain': '.sogou.com', 'secure': False, 'name': 'SUID', 'path': '/', 'expiry': None}, {'httpOnly': False, 'value': '00AB734EDA116B1A5927A11575694165', 'domain': '.sogou.com', 'secure': False, 'name': 'SUV', 'path': '/', 'expiry': None}, {'httpOnly': False, 'value': 'p0hc3jvqk4f0pcgjqjghv9sg01', 'domain': 'weixin.sogou.com', 'secure': False, 'name': 'PHPSESSID', 'path': '/', 'expiry': None}, {'httpOnly': False, 'value': 'C8BAC30BD2D782B520725F7CD27EAE38', 'domain': '.sogou.com', 'secure': False, 'name': 'SUIR', 'path': '/', 'expiry': None}, {'httpOnly': False, 'value': 'success', 'domain': '.weixin.sogou.com', 'secure': False, 'name': 'seccodeRight', 'path': '/', 'expiry': None}, {'httpOnly': False, 'value': '1|Fri, 26 May 2017 03:36:25 GMT', 'domain': '.weixin.sogou.com', 'secure': False, 'name': 'successCount', 'path': '/', 'expiry': None}, {'httpOnly': False, 'value': '1', 'domain': '.weixin.sogou.com', 'secure': False, 'name': 'refresh', 'path': '/', 'expiry': None}]
             for x in new_cookies:
                 self.driver.add_cookie({'name':x['name'], 'value':x['value']})
-            self.get_page(self.page)
             self.parse_page(index)
             return
 
@@ -101,13 +87,14 @@ class Spider(Firefox):
             item_data['content'] = content_ele.text
             item_data['datetime'] = dt
             self.save_item(item_data)
-            answer = input("input a number: ")
 
-        index = index + 1
-        if len(item_list) > index:
-            self.get_page('http://weixin.sogou.com/weixin?query=%s' % item_list[index]['wid'])
-            self.parse_page(index)
-
+        global loop_count
+        if loop_count < 10:
+            loop_count += 1
+            self.parse_page(index+1)
+        else:
+            ini.set("get_wechat","title",item_list[index]['title'])
+            ini.write(open(os.path.join(config.output_path, "progress.ini"), 'w', encoding='utf-8'))
 
 def read_info(filename):
     """read history data from local file"""
@@ -131,6 +118,19 @@ def read_info(filename):
 
     item_list = sorted(item_list, key=lambda x : (x['datetime'], x['wid']), reverse=True)
 
+
+def read_ini(filename):
+    """read ini config file"""
+    global curr_title
+    ini_file = os.path.join(config.output_path, filename)
+    if not os.path.exists(ini_file):
+        return None
+
+    ini.read(ini_file)
+    curr_title = ini.get("get_wechat","title")
+
+
 if __name__ == '__main__':
     read_info('wechat_id_handled.txt')
+    read_ini('progress.ini')
     Spider('wechat', '').start()

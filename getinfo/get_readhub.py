@@ -15,6 +15,7 @@ class Spider(Firefox):
                 index = i
             except Exception as e:
                 print(e)
+        if index >= 10: return
         print('-'*50, index)
         btn_ele = self.driver.find_element_by_class_name('listButtonFix___2Thj0')
         btn_ele = btn_ele.find_element_by_xpath('button/span')
@@ -43,10 +44,6 @@ class Spider(Firefox):
         elif '天' in dt:
             date_time = datetime.datetime.now() - datetime.timedelta(days=int(dt.split(' ')[0]))
             dt = date_time.strftime('%Y-%m-%d %H:%M')
-        else:
-            print(dt)
-            return
-        print('='*50 + dt)
         item_data = self.item.copy()
         item_data['source'] = source
         item_data['title'] = title

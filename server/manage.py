@@ -31,7 +31,7 @@ class Loop(threading.Thread):
             if self._lock.acquire():
                 self.tick()
                 self._lock.release()
-            time.sleep(1800)
+            time.sleep(60)
 
     def tick(self):
         from main import models

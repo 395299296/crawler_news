@@ -8,8 +8,7 @@ headers = [
     'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
 ]
 
-#MongoDB URI
 mongo_uri = 'mongodb://localhost:27017/'
-
-#MongoDB databases
 mongo_database = 'News'
+mongo_user = 'hininfo'
+mongo_pass = 'nibudong!@#'

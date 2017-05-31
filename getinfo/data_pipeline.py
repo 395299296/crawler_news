@@ -12,3 +12,6 @@ for i, x in enumerate(item_list):
     except Exception as e:
         print(e)
     db_remote.save_item(x)
+
+db_local.close()
+db_remote.close()

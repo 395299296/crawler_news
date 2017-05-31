@@ -56,8 +56,8 @@ class Browser(object):
         except Exception as e:
             pass
         try:
-            js = "var q=document.body.scrollTop=100000"
-            self.driver.execute_script(js)
+            self.driver.execute_script("var q=document.body.scrollTop=100000")
+            self.driver.execute_script("window.scrollTo(0,document.body.scrollHeight)")
         except Exception as e:
             pass
         time.sleep(1)
@@ -175,12 +175,15 @@ class Firefox(Browser):
         self.profile.set_preference('permissions.default.image', 2)
         ## Disable Flash
         self.profile.set_preference('dom.ipc.plugins.enabled.libflashplayer.so', 'false')
+        ## 
+        self.profile.set_preference('browser.link.open_newwindow.restriction', 1)
         
     def init_driver(self):
         """init web driver"""
         super(Firefox, self).init_driver()
         ## Set the modified profile while creating the browser object
         self.driver = webdriver.Firefox(self.profile)
-        self.driver.maximize_window()
-        self.driver.set_page_load_timeout(180)  
-        self.driver.set_script_timeout(180)
+        ## self.driver.maximize_window()
+        self.driver.set_window_position(-2000, 0)
+        self.driver.set_page_load_timeout(180)
+        self.driver.set_script_timeout(60)
