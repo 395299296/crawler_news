@@ -8,9 +8,10 @@ if __name__ == '__main__':
     if not os.path.exists(output_path):
         os.makedirs(output_path)
 
-    for x in range(1,10001):
+    for x in range(0,28):
         print('save verify code img:', x)
-        data = urlopen(url % time.time()).read()
-        with open(os.path.join(output_path, '%d.jpg'%x), 'wb') as f:
+        ts = time.time()
+        data = urlopen(url % ts).read()
+        with open(os.path.join(output_path, '_%s.jpg'%ts), 'wb') as f:
             f.write(data)
-        time.sleep(0.05)
+        time.sleep(1.1)

@@ -12,15 +12,15 @@ import traceback
 
 class Browser(object):
     """Browser Core"""
-    def __init__(self, name, home_page):
+    def __init__(self, name=None, home_page=None):
         super(Browser, self).__init__()
         self.name = name
         self.home_page = home_page
         self.item = data.news_item
+        self.init_logger()
 
     def init(self):
         """initialize"""
-        self.init_logger()
         self.init_db()
         self.init_play()
         self.init_profile()
@@ -33,7 +33,7 @@ class Browser(object):
 
     def init_db(self):
         """init db"""
-        self.db = data.MongoPipeline(config.mongo_uri, config.mongo_database)
+        self.db = data.MongoPipeline(config.mongo_uri, config.mongo_database, config.mongo_user, config.mongo_pass)
 
     def init_play(self):
         """init virtual display"""
@@ -46,6 +46,14 @@ class Browser(object):
     def init_driver(self):
         """init web driver"""
         self.driver = None
+
+    def clone(self, that):
+        """clone browser member"""
+        self.db = that.db
+        self.display = that.display
+        self.profile = that.profile
+        self.driver = that.driver
+        self.items_dict = that.items_dict
 
     def get_page(self, page):
         """browse target page"""
@@ -66,6 +74,17 @@ class Browser(object):
     def parse_page(self):
         """parse current page source"""
         pass
+
+    def browse_page(self):
+        """browse home page"""
+        self.driver.start_client()
+        try:
+            self.get_page(self.home_page)
+            self.parse_page()
+        except Exception as e:
+            self.logger.info(e)
+            traceback.print_exc()
+        self.driver.stop_client()
 
     def find_info(self, days=3):
         """find history data in db"""
@@ -128,19 +147,14 @@ class Browser(object):
     def start(self):
         """start run"""
         self.init()
-        try:
-            self.find_info()
-            self.get_page(self.home_page)
-            self.parse_page()
-        except Exception as e:
-            self.logger.info(e)
-            traceback.print_exc()
+        self.find_info()
+        self.browse_page()
         self.clear_up()
 
 
 class PhantomJS(Browser):
     """PhantomJS Browser"""
-    def __init__(self, name, home_page):
+    def __init__(self, name=None, home_page=None):
         super(PhantomJS, self).__init__(name, home_page)
 
     def init_driver(self):
@@ -155,7 +169,7 @@ class PhantomJS(Browser):
 
 class Firefox(Browser):
     """Firefox Browser"""
-    def __init__(self, name, home_page):
+    def __init__(self, name=None, home_page=None):
         super(Firefox, self).__init__(name, home_page)
 
     def init_play(self):
@@ -184,6 +198,6 @@ class Firefox(Browser):
         ## Set the modified profile while creating the browser object
         self.driver = webdriver.Firefox(self.profile)
         ## self.driver.maximize_window()
-        self.driver.set_window_position(-2000, 0)
+        ## self.driver.set_window_position(-2000, 0)
         self.driver.set_page_load_timeout(180)
         self.driver.set_script_timeout(60)

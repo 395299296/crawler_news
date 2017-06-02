@@ -45,4 +45,4 @@ class Spider(Firefox):
         except Exception as e:
             pass
 
-Spider('baidu', 'http://news.baidu.com/internet/').start()
+## Spider('baidu', 'http://news.baidu.com/internet/').start()

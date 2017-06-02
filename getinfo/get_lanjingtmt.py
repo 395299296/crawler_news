@@ -48,4 +48,4 @@ class Spider(Firefox):
         item_data['datetime'] = dt
         self.save_item(item_data)
 
-Spider('lanjingtmt', 'http://www.lanjingtmt.com/').start()
+## Spider('lanjingtmt', 'http://www.lanjingtmt.com/').start()

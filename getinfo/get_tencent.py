@@ -49,4 +49,4 @@ class Spider(Firefox):
         return catalog_ele.text, source_ele.text, time_ele.text, content
 
 
-Spider('tencent', 'http://tech.qq.com/').start()
+## Spider('tencent', 'http://tech.qq.com/').start()

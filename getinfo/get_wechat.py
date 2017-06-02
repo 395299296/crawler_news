@@ -126,7 +126,7 @@ def read_ini(filename):
     if not os.path.exists(ini_file):
         return None
 
-    ini.read(ini_file)
+    ini.read(ini_file, encoding='utf-8')
     curr_title = ini.get("get_wechat","title")
 
 

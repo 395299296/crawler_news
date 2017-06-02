@@ -18,3 +18,12 @@ def get_files(root='./', fullpath=False, basename=False, **kwargs):
             file_list.append(x)
 
     return file_list
+
+def print_d(_str):
+    s = 100
+    l = len(_str)
+    n = int((s - l - 10) / 2)
+    r = s - n - l - 10
+    print('-'*s)
+    print('*'*n + ' '*5 + _str + ' '*5 + '*'*r)
+    print('-'*s)

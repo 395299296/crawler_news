@@ -1,32 +1,42 @@
+from browser import Firefox
+from common import config
 from common import util
 from imp import reload
 import threading, signal
 import time, sys
 
+
 def quit(signum, frame):
     print('You choose to stop me.')
     sys.exit()
 
-def print_d(_str):
-    s = 70
-    l = len(_str)
-    n = int((s - l - 10) / 2)
-    r = s - n - l - 10
-    print('-'*s)
-    print('*'*n + ' '*5 + _str + ' '*5 + '*'*r)
-    print('-'*s)
 
 if __name__ == '__main__':
     signal.signal(signal.SIGINT, quit)
     signal.signal(signal.SIGTERM, quit)
-    index = 0
+    modules = {}
     file_list = util.get_files(basename=True, _pre='get_', _ext='.py', _filter='wechat')
+    firefox = Firefox()
+    firefox.init()
+    firefox.find_info()
+    index = 0
     while True:
-        print_d(file_list[index])
-        module = __import__(file_list[index])
-        # reload(module)
+        name = file_list[index]
+        util.print_d(name)
+        if name not in modules:
+            modules[name] = __import__(name)
+        else:
+            reload(modules[name])
+
+        c = getattr(modules[name], 'Spider')
+        s = name.replace('get_', '')
+        spider = c(s, config.urls[s])
+        spider.clone(firefox)
+        spider.browse_page()
         print('\n\n')
         index += 1
         if index >= len(file_list):
-            index = 0
+            break
         time.sleep(60)
+
+    firefox.clear_up()

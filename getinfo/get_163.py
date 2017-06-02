@@ -31,12 +31,9 @@ class Spider(Firefox):
             self.get_page(x['url'])
             try:
                 x['source'], x['datetime'], x['content'] = self.parse_detail_page()
+                self.save_item(x)
             except Exception as e:
                 print(e)
-
-        for x in item_list:
-            self.save_item(x)
-
 
     def parse_detail_page(self):
         """ 获取详情页信息 """
@@ -45,7 +42,7 @@ class Spider(Firefox):
         source_ele = time_ele.find_element_by_id('ne_article_source')
         contet_ele = info_ele.find_element_by_class_name('post_body')
         contet_ele = contet_ele.find_element_by_class_name('post_text')
-        p = contet_ele.find_element_by_tag_name('p')
+        p = contet_ele.find_elements_by_tag_name('p')
         pattern = re.compile(r'\d{4}\-\d{2}\-\d{2} \d{2}:\d{2}')
         dt = re.findall(pattern, time_ele.text)[0]
         content = ''
@@ -56,4 +53,4 @@ class Spider(Firefox):
                 break
         return source_ele.text, dt, content
 
-Spider('163', 'http://tech.163.com/smart/').start()
+## Spider('163', 'http://tech.163.com/smart/').start()
