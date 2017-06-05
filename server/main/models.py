@@ -35,7 +35,7 @@ def load_data():
     for x in data_list:
         if check_data(x):
             item_list.append(x)
-            item_dict[x.id] = x
+            item_dict[x.title] = x
             last_id = x.id
 
     item_list = sorted(item_list, key=lambda x : x['datetime'], reverse=True)
@@ -44,7 +44,7 @@ def load_data():
         last_id = 0
 
 def check_data(item):
-    if item.id in item_dict:
+    if item.title in item_dict:
         return False
 
     if item.source in ['微信公众号', 'AI研究院']:
@@ -86,7 +86,7 @@ def add_data():
     for x in data_list:
         if check_data(x):
             item_list.insert(0, x)
-            item_dict[x.id] = x
+            item_dict[x.title] = x
             last_id = x.id
             count += 1
     item_list = sorted(item_list, key=lambda x : x['datetime'], reverse=True)
