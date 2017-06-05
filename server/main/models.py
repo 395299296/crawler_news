@@ -5,7 +5,7 @@ import os
 item_list = []
 item_dict = {}
 keywords = []
-lastdate = None
+last_id = None
 
 class Items(db.Document):
     source = db.StringField(required=True)
@@ -29,24 +29,25 @@ def load_data():
     global item_list
     global item_dict
     global keywords
-    global lastdate
-    data_list = Items.objects.all().order_by('-datetime')
+    global last_id
+    data_list = Items.objects.all()
     keywords = get_keywords()
     for x in data_list:
         if check_data(x):
             item_list.append(x)
             item_dict[x.id] = x
-            if lastdate == None:
-                lastdate = x.datetime
+            last_id = x.id
 
-    if lastdate == None:
-        lastdate = 0
+    item_list = sorted(item_list, key=lambda x : x['datetime'], reverse=True)
+
+    if last_id == None:
+        last_id = 0
 
 def check_data(item):
     if item.id in item_dict:
         return False
 
-    if item.source == '微信公众号':
+    if item.source in ['微信公众号', 'AI研究院']:
         return True
 
     if 'catalog' in item:
@@ -77,16 +78,17 @@ def get_data(index=0):
     return item_list[start:end]
 
 def add_data():
-    global lastdate
-    if lastdate == None:
+    global last_id
+    if last_id == None:
         return
     count = 0
-    data_list = Items.objects(datetime__gte=lastdate)
+    data_list = Items.objects(id__gt=last_id)
     for x in data_list:
         if check_data(x):
             item_list.insert(0, x)
             item_dict[x.id] = x
-            if x.datetime >= lastdate:
-                lastdate = x.datetime
+            last_id = x.id
             count += 1
-    print("add data:", lastdate, len(data_list), count)
+    item_list = sorted(item_list, key=lambda x : x['datetime'], reverse=True)
+
+    print("add data:", last_id, len(data_list), count)
