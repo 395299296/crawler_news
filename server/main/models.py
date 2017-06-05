@@ -89,6 +89,5 @@ def add_data():
             item_dict[x.title] = x
             last_id = x.id
             count += 1
-    item_list = sorted(item_list, key=lambda x : x['datetime'], reverse=True)
 
     print("add data:", last_id, len(data_list), count)
