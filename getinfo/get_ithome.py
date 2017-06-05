@@ -42,4 +42,5 @@ class Spider(Firefox):
         item_data['datetime'] = datetime.datetime.now().strftime('%Y-%m-%d ') + dt
         self.save_item(item_data)
 
-## Spider('ithome', 'http://next.ithome.com/ai').start()
+if __name__ == '__main__':
+    Spider('ithome', 'http://next.ithome.com/ai').start()

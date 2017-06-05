@@ -11,7 +11,7 @@ headers = [
 mongo_uri = 'mongodb://123.207.25.160:27017/'
 mongo_database = 'News'
 mongo_user = 'hininfo'
-mongo_pass = 'nibudong!@#'
+mongo_pass = '123456'
 
 urls = {
     '163':'http://tech.163.com/smart/',

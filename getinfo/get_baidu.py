@@ -45,4 +45,5 @@ class Spider(Firefox):
         except Exception as e:
             pass
 
-## Spider('baidu', 'http://news.baidu.com/internet/').start()
+if __name__ == '__main__':
+    Spider('baidu', 'http://news.baidu.com/internet/').start()

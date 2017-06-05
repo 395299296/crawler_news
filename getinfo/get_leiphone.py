@@ -53,4 +53,5 @@ class Spider(Firefox):
         item_data['datetime'] = dt
         self.save_item(item_data)
 
-## Spider('leiphone', 'https://www.leiphone.com/').start()
+if __name__ == '__main__':
+    Spider('leiphone', 'https://www.leiphone.com/').start()

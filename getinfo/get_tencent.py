@@ -48,5 +48,5 @@ class Spider(Firefox):
                 break
         return catalog_ele.text, source_ele.text, time_ele.text, content
 
-
-## Spider('tencent', 'http://tech.qq.com/').start()
+if __name__ == '__main__':
+    Spider('tencent', 'http://tech.qq.com/').start()

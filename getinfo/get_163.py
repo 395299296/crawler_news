@@ -1,4 +1,5 @@
 from browser import Firefox
+import time, datetime
 import re
 
 class Spider(Firefox):
@@ -37,20 +38,38 @@ class Spider(Firefox):
 
     def parse_detail_page(self):
         """ 获取详情页信息 """
-        info_ele = self.driver.find_element_by_class_name('post_content_main')
-        time_ele = info_ele.find_element_by_class_name('post_time_source')
-        source_ele = time_ele.find_element_by_id('ne_article_source')
-        contet_ele = info_ele.find_element_by_class_name('post_body')
-        contet_ele = contet_ele.find_element_by_class_name('post_text')
-        p = contet_ele.find_elements_by_tag_name('p')
-        pattern = re.compile(r'\d{4}\-\d{2}\-\d{2} \d{2}:\d{2}')
-        dt = re.findall(pattern, time_ele.text)[0]
-        content = ''
-        for x in p:
-            if not x.text: continue
-            content += x.text.strip()
-            if len(content) >= 64:
-                break
-        return source_ele.text, dt, content
-
-## Spider('163', 'http://tech.163.com/smart/').start()
+        try:
+            info_ele = self.driver.find_element_by_class_name('post_content_main')
+            time_ele = info_ele.find_element_by_class_name('post_time_source')
+            source_ele = time_ele.find_element_by_id('ne_article_source')
+            contet_ele = info_ele.find_element_by_class_name('post_body')
+            contet_ele = contet_ele.find_element_by_class_name('post_text')
+            p = contet_ele.find_elements_by_tag_name('p')
+            pattern = re.compile(r'\d{4}\-\d{2}\-\d{2} \d{2}:\d{2}')
+            dt = re.findall(pattern, time_ele.text)[0]
+            content = ''
+            for x in p:
+                if not x.text: continue
+                content += x.text.strip()
+                if len(content) >= 64:
+                    break
+            return source_ele.text, dt, content
+        except Exception as e:
+            title_ele = self.driver.find_element_by_class_name('article_title')
+            time_ele = title_ele.find_element_by_class_name('share_box')
+            time_ele = time_ele.find_element_by_class_name('time')
+            contet_ele = self.driver.find_element_by_class_name('article_box')
+            contet_ele = contet_ele.find_element_by_class_name('content')
+            p = contet_ele.find_elements_by_tag_name('p')
+            time_info = time_ele.text.split(' · ')
+            dt = time_info[0] + datetime.datetime.now().strftime(' %H:%M')
+            content = ''
+            for x in p:
+                if not x.text: continue
+                content += x.text.strip()
+                if len(content) >= 64:
+                    break
+            return time_info[1], dt, content
+            
+if __name__ == '__main__':
+    Spider('163', 'http://tech.163.com/smart/').start()

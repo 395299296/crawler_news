@@ -34,4 +34,5 @@ class Spider(Firefox):
             item_data['datetime'] = datetime.datetime.now().strftime('%Y-%m-%d ') + dt.replace('今天', '')
             self.save_item(item_data)
 
-## Spider('sina', 'http://tech.sina.com.cn/internet/').start()
+if __name__ == '__main__':
+    Spider('sina', 'http://tech.sina.com.cn/internet/').start()

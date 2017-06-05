@@ -37,6 +37,6 @@ if __name__ == '__main__':
         index += 1
         if index >= len(file_list):
             break
-        time.sleep(60)
+        time.sleep(600)
 
     firefox.clear_up()
