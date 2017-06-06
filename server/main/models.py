@@ -81,6 +81,7 @@ def get_data(index=0):
     return item_list[start:end]
 
 def add_data():
+    global last_time
     if last_time == None:
         return
     count = 0
