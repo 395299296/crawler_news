@@ -1,11 +1,14 @@
 from app.config import config
 from app import db
+import logging
 import os
 
 item_list = []
 item_dict = {}
 keywords = []
-last_id = None
+last_time = None
+logger = logging.getLogger(__name__)
+logging.basicConfig(level=logging.INFO, format='[%(asctime)s]%(message)s', datefmt='%Y-%m-%d %H:%M:%S')
 
 class Items(db.Document):
     source = db.StringField(required=True)
@@ -29,19 +32,19 @@ def load_data():
     global item_list
     global item_dict
     global keywords
-    global last_id
+    global last_time
     data_list = Items.objects.all()
     keywords = get_keywords()
     for x in data_list:
         if check_data(x):
             item_list.append(x)
             item_dict[x.title] = x
-            last_id = x.id
+            last_time = x.eventtime
 
     item_list = sorted(item_list, key=lambda x : x['datetime'], reverse=True)
 
-    if last_id == None:
-        last_id = 0
+    if last_time == None:
+        last_time = 0
 
 def check_data(item):
     if item.title in item_dict:
@@ -78,16 +81,15 @@ def get_data(index=0):
     return item_list[start:end]
 
 def add_data():
-    global last_id
-    if last_id == None:
+    if last_time == None:
         return
     count = 0
-    data_list = Items.objects(id__gt=last_id)
+    data_list = Items.objects(eventtime__gt=last_time)
     for x in data_list:
         if check_data(x):
             item_list.insert(0, x)
             item_dict[x.title] = x
-            last_id = x.id
+            last_time = x.eventtime
             count += 1
 
-    print("add data:", last_id, len(data_list), count)
+    logger.info("add data:%s,%s,%s", last_time, len(data_list), count)

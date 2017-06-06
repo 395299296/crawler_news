@@ -105,7 +105,7 @@ def crack_captcha_cnn(w_alpha=0.01, b_alpha=0.1):
     conv3 = tf.nn.dropout(conv3, keep_prob)
 
     # Fully connected layer
-    w_d = tf.Variable(w_alpha*tf.random_normal([8*20*64, 1024]))
+    w_d = tf.Variable(w_alpha*tf.random_normal([7*17*64, 1024]))
     b_d = tf.Variable(b_alpha*tf.random_normal([1024]))
     dense = tf.reshape(conv3, [-1, w_d.get_shape().as_list()[0]])
     dense = tf.nn.relu(tf.add(tf.matmul(dense, w_d), b_d))
@@ -122,7 +122,7 @@ def train_crack_captcha_cnn():
     output = crack_captcha_cnn()
     #loss = tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits(output, Y))
     loss = tf.reduce_mean(tf.nn.sigmoid_cross_entropy_with_logits(logits=output, labels=Y))
-        # 最后一层用来分类的softmax和sigmoid有什么不同？
+    # 最后一层用来分类的softmax和sigmoid有什么不同？
     # optimizer 为了加快训练 learning_rate应该开始大，然后慢慢衰
     optimizer = tf.train.AdamOptimizer(learning_rate=0.001).minimize(loss)
 
@@ -139,9 +139,6 @@ def train_crack_captcha_cnn():
         step = 0
         while True:
             batch_x, batch_y = get_next_batch(64)
-            print(batch_x.shape)
-            print(batch_y.shape)
-            exit()
             _, loss_ = sess.run([optimizer, loss], feed_dict={X: batch_x, Y: batch_y, keep_prob: 0.75})
             print(step, loss_)
 

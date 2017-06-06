@@ -15,7 +15,7 @@ if __name__ == '__main__':
     signal.signal(signal.SIGINT, quit)
     signal.signal(signal.SIGTERM, quit)
     modules = {}
-    file_list = util.get_files(basename=True, _pre='get_', _ext='.py', _filter='wechat')
+    file_list = util.get_files(basename=True, _pre='get_', _ext='.py', _filter='wechat_id')
     firefox = Firefox()
     firefox.init()
     firefox.find_info()
