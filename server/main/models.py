@@ -39,7 +39,7 @@ def load_data():
         if check_data(x):
             item_list.append(x)
             item_dict[x.title] = x
-            last_time = x.eventtime
+        last_time = x.eventtime
 
     item_list = sorted(item_list, key=lambda x : x['datetime'], reverse=True)
 
@@ -90,7 +90,7 @@ def add_data():
         if check_data(x):
             item_list.insert(0, x)
             item_dict[x.title] = x
-            last_time = x.eventtime
             count += 1
+        last_time = x.eventtime
 
     logger.info("add data:%s,%s,%s", last_time, len(data_list), count)
