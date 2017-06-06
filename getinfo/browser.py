@@ -96,7 +96,7 @@ class Browser(object):
 
     def save_item(self, item):
         """save item data"""
-        item['eventtime'] = int(time.time())
+        item['eventtime'] = int(time.time()*1000)
         self.db.save_item(item)
         self.items_dict[item['title']] = item
 

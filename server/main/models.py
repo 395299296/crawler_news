@@ -37,19 +37,15 @@ def load_data():
     keywords = get_keywords()
     for x in data_list:
         if check_data(x):
-            item_list.append(x)
             item_dict[x.title] = x
         last_time = x.eventtime
 
-    item_list = sorted(item_list, key=lambda x : x['datetime'], reverse=True)
+    item_list = sorted(item_dict.values(), key=lambda x : x['datetime'], reverse=True)
 
     if last_time == None:
         last_time = 0
 
 def check_data(item):
-    if item.title in item_dict:
-        return False
-
     if item.source in ['微信公众号', 'AI研究院']:
         return True
 
@@ -88,9 +84,9 @@ def add_data():
     data_list = Items.objects(eventtime__gt=last_time)
     for x in data_list:
         if check_data(x):
-            item_list.insert(0, x)
             item_dict[x.title] = x
             count += 1
         last_time = x.eventtime
 
-    logger.info("add data:%s,%s,%s", last_time, len(data_list), count)
+    item_list = sorted(item_dict.values(), key=lambda x : x['datetime'], reverse=True)
+    logger.info("add data:%s,%s,%s,%s", last_time, len(data_list), count, len(item_list))
