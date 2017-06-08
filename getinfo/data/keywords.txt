@@ -25,3 +25,5 @@ DeepMind
 ML
 TensorFlow
 NLP
+量化
+Python

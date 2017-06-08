@@ -89,7 +89,7 @@ class Spider(Firefox):
             self.save_item(item_data)
 
         global loop_count
-        if loop_count < 10:
+        if loop_count < 100:
             loop_count += 1
             self.parse_page(index+1)
         else:

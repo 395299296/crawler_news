@@ -1,7 +1,8 @@
 from app.config import config
 from app import db
 import logging
-import os
+import os, re
+import time, datetime
 
 item_list = []
 item_dict = {}
@@ -16,10 +17,11 @@ class Items(db.Document):
     url = db.StringField(required=True)
     content = db.StringField(max_length=255, required=True)
     datetime = db.StringField(required=True)
+    showtime = db.StringField(required=False)
     wid = db.StringField(required=False)
     catalog = db.StringField(required=False)
     keywords = db.StringField(required=False)
-    eventtime = db.IntField(required=False)
+    eventtime = db.FloatField(required=False)
 
 def get_keywords():
     config_name = os.getenv('config') or 'default'
@@ -35,20 +37,30 @@ def load_data():
     global last_time
     data_list = Items.objects.all()
     keywords = get_keywords()
+    count = 0
     for x in data_list:
         if check_data(x):
             item_dict[x.title] = x
+            count += 1
         last_time = x.eventtime
 
-    item_list = sorted(item_dict.values(), key=lambda x : x['datetime'], reverse=True)
+    item_list = sorted(item_dict.values(), key=lambda x : x['eventtime'], reverse=True)
 
     if last_time == None:
         last_time = 0
+    logger.info("load data:%s,%s,%s,%s", last_time, len(data_list), count, len(item_list))
+
 
 def check_data(item):
-    return True
+    if not format_datetime(item):
+        return False
+
     if item.source in ['微信公众号', 'AI研究院']:
         return True
+
+    pattern = re.compile(u'[\u4e00-\u9fa5]+')
+    if not pattern.search(item.title):
+        return False
 
     if 'catalog' in item:
         if item.catalog in keywords:
@@ -79,6 +91,7 @@ def get_data(index=0):
 
 def add_data():
     global last_time
+    global item_list
     if last_time == None:
         return
     count = 0
@@ -90,5 +103,17 @@ def add_data():
         last_time = x.eventtime
 
     if count > 0:
-        item_list = sorted(item_dict.values(), key=lambda x : x['datetime'], reverse=True)
+        item_list = sorted(item_dict.values(), key=lambda x : x['eventtime'], reverse=True)
     logger.info("add data:%s,%s,%s,%s", last_time, len(data_list), count, len(item_list))
+
+def format_datetime(item):
+    timestamp = item.eventtime
+    if not timestamp:
+        return False
+    if time.time() - timestamp / 1000 < 365 * 24 * 3600:
+        timestamp = timestamp / 1000
+    if time.time() - timestamp > 365 * 24 * 3600:
+        return False
+    date_array = datetime.datetime.fromtimestamp(timestamp)
+    item.showtime = date_array.strftime("%Y-%m-%d %H:%M")
+    return True

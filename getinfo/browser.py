@@ -5,7 +5,7 @@ from pyvirtualdisplay import Display
 from collections import OrderedDict
 from common import config
 from common import data
-import os, time, json
+import os, time, json, datetime
 import codecs, logging
 import platform
 import traceback
@@ -17,6 +17,7 @@ class Browser(object):
         self.name = name
         self.home_page = home_page
         self.item = data.news_item
+        self.page_count = 0
         self.init_logger()
 
     def init(self):
@@ -68,7 +69,9 @@ class Browser(object):
             self.driver.execute_script("window.scrollTo(0,document.body.scrollHeight)")
         except Exception as e:
             pass
-        time.sleep(60)
+        if self.page_count > 0:
+            time.sleep(60)
+        self.page_count += 1
         self.logger.info("end get page:%s", page)
 
     def parse_page(self):
@@ -96,6 +99,11 @@ class Browser(object):
 
     def save_item(self, item):
         """save item data"""
+        date_time = datetime.datetime.strptime(item['datetime'],'%Y-%m-%d %H:%M')
+        timestamp = time.mktime(date_time.timetuple())
+        if timestamp - time.time() >= 3600:
+            yesterday = date_time - datetime.timedelta(days=1)
+            item['datetime'] = yesterday.strftime('%Y-%m-%d %H:%M')
         item['eventtime'] = int(time.time()*1000)
         self.db.save_item(item)
         self.items_dict[item['title']] = item

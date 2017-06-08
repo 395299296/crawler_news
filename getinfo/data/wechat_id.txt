@@ -6059,3 +6059,14 @@
   "article": "配对赛:AlphaGo要认输古力不让,连笑组合执白中盘胜"
 }
 
+{
+  "source": "机器之心(北京)科技有限公司",
+  "title": "机器之心",
+  "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1496909021&ver=1&signature=K2wxpB9JUneBwtsAUzRAKK6NXcK2XYK2Bi-lab7Xv-KYsJwuZqtnLvGDso6c6PMi1tKv-bVBJklNWjJNvmXciw==",
+  "content": "专业的人工智能媒体和产业服务平台",
+  "datetime": "2017-06-08",
+  "wid": "almosthuman2014",
+  "active": 0,
+  "article": "资源 | 用苹果Core ML实现谷歌移动端神经网络MobileNet"
+}
+

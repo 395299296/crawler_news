@@ -27,4 +27,4 @@ def create_app(config_name):
 
     return app
 
-app = create_app(os.getenv('config') or 'default')
+app = create_app(os.getenv('config') or 'prd')

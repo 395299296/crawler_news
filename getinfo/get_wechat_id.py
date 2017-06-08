@@ -87,4 +87,4 @@ class Spider(Firefox):
 
 
 if __name__ == '__main__':
-    Spider('wechat', 'http://weixin.sogou.com/weixin?query=量子位').start()
+    Spider('wechat', 'http://weixin.sogou.com/weixin?query=机器之心').start()
