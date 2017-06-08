@@ -14,8 +14,11 @@ test_data_y = []
 IMAGE_HEIGHT = 53
 IMAGE_WIDTH = 130  
 CAPTCHA_LEN = 4
-CHAR_SET_LEN = 26
+alphabet = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
 ALPHABET = ['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z']
+char_set = ALPHABET + alphabet
+CHAR_SET_LEN = len(char_set)
+input_path = 'verifies'
 
 # 把彩色图像转为灰度图像（色彩对识别验证码没有什么用）  
 def convert2gray(img):  
@@ -35,7 +38,12 @@ def text2vec(text):
    
     vector = numpy.zeros(CAPTCHA_LEN*CHAR_SET_LEN)  
     for i, c in enumerate(text):
-        idx = i * CHAR_SET_LEN + ord(c)-65
+        k = ord(c)-ord('a')
+        if k >= 0:
+            k += len(ALPHABET)
+        else:
+            k = ord(c)-ord('A')
+        idx = i * CHAR_SET_LEN + k
         vector[idx] = 1
     return vector
 
@@ -52,7 +60,7 @@ def get_next_batch(batch_size=128):
    
     return batch_x, batch_y
 
-for parent, dirnames, filenames in os.walk('images'):
+for parent, dirnames, filenames in os.walk(input_path):
     for x in filenames:
         basenames = os.path.splitext(x)
         basenames = basenames[0].split('_')
@@ -65,8 +73,8 @@ for parent, dirnames, filenames in os.walk('images'):
 
 train_data_x = numpy.array(x_data[0:900])
 train_data_y = numpy.array(y_data[0:900])
-test_data_x = numpy.array(x_data[900:])
-test_data_y = numpy.array(y_data[900:])
+test_data_x = numpy.array(x_data[900:1000])
+test_data_y = numpy.array(y_data[900:1000])
 
 ####################################################################
 # 申请占位符 按照图片
@@ -148,8 +156,8 @@ def train_crack_captcha_cnn():
                 acc = sess.run(accuracy, feed_dict={X: batch_x_test, Y: batch_y_test, keep_prob: 1.})
                 print(step, acc)
                 # 如果准确率大于50%,保存模型,完成训练
-                if acc > 0.5:
-                    saver.save(sess, "crack_capcha.model", global_step=step)
+                if acc > 0.8:
+                    saver.save(sess, "./model/model", global_step=step)
                     break
             step += 1
 

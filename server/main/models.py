@@ -46,6 +46,7 @@ def load_data():
         last_time = 0
 
 def check_data(item):
+    return True
     if item.source in ['微信公众号', 'AI研究院']:
         return True
 
@@ -88,5 +89,6 @@ def add_data():
             count += 1
         last_time = x.eventtime
 
-    item_list = sorted(item_dict.values(), key=lambda x : x['datetime'], reverse=True)
+    if count > 0:
+        item_list = sorted(item_dict.values(), key=lambda x : x['datetime'], reverse=True)
     logger.info("add data:%s,%s,%s,%s", last_time, len(data_list), count, len(item_list))

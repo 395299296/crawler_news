@@ -68,7 +68,7 @@ class Browser(object):
             self.driver.execute_script("window.scrollTo(0,document.body.scrollHeight)")
         except Exception as e:
             pass
-        time.sleep(1)
+        time.sleep(60)
         self.logger.info("end get page:%s", page)
 
     def parse_page(self):
@@ -199,5 +199,5 @@ class Firefox(Browser):
         self.driver = webdriver.Firefox(self.profile)
         ## self.driver.maximize_window()
         ## self.driver.set_window_position(-2000, 0)
-        self.driver.set_page_load_timeout(180)
+        self.driver.set_page_load_timeout(300)
         self.driver.set_script_timeout(60)

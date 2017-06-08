@@ -15,13 +15,13 @@ if __name__ == '__main__':
     signal.signal(signal.SIGINT, quit)
     signal.signal(signal.SIGTERM, quit)
     modules = {}
-    file_list = util.get_files(basename=True, _pre='get_', _ext='.py', _filter='wechat_id')
+    file_list = util.get_files(basename=True, _pre='get_', _ext='.py', _filter='wechat')
     firefox = Firefox()
     firefox.init()
     firefox.find_info()
     index = 0
     while True:
-        name = file_list[index]
+        name = file_list[index%len(file_list)]
         util.print_d(name)
         if name not in modules:
             modules[name] = __import__(name)
@@ -35,7 +35,9 @@ if __name__ == '__main__':
         spider.browse_page()
         print('\n\n')
         index += 1
-        if index >= len(file_list):
+        if index % len(file_list) == 0:
+            time.sleep(3600)
+        if index / len(file_list) == 2:
             break
         time.sleep(600)
 
