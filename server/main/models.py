@@ -55,6 +55,7 @@ def check_data(item):
     if not format_datetime(item):
         return False
 
+    handle_url(item)
     if item.source in ['微信公众号', 'AI研究院']:
         return True
 
@@ -117,3 +118,7 @@ def format_datetime(item):
     date_array = datetime.datetime.fromtimestamp(timestamp)
     item.showtime = date_array.strftime("%Y-%m-%d %H:%M")
     return True
+
+def handle_url(item):
+    if item.source == '微信公众号':
+        item.url = 'http://weixin.sogou.com/weixin?type=2&query=%s'%item.title.replace('原创', '').replace('，', ' ')

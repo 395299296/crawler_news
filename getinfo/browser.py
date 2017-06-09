@@ -89,7 +89,7 @@ class Browser(object):
             traceback.print_exc()
         self.driver.stop_client()
 
-    def find_info(self, days=3):
+    def find_info(self, days=30):
         """find history data in db"""
         self.items_dict = {}
         startdate = int(time.time()) - 3600 * 24 * days
