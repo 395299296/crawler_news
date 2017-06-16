@@ -92,8 +92,8 @@ class Browser(object):
     def find_info(self, days=30):
         """find history data in db"""
         self.items_dict = {}
-        startdate = int(time.time()) - 3600 * 24 * days
-        items = self.db.find_by_date(startdate)
+        # startdate = int(time.time()) - 3600 * 24 * days
+        items = self.db.find_all()
         for x in items:
             self.items_dict[x['title']] = x
 

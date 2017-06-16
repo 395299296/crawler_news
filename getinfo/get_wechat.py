@@ -25,7 +25,7 @@ class Spider(Firefox):
         if index == -1:
             for i, x in enumerate(item_list):
                 if x['title'] == curr_title:
-                    index = i + 1
+                    index = i
                     break
             else:
                 index = 0
@@ -92,8 +92,7 @@ class Spider(Firefox):
         if loop_count < 100:
             loop_count += 1
             self.parse_page(index+1)
-        else:
-            ini.set("get_wechat","title",item_list[index]['title'])
+            ini.set("get_wechat","title",item_list[index+1]['title'])
             ini.write(open(os.path.join(config.output_path, "progress.ini"), 'w', encoding='utf-8'))
 
 def read_info(filename):
