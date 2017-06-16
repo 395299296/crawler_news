@@ -91,9 +91,9 @@ class Spider(Firefox):
         global loop_count
         if loop_count < 100:
             loop_count += 1
-            self.parse_page(index+1)
             ini.set("get_wechat","title",item_list[index+1]['title'])
             ini.write(open(os.path.join(config.output_path, "progress.ini"), 'w', encoding='utf-8'))
+            self.parse_page(index+1)
 
 def read_info(filename):
     """read history data from local file"""
