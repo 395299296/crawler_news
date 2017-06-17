@@ -103,7 +103,7 @@ def read_info(filename):
         return None
 
     tmp_dict = {}
-    with codecs.open(input_file, 'r', encoding='utf-8') as f:
+    with open(input_file, 'r', encoding='utf-8') as f:
         txt = f.read()
         if not txt:
             return None
