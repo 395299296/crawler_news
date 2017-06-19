@@ -9,7 +9,8 @@ item_dict = {}
 keywords = []
 last_time = None
 logger = logging.getLogger(__name__)
-logging.basicConfig(level=logging.INFO, format='[%(asctime)s]%(message)s', datefmt='%Y-%m-%d %H:%M:%S')
+log_file = os.path.join(os.path.dirname(__file__), '../../log.log')
+logging.basicConfig(level=logging.INFO, format='[%(asctime)s]%(message)s', datefmt='%Y-%m-%d %H:%M:%S', filename=log_file, filemode="a")
 
 class Items(db.Document):
     source = db.StringField(required=True)

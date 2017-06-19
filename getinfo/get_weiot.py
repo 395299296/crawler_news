@@ -17,12 +17,12 @@ class Spider(Firefox):
 
     def parse_ele(self, ele):
         content_ele = ele.find_element_by_xpath('a')
+        url = content_ele.get_attribute("href")
         content_ele = content_ele.find_element_by_class_name('wqpc_con')
         title_ele = content_ele.find_element_by_xpath('h3')
         title = title_ele.text
         if not title or title in self.items_dict: return
         self.logger.info(title)
-        url = title_ele.get_attribute("id")
         content_ele = content_ele.find_element_by_xpath('p')
         time_ele = ele.find_element_by_class_name('wqpc_info')
         time_ele = time_ele.find_elements_by_xpath('span')[1]
@@ -32,7 +32,7 @@ class Spider(Firefox):
         item_data = self.item.copy()
         item_data['source'] = '威腾网'
         item_data['title'] = title
-        item_data['url'] = 'http://www.weiot.net/' + url
+        item_data['url'] = url
         item_data['catalog'] = '人工智能'
         item_data['content'] = content
         item_data['datetime'] = dt

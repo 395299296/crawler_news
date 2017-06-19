@@ -1,6 +1,7 @@
 from browser import Firefox
 from common import config
 from common import util
+from common import urls
 from imp import reload
 import threading, signal
 import time, sys
@@ -30,7 +31,7 @@ if __name__ == '__main__':
 
         c = getattr(modules[name], 'Spider')
         s = name.replace('get_', '')
-        spider = c(s, config.urls[s])
+        spider = c(s, urls.urls[s])
         spider.clone(firefox)
         spider.browse_page()
         print('\n\n')
