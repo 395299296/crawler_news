@@ -1,11 +1,12 @@
-import os
-
 from flask import Flask
 from flask_mongoengine import MongoEngine
 from flask_principal import Principal 
+import threading
+import os, time
 
 db = MongoEngine()
 principals = Principal()
+lock = threading.Condition()
 
 def create_app(config_name):
     from .config import config
@@ -27,4 +28,24 @@ def create_app(config_name):
 
     return app
 
+class Loop(threading.Thread):
+    def __init__(self, lock):
+        self._lock = lock
+        threading.Thread.__init__(self)
+ 
+    def run(self):
+        while True:
+            if self._lock.acquire():
+                self.tick()
+                self._lock.release()
+            time.sleep(60)
+
+    def tick(self):
+        from main import models
+        models.add_data()
+
 app = create_app(os.getenv('config') or 'prd')
+
+l = Loop(lock)
+l.setDaemon(True)
+l.start()
