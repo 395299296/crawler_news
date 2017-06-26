@@ -748,7 +748,7 @@
   "url": "http://mp.weixin.qq.com/profile?src=3&timestamp=1495678611&ver=1&signature=9aE3D8O0rJ7lRWtmCal0dT05hzdqZ77-IfkTBzcKCYoODmM4YgOc4uTFPtGqFDDH2Y0Ih3ONHXTBAvHJzNaGpg==",
   "content": "人工智能领域",
   "datetime": "2017-05-25",
-  "wid": "gh_ecd58e266221",
+  "wid": "DATADUOAI_CLUB",
   "active": 0,
   "article": "生活因此变得可爱,神器时代!",
   "timestamp": 1495641600.0

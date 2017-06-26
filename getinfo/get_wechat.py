@@ -32,6 +32,8 @@ class Spider(Firefox):
         if index >= len(item_list):
             index = 0
         self.logger.info('%s:%d/%d', item_list[index]['title'], index + 1, len(item_list))
+        ini.set("get_wechat","title",item_list[index]['title'])
+        ini.write(open(os.path.join(config.output_path, "progress.ini"), 'w', encoding='utf-8'))
         self.get_page('http://weixin.sogou.com/weixin?query=%s' % item_list[index]['wid'])
         try:
             news_ele = self.driver.find_element_by_class_name('news-box')
@@ -91,8 +93,6 @@ class Spider(Firefox):
         global loop_count
         if loop_count < 100:
             loop_count += 1
-            ini.set("get_wechat","title",item_list[index+1]['title'])
-            ini.write(open(os.path.join(config.output_path, "progress.ini"), 'w', encoding='utf-8'))
             self.parse_page(index+1)
 
 def read_info(filename):
