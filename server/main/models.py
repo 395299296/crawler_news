@@ -106,6 +106,7 @@ def add_data():
             count += 1
         last_time = x.eventtime
 
+    logger.info("pre data:%s,%s,%s,%s", last_time, len(data_list), count, len(item_list))
     if count > 0:
         item_list = sorted(item_dict.values(), key=lambda x : x['eventtime'], reverse=True)
     logger.info("add data:%s,%s,%s,%s", last_time, len(data_list), count, len(item_list))
