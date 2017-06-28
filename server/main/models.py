@@ -86,9 +86,11 @@ def check_data(item):
     return False
 
 def get_data(index=0):
+    global last_time
     count = 20
     start = index * count
     end = (index + 1) * count
+    logger.info("get data:%s,%s,%s,%s", last_time, start, end, len(item_list))
     return item_list[start:end]
 
 def add_data():
