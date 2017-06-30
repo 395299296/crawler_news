@@ -11,7 +11,7 @@ lock = threading.Condition()
 def create_app(config_name):
     from .config import config
     from main.urls import main
-    from main import models
+    from main.models import Models
 
     app = Flask(__name__, 
         template_folder=config[config_name].TEMPLATE_PATH, static_folder=config[config_name].STATIC_PATH)
@@ -20,7 +20,7 @@ def create_app(config_name):
     config[config_name].init_app(app)
 
     db.init_app(app)
-    models.load_data()
+    Models().load_data()
 
     principals.init_app(app)
 
@@ -41,8 +41,8 @@ class Loop(threading.Thread):
             time.sleep(60)
 
     def tick(self):
-        from main import models
-        models.add_data()
+        from main.models import Models
+        Models().add_data()
 
 app = create_app(os.getenv('config') or 'prd')
 

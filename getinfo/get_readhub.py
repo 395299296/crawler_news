@@ -1,12 +1,13 @@
 from browser import Firefox
-import time, datetime
+import time, datetime, re
 
 class Spider(Firefox):
     """docstring for Spider"""
     def __init__(self, name, home_page):
         super(Spider, self).__init__(name, home_page)
           
-    def parse_page(self, index=0):
+    def parse_page(self, index=-1):
+        last_index = index
         news_ele = self.driver.find_elements_by_class_name('timelineItem___1T6m9')
         for i, x in enumerate(news_ele):
             if i < index: continue
@@ -15,8 +16,8 @@ class Spider(Firefox):
                 index = i
             except Exception as e:
                 print(e)
-        if index >= 10: return
-        print('-'*50, index)
+        if index >= 100 or last_index == index: return
+        print('-'*100, index)
         btn_ele = self.driver.find_element_by_class_name('listButtonFix___2Thj0')
         btn_ele = btn_ele.find_element_by_xpath('button/span')
         btn_ele.click()
@@ -35,14 +36,16 @@ class Spider(Firefox):
         meta = info_ele.text.split(' •')
         source = meta[0]
         dt = meta[1]
+        mode = re.compile(r'\d+')
+        difftime = mode.findall(dt)[0]
         if '分钟' in dt:
-            date_time = datetime.datetime.now() - datetime.timedelta(minutes=int(dt.split(' ')[0]))
+            date_time = datetime.datetime.now() - datetime.timedelta(minutes=int(difftime))
             dt = date_time.strftime('%Y-%m-%d %H:%M')
         elif '小时' in dt:
-            date_time = datetime.datetime.now() - datetime.timedelta(hours=int(dt.split(' ')[0]))
+            date_time = datetime.datetime.now() - datetime.timedelta(hours=int(difftime))
             dt = date_time.strftime('%Y-%m-%d %H:%M')
         elif '天' in dt:
-            date_time = datetime.datetime.now() - datetime.timedelta(days=int(dt.split(' ')[0]))
+            date_time = datetime.datetime.now() - datetime.timedelta(days=int(difftime))
             dt = date_time.strftime('%Y-%m-%d %H:%M')
         item_data = self.item.copy()
         item_data['source'] = source
