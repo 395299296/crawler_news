@@ -59,6 +59,7 @@ class Models(Singleton):
         self.item_dict = {}
         self.item_list = []
         self.last_time = None
+        self.load_time = time.time()
         data_list = Items.objects.all()
         self.keywords = self.get_keywords()
         count = 0
@@ -109,6 +110,8 @@ class Models(Singleton):
         return False
 
     def get_data(self, index=0):
+        if time.time() - self.load_time > 60:
+            self.add_data()
         count = 20
         start = index * count
         end = (index + 1) * count
@@ -119,6 +122,7 @@ class Models(Singleton):
         if self.last_time == None:
             return
         count = 0
+        self.load_time = time.time()
         data_list = Items.objects(eventtime__gt=self.last_time)
         for x in data_list:
             if self.check_data(x):

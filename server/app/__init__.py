@@ -46,6 +46,6 @@ class Loop(threading.Thread):
 
 app = create_app(os.getenv('config') or 'prd')
 
-l = Loop(lock)
-l.setDaemon(True)
-l.start()
+# l = Loop(lock)
+# l.setDaemon(True)
+# l.start()
